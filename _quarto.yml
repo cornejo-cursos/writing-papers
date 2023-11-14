@@ -17,7 +17,7 @@ website:
   favicon: "/files/img/pucp-favicon-512.png"
 
 -+
-  navbar:
+  navbar: 
     pinned: true
     background: "#042354"
     right:
