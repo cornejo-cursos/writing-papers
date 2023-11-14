@@ -16,19 +16,16 @@ website:
 
   favicon: "/files/img/pucp-favicon-512.png"
 
--+
   navbar: 
     pinned: true
     background: "#042354"
     right:
-
       - text: "Estudio de caso"
         file: caso/index.qmd
       - text: "Tesis modelo"
         href: modelo.qmd
       - text: "Reglamentos"
         file: reglamentos/index.qmd
-      - logo: "/files/img/PUCP-negativo.png"
 
   sidebar:
     - title: "Estudio de caso"
