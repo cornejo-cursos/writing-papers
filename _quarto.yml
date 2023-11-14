@@ -1,0 +1,88 @@
+project:
+  type: website
+  
+  resources:
+    - "files/"
+
+execute:
+  freeze: auto  # Re-render only when source changes
+
+bibliography: references.bib
+csl: apa.csl
+
+website:
+  title: "Guías de escritura"
+  site-url: "https://econpucp.github.io/"
+
+  favicon: "/files/img/pucp-favicon-512.png"
+
+-+
+  navbar:
+    pinned: true
+    background: "#042354"
+    right:
+
+      - text: "Estudio de caso"
+        file: caso/index.qmd
+      - text: "Tesis modelo"
+        href: modelo.qmd
+      - text: "Reglamentos"
+        file: reglamentos/index.qmd
+      - logo: "/files/img/PUCP-negativo.png"
+
+  sidebar:
+    - title: "Estudio de caso"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Objetivo"
+          contents:
+            - caso/index.qmd
+        - section: "Contenido"
+          contents:
+            - text: "1: Capítulo 1"
+              file: caso/01-caso.qmd
+            - text: "2: Capítulo 2"
+              file: caso/02-caso.qmd
+            - text: "3: Capítulo 3"
+              file: caso/03-caso.qmd
+            - text: "4: Capítulo 4"
+              file: caso/04-caso.qmd              
+            - text: "5: Capítulo 5"
+              file: caso/05-caso.qmd
+
+    - title: "Tesis modelo"
+      contents:
+        - section: "Objetivo"
+          contents:
+            - example/index.qmd
+        - section: "Ejemplos por especialidad"
+          contents:
+            - text: "Random numbers"
+              file: example/random-numbers.qmd
+            - text: "Synthetic data"
+              file: example/synthetic-data.qmd
+        - section: "Sección 3"
+          contents:
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
