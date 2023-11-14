@@ -2,7 +2,7 @@
 title: "Tesis PUCP - Mapa de navegación"
 subtitle: "Portal de recursos para la investigación científica y la escritura académica"
 details: |
-  "Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP)."
+  Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
 sidebar: false
 toc: false
 page-layout: full
