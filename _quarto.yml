@@ -22,14 +22,10 @@ website:
         file: caso/index.qmd
       - text: "Tesis modelo"
         href: modelo.qmd
-<<<<<<< HEAD
       - text: "Recursos"
         file: resource/index.qmd
-      - logo: "/files/img/PUCP-negativo.png"
-=======
       - text: "Reglamentos"
         file: reglamentos/index.qmd
->>>>>>> afb8ce689ad250c05bbea655dbc7e2dd5ea2d63e
 
   sidebar:
     - title: "Estudio de caso"
