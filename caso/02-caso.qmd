@@ -2,21 +2,92 @@
 title: "La rigurosidad en el estudio de caso"
 ---
 
+
+
+## La rigurosidad en el estudio de caso
+
+### Rigurosidad del manuscrito (tesis escrita completa)
+
+Estructura lógica rigurosa, evidencia convincente del caso y conexiones con la literatura académica pertinente.
+
+1.  La estructura lógica rigurosa nos permite evaluar si su postura es razonable y defendible. Una postura razonable está justificada por sus argumentos. Una postura defendible se puede defender de refutaciones. Además, cada argumento requiere evidencia como respaldo. La lógica nos permite evaluar si la evidencia respalda el argumento que usted está presentando e identificar los puntos débiles para refutar.
+
+2.  La evidencia analizada es convincente para una audiencia de científicos sociales bien delimitada (la sociología política)
+
+3.  Por último, una argumentación académica rigurosa demuestra un dominio de la literatura pertinente.
+
+### Rigurosidad del diseño
+
+Problema de investigación → pregunta de investigación → conceptos y marcos teóricos → diseño de investigación → recolección de datos → análisis de datos
+
+## Justificar las elecciones
+
 En esta guía recomiendo escribir con el objetivo de persuadir al lector de la pertinencia todas nuestras elecciones (metodológicas, analíticas y de escritura). Ello demanda del escritor lo siguiente: 1) hacer explícitas todas las elecciones y 2) justificar dichas elecciones.
 
-Elecciones metodológicas
+### Elecciones metodológicas
 
 Frente a la diversidad de posturas ontológicas, epistemológicas, tradiciones y enfoques que conviven en nuestras disciplinas, es común declararse pluralista y es fácil resbalar en el eclecticismo, donde se relajan los criterios para evaluar el rigor que cada enfoque ha desarrollado. En esta guía, doy un paso atrás y propongo el agnosticismo en lugar del pluralismo metodológico. La diferencia la entiendo de la siguiente manera: cualquier investigación deberá demostrar su rigurosidad mediante la justificación minuciosa de sus elecciones metodológicas. Esto no es siempre posible en un artículo publicado por que existen restricciones de espacio severas y la audiencia de lectores es más especializada. Una audiencia especializada no necesita leer una enésima justificación de una ruta metodológica. Una tesis, por el contrario, tiene más espacio y evalúa de manera explícita las justificaciones metodológicas de sus discentes. Esta guía asume y recomienda escribir para el lector incrédulo, no para el investigador pluralista que acepta a priori que muchos diseños poseen el mismo valor, sino para el evaluador descreído que requiere persuasión.
 
-Elecciones analíticas
+### Elecciones analíticas
 
+### Elecciones de escritura
 
-Elecciones de escritura
+## Las normas
 
+### Criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP
 
+El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022"](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.)
 
-## La investigación rigurosa de un estudio de caso
+::: {.callout-note collapse="true"}
+## Criterios mínimos de calidad
+
+> 1.  Que sea un trabajo original, inédito y no cometa plagio.
+> 2.  Que esté redactado en lenguaje académico y no tenga faltas de ortografía.
+> 3.  Que conste de las siguientes partes: introducción, capitulado o secciones, conclusiones y bibliografía (en formato APA más reciente).
+> 4.  Que presente y trabaje explícitamente: problema de investigación, justificación, problemática o discusión del tema, marco teórico o referencias teóricas, metodología, proceso de sistematización y análisis y conclusiones o reflexiones finales.
+> 5.  Que tenga coherencia entre todas las partes.
+> 6.  Que siga el formato indicado por la FCCSS.
+:::
+
+::: {.callout-note collapse="true"}
+## Menciones: sin mención, bien, muy bien, sobresaliente
+
+1.  Durante la sustentación de la tesis, los tres miembros del jurado pueden aprobar o desaprobar el trabajo por mayoría o por unanimidad.
+2.  Cuando la tesis se aprueba por unanimidad, los tres miembros del jurado calificar el trabajo con una mención (bien, muy bien, sobresaliente) o aprobarlo sin mención.
+:::
+
+::: {.callout-note collapse="true"}
+## La rúbrica de calificación
+
+Existe una [rúbrica de calificación](resource/rúbrica.qmd) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo. ![Rúbrica](files/img/rubrica.png).
+:::
+
+## ¿Cómo evaluar un estudio de caso?
 
 ## Los criterios de calificación
 
-## Criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP
+## Un estudio de caso con calificación (mención) sobresaliente
+
+### Planteamiento del problema y desarrollo de la problemática
+
+> Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.
+
+### Referentes teóricos
+
+> Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina.
+
+### Datos y métodos
+
+> Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos
+
+### Presentación de hallazgos y conclusiones
+
+> Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.
+
+Además del texto de la tesis, existe un criterio para evaluar la exposición oral del trabajo durante la sustentación.
+
+::: {.callout-note collapse="true"}
+### Exposición oral
+
+> La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos que facilitan la comprensión. Respeta el tiempo asignado y responde con solvencia las preguntas del jurado.
+:::

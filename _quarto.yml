@@ -26,8 +26,8 @@ website:
         file: caso/index.qmd
       - text: "Tesis modelo"
         href: modelo.qmd
-      - text: "Reglamentos"
-        file: reglamentos/index.qmd
+      - text: "Recursos"
+        file: resource/index.qmd
       - logo: "/files/img/PUCP-negativo.png"
 
   sidebar:
@@ -50,6 +50,8 @@ website:
             - text: "4: Capítulo 4"
               file: caso/04-caso.qmd              
             - text: "5: Capítulo 5"
+              file: caso/05-caso.qmd
+            - text: "6: Capítulo 6"
               file: caso/05-caso.qmd
 
     - title: "Tesis modelo"
