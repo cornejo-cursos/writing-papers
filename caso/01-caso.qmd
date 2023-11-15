@@ -1,5 +1,5 @@
 ---
-title: "El estudio de caso en las Ciencias Sociales"
+title: "1. El estudio de caso en las Ciencias Sociales"
 ---
 
 ## ¿Por qué hacer una tesis tipo estudio de caso?
@@ -9,4 +9,3 @@ Es el diseño metodológico más frecuente de las tesis de licenciatura de la fa
 Síguela si ya decidiste realizar una investigación con un diseño tipo estudio de caso. En el caso ideal, el diseño se elige luego de escoger tu pregunta de investigación. Sin embargo, es igual de justificable el elegir un estudio de caso para aprender y demostrar dominio de este tipo de investigaciones.
 
 ## La racionalidad del estudio de caso
-

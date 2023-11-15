@@ -2,7 +2,7 @@
 title: "Tesis PUCP - Mapa de navegación"
 subtitle: "Portal de recursos para la investigación científica y la escritura académica"
 details: |
-  "Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP)".
+  Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica mantenida por la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
 sidebar: false
 toc: false
 page-layout: full
@@ -16,30 +16,31 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 ::: home
 ::: {.grid .course-details}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Autor
+### <i class="bi bi-person-vcard"></i> Autor
 
--   {{< fa user >}}   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
--   {{< fa university >}}   {{< var university.name >}}
--   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
--   {{< fa brands twitter >}}   [{{< var instructor.twitter >}}](https://www.twitter.com/%7B%7B%3C%20var%20instructor.twitter%20%3E%7D%7D)
--   {{< fa brands linkedin >}}   [{{< var instructor.linkedin >}}](https://www.twitter.com/in/%7B%7B%3C%20var%20instructor.linkedin%20%3E%7D%7D)
+-   <i class="bi bi-person-fill"></i>   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
+-   <i class="bi bi-bank2"></i>   {{< var university.name >}}
+-   <i class="bi bi-envelope-fill"></i>   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+-   <i class="bi bi-twitter"></i>   [{{< var instructor.twitter >}}](https://www.twitter.com/%7B%7B%3C%20var%20instructor.twitter%20%3E%7D%7D)
+-   <i class="bi bi-linkedin"></i>   [{{< var instructor.linkedin >}}](https://www.linkedin.com/in/%7B%7B%3C%20var%20instructor.linkedin%20%3E%7D%7D)
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Guías disponibles
 
--   {{< fa book >}}   Tesis estudio de caso
--   {{< fa book >}}   Reporte profesional (no académico)
+-   <i class="bi bi-calendar2-check"></i>   [Tesis estudio de caso](/caso/index.qmd)
+-   <i class="bi bi-check2-square"></i>   Reporte profesional (no académico)
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-### {{< fa cog >}}   Guías en construcción
+### <i class="bi bi-map"></i>   Guías en construcción
 
--   {{< fa book >}}   Tesis estudio comparado
--   {{< fa book >}}   Tesis cuantitativa no econométrica
--   {{< fa book >}}   Tesis cuantitativa econométrica
--   {{< fa book >}}   Ensayo de investigación científica
--   {{< fa book >}}   Etnografía
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis estudio comparado
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa no econométrica
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa econométrica
+-   <i class="bi bi-file-earmark-lock2"></i>   Ensayo de investigación científica
+-   <i class="bi bi-file-earmark-lock2"></i>   Etnografía
+
 :::
 :::
 

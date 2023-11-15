@@ -11,21 +11,26 @@ csl: files/bib/apa.csl
 website:
   title: "Guías de escritura"
   site-url: "https://econpucp.github.io/"
- 
+  page-navigation: true 
   favicon: "/files/img/pucp-favicon-512.png"
 
   navbar: 
     pinned: true
-    background: "#042354"
+    background: primary
+    foreground: light
     right:
       - text: "Estudio de caso"
         file: caso/index.qmd
+        icon: book-half
       - text: "Tesis modelo"
         href: modelo.qmd
+        icon: binoculars
       - text: "Recursos"
         file: resource/index.qmd
+        icon: bookshelf
       - text: "Reglamentos"
         file: reglamentos/index.qmd
+        icon: file-earmark-pdf
 
   sidebar:
     - title: "Estudio de caso"
@@ -38,9 +43,17 @@ website:
             - caso/index.qmd
         - section: "Contenido"
           contents:
-            - text: "1: Capítulo 1"
+            - caso/01-caso.qmd
+            - caso/02-caso.qmd
+            - caso/03-caso.qmd
+            - caso/04-caso.qmd              
+            - caso/05-caso.qmd
+            - caso/06-caso.qmd
+        - section: "Contenido repetido"
+          contents:        
+            - text: "Capítulo 1: El estudio de caso en las Ciencias Sociales"
               file: caso/01-caso.qmd
-            - text: "2: Capítulo 2"
+            - text: "2. La rigurosidad en el estudio de caso"
               file: caso/02-caso.qmd
             - text: "3: Capítulo 3"
               file: caso/03-caso.qmd
@@ -67,7 +80,7 @@ website:
 
   page-footer:
     left: |
-      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      Content <i class="bi bi-cc-circle"></i> {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -83,5 +96,3 @@ format:
     highlight-style: monokai
   pdf:
     documentclass: scrreprt
-
-editor: visual
