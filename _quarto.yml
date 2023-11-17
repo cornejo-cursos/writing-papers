@@ -55,7 +55,7 @@ website:
           contents:        
             - text: "Capítulo 1: El estudio de caso en las Ciencias Sociales"
               file: caso/01-caso.qmd
-            - text: "2. La rigurosidad en el estudio de caso"
+            - text: "Capítulo 2. La rigurosidad en el estudio de caso"
               file: caso/02-caso.qmd
             - text: "3: Capítulo 3"
               file: caso/03-caso.qmd
