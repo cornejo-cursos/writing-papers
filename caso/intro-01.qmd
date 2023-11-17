@@ -44,9 +44,6 @@ Aunque todos los trabajos deben presentar cierta información, no existe una con
 
 La [capítulo 2](/caso/02-caso.qmd) presenta los criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP. Además, discute el significado de estos criterios en el caso de una tesis de este tipo y, por último, ilustra con ejemplos cómo se logra cumplir con el máximo nivel de desempeño en cada criterio.
 
-## ¿Cómo usar esta guía?
-
-
 ## ¿Cómo citar esta guía?
 
 Pendiente: Generar DOI para esta guía.

@@ -20,7 +20,7 @@ website:
     foreground: light
     right:
       - text: "Estudio de caso"
-        file: caso/index.qmd
+        file: caso/intro-01.qmd
         icon: book-half
       - text: "Tesis modelo"
         href: modelo.qmd
@@ -38,9 +38,11 @@ website:
       search: false
       background: dark
       contents:
-        - section: "¿Qué ofrece esta guía?"
+        - section: "Apuntes preliminares"
           contents:
-            - caso/index.qmd
+            - caso/intro-01.qmd
+            - caso/intro-02.qmd
+            - caso/intro-03.qmd
         - section: "Contenido"
           contents:
             - caso/01-caso.qmd
