@@ -57,7 +57,7 @@ El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes 
 ::: {.callout-note collapse="true" icon="false"}
 ## La rúbrica de calificación
 
-Existe una [rúbrica de calificación](resource/rúbrica.qmd) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo. ![Rúbrica](/files/img/rubrica.png).
+Existe una [rúbrica de calificación](/resource/rubrica.qmd) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo. ![Rúbrica](/files/img/rubrica.png).
 :::
 
 ## ¿Cómo evaluar un estudio de caso?

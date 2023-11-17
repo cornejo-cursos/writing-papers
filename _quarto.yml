@@ -23,7 +23,7 @@ website:
         file: caso/intro-01.qmd
         icon: book-half
       - text: "Tesis modelo"
-        href: modelo.qmd
+        href: ej/index.qmd
         icon: binoculars
       - text: "Recursos"
         file: resource/index.qmd
@@ -68,18 +68,16 @@ website:
 
     - title: "Tesis modelo"
       contents:
-        - section: "Objetivo"
+        - section: "Empieza aquí"
           contents:
-            - example/index.qmd
+            - ej/index.qmd
         - section: "Ejemplos por especialidad"
           contents:
-            - text: "Random numbers"
-              file: example/random-numbers.qmd
-            - text: "Synthetic data"
-              file: example/synthetic-data.qmd
-        - section: "Sección 3"
+            - ej/sociologia.qmd
+            - ej/ciencia-politica.qmd
+        - section: "Ejemplos por tipo de tesis"
           contents:
-
+            - ej/ej-caso.qmd
   page-footer:
     left: |
       Content <i class="bi bi-cc-circle"></i> {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>

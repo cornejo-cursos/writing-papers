@@ -1,0 +1,3 @@
+---
+title: "Ejemplos de tesis tipo estudio de caso"
+---

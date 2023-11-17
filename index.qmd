@@ -28,7 +28,7 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Guías disponibles
 
--   <i class="bi bi-calendar2-check"></i>   [Tesis estudio de caso](/caso/index.qmd)
+-   <i class="bi bi-calendar2-check"></i>   [Tesis estudio de caso](/caso/intro-01.qmd)
 -   <i class="bi bi-check2-square"></i>   Reporte profesional (no académico)
 :::
 
@@ -40,11 +40,10 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 -   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa econométrica
 -   <i class="bi bi-file-earmark-lock2"></i>   Ensayo de investigación científica
 -   <i class="bi bi-file-earmark-lock2"></i>   Etnografía
-
 :::
 :::
 
 ```{r echo=FALSE}
-knitr::include_graphics(here::here("files", "img", "tesis-flowchart.png"), error = FALSE)
+knitr::include_graphics(here::here("files", "img", "ccss-biblioteca.jpg"), error = FALSE)
 ```
 :::

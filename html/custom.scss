@@ -26,6 +26,8 @@ $green:   #02b875 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
+// Color original link activo de la barra de navegación #FFC361
+
 // Blue, red and yellow los cambio de inferno a colores pucp
 $blue:    #41B9E4 !default;
 $red:     #E23008 !default;
@@ -89,7 +91,7 @@ ol {
 
 // Custom active link colors
 .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active {
-  color: $azul-pucp1;
+  color: $yellow;
 }
 
 div.sidebar-item-container .active, div.sidebar-item-container .show > .nav-link, div.sidebar-item-container .sidebar-link > code {
