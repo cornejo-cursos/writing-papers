@@ -34,11 +34,11 @@ title-block-published: "Fecha de publicación"
 title-block-modified: "Fecha de modificación"
 title-block-keywords: "Palabras clave"
 
-callout-tip-title: "Tip"
-callout-note-title: "Nota"
-callout-warning-title: "Advertencia"
-callout-important-title: "Importante"
-callout-caution-title: "Precaución"
+callout-tip-title: "La clave"
+callout-note-title: "Información"
+callout-warning-title: "Ejemplo"
+callout-important-title: "Descubre más"
+callout-caution-title: "Advertencia"
 
 code-summary: "Código"
 

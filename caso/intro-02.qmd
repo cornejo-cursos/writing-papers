@@ -7,3 +7,31 @@ title: "¿Cómo usar esta guía?"
 ## Para evaluar tu trabajo con rigurosidad
 
 ## Para entender la estructura de una tesis de este tipo
+
+
+Este libro ofrece:
+
+:::{.callout-tip}
+Ideas principales: 
+`ideas clave`, `la esencia`, `tips` y `secretos del arte`.
+:::
+
+:::{.callout-note}
+Información adicional más relevante:
+`normas`, `recursos`, `herramientas`, `estadísticas` y `tendencias`
+:::
+
+:::{.callout-warning}
+Ejemplos: 
+`trabajos sobresalientes`
+:::
+
+:::{.callout-important}
+Principales recursos para conocer más:
+`lecturas clave` y `fuentes más relevantes`
+:::
+
+:::{.callout-caution}
+Advertencias: 
+`errores frecuentes`, `faltas graves`, `peligros` y `descuidos comunes`
+:::

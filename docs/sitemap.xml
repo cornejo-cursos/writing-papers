@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://econpucp.github.io/resource/rubrica.html</loc>
-    <lastmod>2023-11-17T21:45:07.864Z</lastmod>
+    <lastmod>2023-11-18T08:03:21.426Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/ej/sociologia.html</loc>
@@ -14,11 +14,11 @@
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-03.html</loc>
-    <lastmod>2023-11-17T23:27:53.584Z</lastmod>
+    <lastmod>2023-11-18T08:09:59.275Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-01.html</loc>
-    <lastmod>2023-11-18T03:15:20.348Z</lastmod>
+    <lastmod>2023-11-18T08:09:56.434Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/05-caso.html</loc>
@@ -30,11 +30,11 @@
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/01-caso.html</loc>
-    <lastmod>2023-11-17T23:43:55.824Z</lastmod>
+    <lastmod>2023-11-18T08:10:01.348Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/02-caso.html</loc>
-    <lastmod>2023-11-17T23:26:04.305Z</lastmod>
+    <lastmod>2023-11-18T08:10:04.755Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/04-caso.html</loc>
@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-02.html</loc>
-    <lastmod>2023-11-17T23:27:55.450Z</lastmod>
+    <lastmod>2023-11-18T08:09:57.718Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/ej/ciencia-politica.html</loc>
@@ -54,10 +54,14 @@
   </url>
   <url>
     <loc>https://econpucp.github.io/index.html</loc>
-    <lastmod>2023-11-17T22:06:05.398Z</lastmod>
+    <lastmod>2023-11-18T06:48:03.188Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/index.html</loc>
-    <lastmod>2023-11-18T03:14:52.652Z</lastmod>
+    <lastmod>2023-11-18T07:54:21.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/resource/index.html</loc>
+    <lastmod>2023-11-18T07:05:46.799Z</lastmod>
   </url>
 </urlset>
