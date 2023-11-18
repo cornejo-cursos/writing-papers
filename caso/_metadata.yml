@@ -1,7 +1,7 @@
 date-heading:
-  content: "Content for"
+  content: "Actualizado:"
   class: "bg-content"
-date-format: "full"
+date-format: "DD/MM/YYYY"
 
 format:
   html:

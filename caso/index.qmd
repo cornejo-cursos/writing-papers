@@ -1,0 +1,70 @@
+---
+title: "Escribir un estudio de caso"
+subtitle: "Guía de escritura de tesis tipo estudio de caso no comparativo"
+date-format: DD/MM/YYYY
+date: "01/12/2023"
+---
+
+Autor:
+
+Actualización:
+
+## Propuesta
+
+Esta guía te orientará en la ***escritura*** de una tesis que estudie en profundidad un solo caso sin fines de comparación. El caso puede construirse con el estudio de a profundidad de individuos, comunidades, grupos, organizaciones, instituciones, eventos, políticas o procesos. A una investigación con este diseño se le llama ***estudio de caso*** y existe una creciente variedad de preferencias y recetas para planificar, ejecutar y evaluar dicha investigación. Sin embargo, las indicaciones para escribir el documento final se limitan a una sección denominada *writing up* en los manuales en inglés o *tips* que recopilan los consejos más útiles de investigadores experimentados. Lo que hace falta, es pasar de la recopilación de consejos a indicaciones flexibles pero integrales, que guíen la redacción de una tesis de este tipo desde el principio hasta el final. Una carencia asociada es la falta de criterios para evaluar la calidad de una tesis de este formato. Con esta guía lleno estos vacíos relacionados: proporciono instrucciones para redactar y evaluar una tesis completa basada en un estudio de caso (no comparativo).
+
+::: {.callout-tip icon="false"}
+## No es un libro de metodología
+
+Esta guía de ***escritura*** complementa tus cursos y libros de metodología, no los sutituye.
+:::
+
+Esta Guía no es un libro de metodología; en cambio, es una guía de escritura de la tesis. La tesis consiste en el manuscrito final para obtener el grado de Bachiller siguiendo las reglamentaciones de la facultad de Ciencias Sociales de la PUCP. Es decir, esta guía no sustituye a los cursos ni a los libros de metodología; más bien, los complementa.
+
+## ¿Por dónde empiezo?
+
+[La guía es un libro breve y específico a un tipo de tesis, y está formado por capítulos. Además, la guía está integrada dentro de un portal web o *hub* de recursos que está formado por secciones (ejemplos, recursos, reglamentos) más generales.]{.aside} La guía es minimalista y ofrece varias posibilidades de navegación. Te recomiendo empezar por el inicio para que te enteres ¿qué ofrece esta guía? y, en base a ello, puedas decidir si la lees en el orden que propongo o te diriges a la sección o capítulo de tu interés.
+
+# Delete from here
+
+[Nota al margen.]{.aside}
+
+"Un conjunto de prácticas, hallazgos y enfoques que permiten la construcción de experimentos robustos, precisos y generalizables"
+
+::: column-margin
+Columna al margen *textos* **con énfasis** ***más énfasis***
+:::
+
+Here is an inline note.[^1]
+
+[^1]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
+
+::: column-margin
+![A margin image](/files/img/PUCP-logo-alta-solobarco.png){.aside} Texto que describe la imagen
+:::
+
+Texto a continuación de la imagen al margen Continuar escribiendo otro parrafo
+
+Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
+
+![Three reasons why money and happiness can be correlated.](/files/img/PUCP-logo-alta-solobarco.png){#fig-experiments-money2 .column-margin}
+
+![Three reasons why money and happiness can be correlated.](/files/img/rubrica.png){.column-margin}
+
+Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
+
+Here is a footnote reference [^2]
+
+[^2]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
+
+Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
+
+Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
+
+Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
+
+::: {.callout-note appearance="simple"}
+## Ojo
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+:::

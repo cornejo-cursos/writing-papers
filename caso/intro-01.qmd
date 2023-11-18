@@ -1,16 +1,10 @@
 ---
 title: "¿Qué ofrece esta guía?"
 ---
+
 ## Ejemplos, estándares, estructuras
 
-## Propuesta
-
-Esta guía te orientará en la ***escritura*** de una tesis que estudie en profundidad un solo caso sin fines de comparación. El caso puede construirse con el estudio de a profundidad de individuos, comunidades, grupos, organizaciones, instituciones, eventos, políticas o procesos. A una investigación con este diseño se le llama ***estudio de caso*** y existe una creciente variedad de preferencias y recetas para planificar, ejecutar y evaluar dicha investigación. Sin embargo, las indicaciones para escribir el documento final se limitan a una sección denominada *writing up* en los manuales en inglés o *tips* que recopilan los consejos más útiles de investigadores experimentados. Lo que hace falta, es pasar de la recopilación de consejos a indicaciones flexibles pero integrales, que guíen la redacción de una tesis de este tipo desde el principio hasta el final. Una carencia asociada es la falta de criterios para evaluar la calidad de una tesis de este formato. Con esta guía lleno estos vacíos relacionados: proporciono instrucciones para redactar y evaluar una tesis completa basada en un estudio de caso (no comparativo).
-
-Esta Guía no es un libro de metodología; en cambio, es una guía de escritura de la tesis. La tesis consiste en el manuscrito final para obtener el grado de Bachiller siguiendo las reglamentaciones de la facultad de Ciencias Sociales de la PUCP. Es decir, esta guía no sustituye a los cursos ni a los libros de metodología; más bien, los complementa.
-
-Esta guía ofrece ejemplos, estándares y estructuras textuales (formatos). Los ejemplos te ofrecen modelos e inspiración seleccionados de entre las mejores tesis recientes de la facultad.
-Los estándares de calidad te ofrecen explicaciones sobre los criterios de calificación. Las estructuras textuales te orientan en la escritura de todas las secciones de una tesis de estudio de caso.
+Esta guía ofrece ejemplos, estándares y estructuras textuales (formatos). Los ejemplos te ofrecen modelos e inspiración seleccionados de entre las mejores tesis recientes de la facultad. Los estándares de calidad te ofrecen explicaciones sobre los criterios de calificación. Las estructuras textuales te orientan en la escritura de todas las secciones de una tesis de estudio de caso.
 
 ### Para encontrar ejemplos, modelos e inspiración
 
@@ -30,7 +24,7 @@ Esta Guía ilustra sus indicaciones con ejemplos de tesis recientes de la facult
 Esta guía presenta, discute e ilustra los criterios de evaluación empleados para calificar una tesis en la facultad.
 :::
 
-La [capítulo 2](/caso/02-caso.qmd) presenta los criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP. Además, discute el significado de estos criterios en el caso de una tesis de este tipo y, por último, ilustra con ejemplos cómo se logra cumplir con el máximo nivel de desempeño en cada criterio.
+El [capítulo 2](/caso/02-caso.qmd) presenta los criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP. Además, discute el significado de estos criterios en el caso de una tesis de este tipo y, por último, ilustra con ejemplos cómo se logra cumplir con el máximo nivel de desempeño en cada criterio.
 
 ### Para entender la estructura de una tesis de este tipo
 
@@ -52,7 +46,7 @@ Cornejo, Cesar 2023. Guía de escritura de tesis tipo estudio de caso (no compar
 
 <p class="buttons" style="text-align:center;">
 
-[<i class="bi bi-list-check"></i> Leer esta guía en orden](/caso/01-caso.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver ejemplos de esta tesis](/ej/ej-caso.qmd){.btn .btn-danger}
+[<i class="bi bi-list-check"></i> Leer esta guía en orden](/caso/01-caso.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver ejemplos de este tipo de tesis](/ej/ej-caso.qmd){.btn .btn-danger}
 
 </p>
 
