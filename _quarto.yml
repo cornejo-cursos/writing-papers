@@ -80,9 +80,11 @@ website:
         - section: "Ejemplos por tipo de tesis"
           contents:
             - ej/ej-caso.qmd
+
     - title: "Recursos"
       contents:
             - resource/index.qmd
+            - resource/rubrica.qmd
 
     - title: "Reglamentos"
       contents:

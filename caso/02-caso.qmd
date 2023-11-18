@@ -34,9 +34,11 @@ Frente a la diversidad de posturas ontológicas, epistemológicas, tradiciones y
 
 ### Criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP
 
-El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022"](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.). En ellos se reglamenta lo siguiente:
+El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022"](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.). 
 
+[Rúbrica](/resource/rubrica.qmd#tbl-rubrica)
 
+En ellos se reglamenta lo siguiente:
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Criterios mínimos de calidad
