@@ -15,7 +15,7 @@ Políticas Procesos
 
 ## Letras más pequeñas
 
--   {{< fa brands youtube >}} DJ Patil, ["What Makes a Radical and Revolutionary Technology?"](https://www.youtube.com/watch?v=UOoMzaWOQJA)
+-   <i class="bi bi-youtube"></i> DJ Patil, ["What Makes a Radical and Revolutionary Technology?"](https://www.youtube.com/watch?v=UOoMzaWOQJA)
     -   <small>(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)</small>
 
 ## Footnotes

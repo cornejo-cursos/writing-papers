@@ -35,7 +35,7 @@ Este libro ofrece:
 
 :::{.callout-tip}
 Ideas principales: 
-`ideas clave`, `la esencia`, `tips` y `secretos del arte`.
+`ideas clave`, `la esencia`, `tips` y `secretos del arte`
 :::
 
 :::{.callout-note}
