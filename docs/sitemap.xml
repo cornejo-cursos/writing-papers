@@ -2,46 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://econpucp.github.io/caso/index.html</loc>
-    <lastmod>2023-11-23T16:46:28.280Z</lastmod>
+    <lastmod>2023-11-23T18:23:20.036Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-01.html</loc>
-    <lastmod>2023-11-23T17:19:59.284Z</lastmod>
+    <lastmod>2023-11-23T19:08:03.339Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/01-caso.html</loc>
-    <lastmod>2023-11-23T17:35:42.603Z</lastmod>
+    <lastmod>2023-11-23T21:48:22.443Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/02-caso.html</loc>
-    <lastmod>2023-11-23T17:49:21.343Z</lastmod>
+    <lastmod>2023-11-23T19:07:13.708Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/03-caso.html</loc>
-    <lastmod>2023-11-23T17:39:28.734Z</lastmod>
+    <lastmod>2023-11-23T19:05:59.665Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/04-caso.html</loc>
-    <lastmod>2023-11-23T17:35:32.261Z</lastmod>
+    <lastmod>2023-11-23T19:06:02.565Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/05-caso.html</loc>
-    <lastmod>2023-11-23T17:35:34.842Z</lastmod>
+    <lastmod>2023-11-23T19:06:04.742Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/06-caso.html</loc>
-    <lastmod>2023-11-23T17:35:31.182Z</lastmod>
+    <lastmod>2023-11-23T19:06:05.860Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/resource/index.html</loc>
-    <lastmod>2023-11-23T17:40:39.043Z</lastmod>
+    <lastmod>2023-11-23T18:59:09.341Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/resource/rubrica.html</loc>
-    <lastmod>2023-11-23T17:49:17.772Z</lastmod>
+    <lastmod>2023-11-23T18:59:11.533Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/index.html</loc>
     <lastmod>2023-11-23T17:46:39.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/ej/ej-caso.html</loc>
+    <lastmod>2023-11-23T18:22:39.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/intro-02.html</loc>
+    <lastmod>2023-11-23T19:08:14.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/callouts-test.html</loc>
+    <lastmod>2023-11-23T18:55:43.642Z</lastmod>
   </url>
 </urlset>
