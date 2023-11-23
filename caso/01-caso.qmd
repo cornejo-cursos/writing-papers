@@ -30,6 +30,7 @@ More content.
 
 [This is good]{#id .class key1="val1" key2="val2"}
 
+<<<<<<< HEAD
 Este libro ofrece:
 
 :::{.callout-tip}
@@ -61,3 +62,21 @@ Advertencias:
 
 
 `texto dentro de símbolo de código` 
+=======
+:::{.callout-note}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-tip}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-important}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+`texto dentro de símbolo de código`
+>>>>>>> 15370f8c3dd33e559ff47b7c864d1f979c55f170
