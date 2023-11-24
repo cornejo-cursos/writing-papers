@@ -1,0 +1,105 @@
+---
+title: "Arrunátegui 2020"
+bibliography: references.bib
+reference-location: margin
+---
+
+# Datos de la tesis
+
+|                                                                    |                                                                |
+|:-------------------------------------------------|:---------------------|
+| Tipo de diseño                                                     | estudio de caso                                                |
+| Especialidad                                                       | sociología                                                     |
+| Área temática                                                      | educación (docentes y currículo escolar) y violencia política  |
+| Otros identificadores                                              | memoria, historia reciente, experiencia                        |
+| Tesis completa                                                     | Repositorio de tesis PUCP [@arrunátegui2020]                   |
+| Publicación académica a partir de la tesis                         | Revista Peruana de Investigación Educativa [@arrunátegui2021]  |
+| Video con reflexiones de la autora relacionados a la investigación | {{< video https://youtu.be/7n6-I8eNmLQ?si=j-3k0Jk9i-eZMz5l >}} |
+| Autora                                                             | Gabriela Arrunátegui                                           |
+| Asesora                                                            | Fanni Muñoz                                                    |
+
+: Arrunátegui 2020. Datos de la tesis. {#tbl-arrunategui2020-datos} {tbl-colwidths="\[40,60\]"}
+
+::: callout-tip
+## Objetivo de la tesis
+
+**comprender**[^1] la manera en que cuatro docentes de un colegio público-emblemático de Lima Metropolitana enseñan el periodo de violencia política
+:::
+
+[^1]: **comprender** un fenómeno es uno de los objetivos principales de un estudio de caso
+
+# Estructura de la tesis
+
+## Estructura general
+
+La autora eligió organizar su tesis en 5 capítulos. El capítulo 1 construye el problema de investigación que justifica el emprendimiento académico. El capítulo 2 construye el aparato téorico-metodológico que le permitirá investigar el problema. el capítulo 3 sistematiza la investigación que ha llevado a cabo sobre el contexto del estudio (el ministerio, el colegio y los profesores). El capítulo 4 analiza la información que ha acopiado durante su investigación. El capítulo 5 decanta reflexiones y recomendaciones.
+
+## Análisis de la tesis por capítulo
+
+### Capítulo 1: El problema de investigación
+
+#### ¿Qué hizo?
+::: callout-tip
+## Este capítulo realiza las siguientes operaciones:
+
+-   Justifica su interés por estudiar el tema
+-   Justifica la relevancia del tema para la sociedad y para la sociología
+-   Plantea el problema de investigación
+-   Presenta su pregunta de investigación, sus objetivos y sus hipótesis
+:::
+
+#### ¿Cómo lo hizo?
+La autora identifica un tema (la enseñanza de la violencia política en los colegios), describe el proceso personal que suscitó y maduró su interés por el tema y argumenta que este tema es relevante para la la sociedad y la disciplina sociológica. A continuación, procede a construir su problema de investigación: describe los roles de la educación que los sociólogos han identificado; cómo se incorpora la enseñanza de la historia en la región de América Latina durante el siglo XX; identifica el caso peruano de violencia política, lo define y particulariza; describe el rol que se le adjudicó a la educación finalizado el periodo, e identifica actores e hitos legales y normativos; ubica el proceso que estudia en un proceso mayor de disputa por definir el periodo (¿terrorismo?, ¿conflicto armado interno?, ¿violencia política?); presenta una clasificación de las memorias en disputa, realizada por otro autor; emplea esta clasificación (3 memorias) para describir el proceso que está describiendo (la incorporación de la enseñanza de violencia política en los colegios); ilustra el proceso con eventos relevantes en los diferentes momentos políticos y en este punto puede afirmar de forma persuasiva que:
+
+> Por todo lo expuesto anteriormente, se puede inferir que los lineamientos de enseñanza y los contenidos sobre el periodo de violencia política, dados desde el propio sector educación, se enmarcan en un campo de tensiones y negociones [sic], con momentos en los que se intenta introducir una versión objetiva y desde la memoria de la reconciliación (CVR), pero también se lucha porque aparezca la memoria salvadora y la memoria heroica.
+
+De inmediato, nos mueve hacia la dimensión más operativa del mismo proceso: ¿qué se está enseñando en las aulas?, revisa la literatura[^2] existente en el Perú y la presenta en relación con la literatura disponible para otros países de la región de América Latina. Y, con este desplazamiento, nos plantea un enfoque a este nivel operativo: analizar las prácticas docentes al momento de enseñar la violencia política. En este punto, si confiamos en su diagnóstico del estado de la carencia de investigaciones sociológicas al respecto, la pregunta que nos plantea parece impostergable:
+
+::: callout-tip
+## Pregunta de investigación
+
+¿De qué manera los docentes de Historia y Formación Ciudadana enseñan el periodo de violencia política en un colegio público y emblemático de Lima Metropolitana?
+:::
+
+[^2]: revisión de literatura de lo investigado en el Perú con respecto a la pregunta ¿qué se está enseñando en las aulas?
+
+Para cerrar el capítulo, solo necesitó una página y media para enunciar sus preguntas, objetivos e hipótesis. Todo el trabajo analítico y persuasivo para plantear el problema lo realizó en las diez y siete páginas previas.
+
+
+
+#### Calificación
+
+Para evaluar el planteamiento de un problema de investigación, la rúbrica de la facultad emplea 4 criterios. El criterio 2 permite discernir el desempeño bueno y muy bueno del desempeño sobresaliente: un desempeño sobresaliente demanda que el tema y el enfoque sean novedosos, complejos o originales. Una forma de presentar una novedad es escoger un tema inexplorado por la disciplina. Otra forma de lograrlo es encontrar un enfoque novedoso para un tema que ya ha sido explorado. La complejidad ---coherente y disciplinada--- contribuye al planteamiento de un problema de forma novedosa y original. Esa complejidad se puede alcanzar añadiendo ejes de análisis. Por ejemplo, la autora presenta su problema en diálogo con la literatura regional y navega ---sin extraviarse--- la historia, la educación y la sociología: historia del periodo, la educación sobre la memoria reciente y aquello que la disciplina sociológica ha escrito al respecto. Materializar esta travesía en un discurso fluido, coherente y agradable de leer es sobresaliente.
+
+::: {.callout-warning collapse="false" icon="false"}
+## <i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+
+| Criterio de calificación de la sección Planteamiento del Problema                   | Sí Cumple/No Cumple |
+|-----------------------------------------------------|-------------------|
+| 1\. Plantea con claridad el tema de la investigación y justifica su relevancia      | Sí Cumple           |
+| 2\. El tema y enfoque son novedosos, complejos y/o originales                       | Sí Cumple           |
+| 3\. Hay coherencia entre las preguntas de investigación y la problemática planteada | Sí Cumple           |
+| 4\. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques     | Sí Cumple           |
+
+Ver la [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo.
+:::
+
+### Capítulo 2: Marco teórico y metodología
+
+### Capítulo 3: Contextualización del tema
+
+### Capítulo 4: Análisis
+
+### Capítulo 5: Reflexiones finales
+
+## Anexos importantes
+
+### Tabla de Operacionalización
+
+### Guía de observación
+
+### Etapas de la investigación
+
+### Guía de entrevista
+
+## Referencias

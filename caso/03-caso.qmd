@@ -1,5 +1,5 @@
 ---
-title: "Tipos de estudio de caso"
+title: "3 Tipos"
 
 reference-location: margin
 citation-location: margin

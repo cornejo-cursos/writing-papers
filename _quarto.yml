@@ -22,7 +22,7 @@ website:
       - text: "Estudio de caso"
         file: caso/index.qmd
         icon: book-half
-      - text: "Tesis modelo"
+      - text: "Ejemplos"
         href: ej/index.qmd
         icon: binoculars
       - text: "Recursos"
@@ -38,7 +38,7 @@ website:
       search: false
       background: dark
       contents:
-        - section: "Apuntes preliminares"
+        - section: "Prefacio"
           contents:
             - text: "Propuesta"
               file: caso/index.qmd
@@ -53,22 +53,12 @@ website:
             - caso/04-caso.qmd              
             - caso/05-caso.qmd
             - caso/06-caso.qmd
-        - section: "Contenido repetido"
-          contents:        
-            - text: "Capítulo 1: El estudio de caso en las Ciencias Sociales"
-              file: caso/01-caso.qmd
-            - text: "Capítulo 2. La rigurosidad en el estudio de caso"
-              file: caso/02-caso.qmd
-            - text: "3: Capítulo 3"
-              file: caso/03-caso.qmd
-            - text: "4: Capítulo 4"
-              file: caso/04-caso.qmd              
-            - text: "5: Capítulo 5"
-              file: caso/05-caso.qmd
-            - text: "6: Capítulo 6"
-              file: caso/05-caso.qmd
 
-    - title: "Tesis modelo"
+        - section: "Ejemplos"
+          contents:
+            - ej/arrunategui2020.qmd
+
+    - title: "Ejemplos"
       contents:
         - section: "Empieza aquí"
           contents:
@@ -80,6 +70,7 @@ website:
         - section: "Ejemplos por tipo de tesis"
           contents:
             - ej/ej-caso.qmd
+            - ej/ej-comparado.qmd
 
     - title: "Recursos"
       contents:

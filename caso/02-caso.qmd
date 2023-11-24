@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 2: La rigurosidad en el estudio de caso"
+title: "2 Rigurosidad"
 
 number-sections: true
 crossref:

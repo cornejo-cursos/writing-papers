@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guías de escritura - 3 Tipos</title>
+<title>Guías de escritura - Arrunátegui 2020</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -29,8 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../caso/04-caso.html" rel="next">
-<link href="../caso/02-caso.html" rel="prev">
+<link href="../caso/06-caso.html" rel="prev">
 <link href="..//files/img/pucp-favicon-512.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -113,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/01-caso.html">Contenido</a></li><li class="breadcrumb-item"><a href="../caso/03-caso.html">3 Tipos</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../ej/arrunategui2020.html">Ejemplos</a></li><li class="breadcrumb-item"><a href="../ej/arrunategui2020.html">Arrunátegui 2020</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -183,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../caso/03-caso.html" class="sidebar-item-text sidebar-link active">
+  <a href="../caso/03-caso.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">3 Tipos</span></a>
   </div>
 </li>
@@ -218,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ej/arrunategui2020.html" class="sidebar-item-text sidebar-link">
+  <a href="../ej/arrunategui2020.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Arrunátegui 2020</span></a>
   </div>
 </li>
@@ -234,9 +252,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contenido del capítulo</h2>
    
   <ul>
-  <li><a href="#letras-más-pequeñas" id="toc-letras-más-pequeñas" class="nav-link active" data-scroll-target="#letras-más-pequeñas">Letras más pequeñas</a></li>
-  <li><a href="#footnotes" id="toc-footnotes" class="nav-link" data-scroll-target="#footnotes">Footnotes</a></li>
-  <li><a href="#anotaciones-al-margen" id="toc-anotaciones-al-margen" class="nav-link" data-scroll-target="#anotaciones-al-margen">Anotaciones al margen</a></li>
+  <li><a href="#datos-de-la-tesis" id="toc-datos-de-la-tesis" class="nav-link active" data-scroll-target="#datos-de-la-tesis">Datos de la tesis</a></li>
+  <li><a href="#estructura-de-la-tesis" id="toc-estructura-de-la-tesis" class="nav-link" data-scroll-target="#estructura-de-la-tesis">Estructura de la tesis</a>
+  <ul class="collapse">
+  <li><a href="#estructura-general" id="toc-estructura-general" class="nav-link" data-scroll-target="#estructura-general">Estructura general</a></li>
+  <li><a href="#análisis-de-la-tesis-por-capítulo" id="toc-análisis-de-la-tesis-por-capítulo" class="nav-link" data-scroll-target="#análisis-de-la-tesis-por-capítulo">Análisis de la tesis por capítulo</a>
+  <ul class="collapse">
+  <li><a href="#capítulo-1-el-problema-de-investigación" id="toc-capítulo-1-el-problema-de-investigación" class="nav-link" data-scroll-target="#capítulo-1-el-problema-de-investigación">Capítulo 1: El problema de investigación</a></li>
+  <li><a href="#capítulo-2-marco-teórico-y-metodología" id="toc-capítulo-2-marco-teórico-y-metodología" class="nav-link" data-scroll-target="#capítulo-2-marco-teórico-y-metodología">Capítulo 2: Marco teórico y metodología</a></li>
+  <li><a href="#capítulo-3-contextualización-del-tema" id="toc-capítulo-3-contextualización-del-tema" class="nav-link" data-scroll-target="#capítulo-3-contextualización-del-tema">Capítulo 3: Contextualización del tema</a></li>
+  <li><a href="#capítulo-4-análisis" id="toc-capítulo-4-análisis" class="nav-link" data-scroll-target="#capítulo-4-análisis">Capítulo 4: Análisis</a></li>
+  <li><a href="#capítulo-5-reflexiones-finales" id="toc-capítulo-5-reflexiones-finales" class="nav-link" data-scroll-target="#capítulo-5-reflexiones-finales">Capítulo 5: Reflexiones finales</a></li>
+  </ul></li>
+  <li><a href="#anexos-importantes" id="toc-anexos-importantes" class="nav-link" data-scroll-target="#anexos-importantes">Anexos importantes</a>
+  <ul class="collapse">
+  <li><a href="#tabla-de-operacionalización" id="toc-tabla-de-operacionalización" class="nav-link" data-scroll-target="#tabla-de-operacionalización">Tabla de Operacionalización</a></li>
+  <li><a href="#guía-de-observación" id="toc-guía-de-observación" class="nav-link" data-scroll-target="#guía-de-observación">Guía de observación</a></li>
+  <li><a href="#etapas-de-la-investigación" id="toc-etapas-de-la-investigación" class="nav-link" data-scroll-target="#etapas-de-la-investigación">Etapas de la investigación</a></li>
+  <li><a href="#guía-de-entrevista" id="toc-guía-de-entrevista" class="nav-link" data-scroll-target="#guía-de-entrevista">Guía de entrevista</a></li>
+  </ul></li>
+  <li><a href="#referencias" id="toc-referencias" class="nav-link" data-scroll-target="#referencias">Referencias</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -244,52 +280,222 @@ ul.task-list li input[type="checkbox"] {
 <main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header">
-<h1 class="title display-7">3 Tipos</h1>
+<h1 class="title display-7">Arrunátegui 2020</h1>
 
 </header>
 
-<p>Entre objetos y procesos (Coller 2005)</p>
-<p>Algunos ejemplos de estudio de caso</p>
-<p>Estudio de caso de individuos Estudio de caso de comunidades Estudio de caso de grupos sociales Estudio de caso de organizaciones e instituciones Estudio de caso de eventos, roles y relaciones</p>
-<p>Políticas Procesos</p>
-<section id="letras-más-pequeñas" class="level2">
-<h2 class="anchored" data-anchor-id="letras-más-pequeñas">Letras más pequeñas</h2>
-<ul>
-<li><i class="bi bi-youtube"></i> DJ Patil, <a href="https://www.youtube.com/watch?v=UOoMzaWOQJA">“What Makes a Radical and Revolutionary Technology?”</a>
-<ul>
-<li><small>(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)</small></li>
-</ul></li>
-</ul>
-</section>
-<section id="footnotes" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="footnotes">Footnotes</h2>
-<div class="page-columns page-full"><p>Here is an inline note.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p><div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;Inlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.</p></li></div></div>
-<div class="page-columns page-full"><p>Here is a footnote reference,<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> and another.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p><div class="no-row-height column-margin column-container"><li id="fn2"><p><sup>2</sup>&nbsp;Inlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.</p></li><li id="fn3"><p><sup>3</sup>&nbsp;Here’s one with multiple blocks.</p>
-<p>Subsequent paragraphs are indented to show that they belong to the previous footnote.</p>
-<pre><code>{ some.code }</code></pre>
-<p>The whole paragraph can be indented, or just the first line. In this way, multi-paragraph footnotes work like multi-paragraph list items.</p></li></div></div>
-<p>This paragraph won’t be part of the note, because it isn’t indented.</p>
-</section>
-<section id="anotaciones-al-margen" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="anotaciones-al-margen">Anotaciones al margen</h2>
-<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">This is a span that has the class <code>aside</code> which places it in the margin without a footnote number.</span></div></div>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="~/tesis-pucp/files/img/pucp-logo-alta-solobarco.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A margin image</figcaption>
-</figure>
+<section id="datos-de-la-tesis" class="level1 page-columns page-full">
+<h1>Datos de la tesis</h1>
+<div id="tbl-arrunategui2020-datos" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;1: Arrunátegui 2020. Datos de la tesis.</caption>
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Tipo de diseño</td>
+<td style="text-align: left;">estudio de caso</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Especialidad</td>
+<td style="text-align: left;">sociología</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Área temática</td>
+<td style="text-align: left;">educación (docentes y currículo escolar) y violencia política</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Otros identificadores</td>
+<td style="text-align: left;">memoria, historia reciente, experiencia</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tesis completa</td>
+<td style="text-align: left;">Repositorio de tesis PUCP <span class="citation" data-cites="arrunátegui2020">(<a href="#ref-arrunátegui2020" role="doc-biblioref">Arrunátegui, 2020</a>)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Publicación académica a partir de la tesis</td>
+<td style="text-align: left;">Revista Peruana de Investigación Educativa <span class="citation" data-cites="arrunátegui2021">(<a href="#ref-arrunátegui2021" role="doc-biblioref">Arrunátegui, 2021</a>)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Video con reflexiones de la autora relacionados a la investigación</td>
+<td style="text-align: left;"><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7n6-I8eNmLQ?si=j-3k0Jk9i-eZMz5l" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Autora</td>
+<td style="text-align: left;">Gabriela Arrunátegui</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Asesora</td>
+<td style="text-align: left;">Fanni Muñoz</td>
+</tr>
+</tbody>
+</table>
 </div>
-</div><div class="">
-<p>We know from <em>the first fundamental theorem of calculus</em> that for xyz</p>
-</div></div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Objetivo de la tesis
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>comprender</strong><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> la manera en que cuatro docentes de un colegio público-emblemático de Lima Metropolitana enseñan el periodo de violencia política</p>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;<strong>comprender</strong> un fenómeno es uno de los objetivos principales de un estudio de caso</p></li></div></section>
+<section id="estructura-de-la-tesis" class="level1 page-columns page-full">
+<h1>Estructura de la tesis</h1>
+<section id="estructura-general" class="level2">
+<h2 class="anchored" data-anchor-id="estructura-general">Estructura general</h2>
+<p>La autora eligió organizar su tesis en 5 capítulos. El capítulo 1 construye el problema de investigación que justifica el emprendimiento académico. El capítulo 2 construye el aparato téorico-metodológico que le permitirá investigar el problema. el capítulo 3 sistematiza la investigación que ha llevado a cabo sobre el contexto del estudio (el ministerio, el colegio y los profesores). El capítulo 4 analiza la información que ha acopiado durante su investigación. El capítulo 5 decanta reflexiones y recomendaciones.</p>
+</section>
+<section id="análisis-de-la-tesis-por-capítulo" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="análisis-de-la-tesis-por-capítulo">Análisis de la tesis por capítulo</h2>
+<section id="capítulo-1-el-problema-de-investigación" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="capítulo-1-el-problema-de-investigación">Capítulo 1: El problema de investigación</h3>
+<section id="qué-hizo" class="level4">
+<h4 class="anchored" data-anchor-id="qué-hizo">¿Qué hizo?</h4>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Este capítulo realiza las siguientes operaciones:
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Justifica su interés por estudiar el tema</li>
+<li>Justifica la relevancia del tema para la sociedad y para la sociología</li>
+<li>Plantea el problema de investigación</li>
+<li>Presenta su pregunta de investigación, sus objetivos y sus hipótesis</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="cómo-lo-hizo" class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="cómo-lo-hizo">¿Cómo lo hizo?</h4>
+<p>La autora identifica un tema (la enseñanza de la violencia política en los colegios), describe el proceso personal que suscitó y maduró su interés por el tema y argumenta que este tema es relevante para la la sociedad y la disciplina sociológica. A continuación, procede a construir su problema de investigación: describe los roles de la educación que los sociólogos han identificado; cómo se incorpora la enseñanza de la historia en la región de América Latina durante el siglo XX; identifica el caso peruano de violencia política, lo define y particulariza; describe el rol que se le adjudicó a la educación finalizado el periodo, e identifica actores e hitos legales y normativos; ubica el proceso que estudia en un proceso mayor de disputa por definir el periodo (¿terrorismo?, ¿conflicto armado interno?, ¿violencia política?); presenta una clasificación de las memorias en disputa, realizada por otro autor; emplea esta clasificación (3 memorias) para describir el proceso que está describiendo (la incorporación de la enseñanza de violencia política en los colegios); ilustra el proceso con eventos relevantes en los diferentes momentos políticos y en este punto puede afirmar de forma persuasiva que:</p>
+<blockquote class="blockquote">
+<p>Por todo lo expuesto anteriormente, se puede inferir que los lineamientos de enseñanza y los contenidos sobre el periodo de violencia política, dados desde el propio sector educación, se enmarcan en un campo de tensiones y negociones [sic], con momentos en los que se intenta introducir una versión objetiva y desde la memoria de la reconciliación (CVR), pero también se lucha porque aparezca la memoria salvadora y la memoria heroica.</p>
+</blockquote>
+<div class="page-columns page-full"><p>De inmediato, nos mueve hacia la dimensión más operativa del mismo proceso: ¿qué se está enseñando en las aulas?, revisa la literatura<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> existente en el Perú y la presenta en relación con la literatura disponible para otros países de la región de América Latina. Y, con este desplazamiento, nos plantea un enfoque a este nivel operativo: analizar las prácticas docentes al momento de enseñar la violencia política. En este punto, si confiamos en su diagnóstico del estado de la carencia de investigaciones sociológicas al respecto, la pregunta que nos plantea parece impostergable:</p><div class="no-row-height column-margin column-container"><li id="fn2"><p><sup>2</sup>&nbsp;revisión de literatura de lo investigado en el Perú con respecto a la pregunta ¿qué se está enseñando en las aulas?</p></li></div></div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Pregunta de investigación
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>¿De qué manera los docentes de Historia y Formación Ciudadana enseñan el periodo de violencia política en un colegio público y emblemático de Lima Metropolitana?</p>
+</div>
+</div>
+<p>Para cerrar el capítulo, solo necesitó una página y media para enunciar sus preguntas, objetivos e hipótesis. Todo el trabajo analítico y persuasivo para plantear el problema lo realizó en las diez y siete páginas previas.</p>
+</section>
+<section id="calificación" class="level4">
+<h4 class="anchored" data-anchor-id="calificación">Calificación</h4>
+<p>Para evaluar el planteamiento de un problema de investigación, la rúbrica de la facultad emplea 4 criterios. El criterio 2 permite discernir el desempeño bueno y muy bueno del desempeño sobresaliente: un desempeño sobresaliente demanda que el tema y el enfoque sean novedosos, complejos o originales. Una forma de presentar una novedad es escoger un tema inexplorado por la disciplina. Otra forma de lograrlo es encontrar un enfoque novedoso para un tema que ya ha sido explorado. La complejidad —coherente y disciplinada— contribuye al planteamiento de un problema de forma novedosa y original. Esa complejidad se puede alcanzar añadiendo ejes de análisis. Por ejemplo, la autora presenta su problema en diálogo con la literatura regional y navega —sin extraviarse— la historia, la educación y la sociología: historia del periodo, la educación sobre la memoria reciente y aquello que la disciplina sociológica ha escrito al respecto. Materializar esta travesía en un discurso fluido, coherente y agradable de leer es sobresaliente.</p>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<table class="table">
+<colgroup>
+<col style="width: 73%">
+<col style="width: 26%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio de calificación de la sección Planteamiento del Problema</th>
+<th>Sí Cumple/No Cumple</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Plantea con claridad el tema de la investigación y justifica su relevancia</td>
+<td>Sí Cumple</td>
+</tr>
+<tr class="even">
+<td>2. El tema y enfoque son novedosos, complejos y/o originales</td>
+<td>Sí Cumple</td>
+</tr>
+<tr class="odd">
+<td>3. Hay coherencia entre las preguntas de investigación y la problemática planteada</td>
+<td>Sí Cumple</td>
+</tr>
+<tr class="even">
+<td>4. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques</td>
+<td>Sí Cumple</td>
+</tr>
+</tbody>
+</table>
+<p>Ver la <a href="../resource/rubrica.html#tbl-rubrica">rúbrica de calificación</a> que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo.</p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="capítulo-2-marco-teórico-y-metodología" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-2-marco-teórico-y-metodología">Capítulo 2: Marco teórico y metodología</h3>
+</section>
+<section id="capítulo-3-contextualización-del-tema" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-3-contextualización-del-tema">Capítulo 3: Contextualización del tema</h3>
+</section>
+<section id="capítulo-4-análisis" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-4-análisis">Capítulo 4: Análisis</h3>
+</section>
+<section id="capítulo-5-reflexiones-finales" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-5-reflexiones-finales">Capítulo 5: Reflexiones finales</h3>
+</section>
+</section>
+<section id="anexos-importantes" class="level2">
+<h2 class="anchored" data-anchor-id="anexos-importantes">Anexos importantes</h2>
+<section id="tabla-de-operacionalización" class="level3">
+<h3 class="anchored" data-anchor-id="tabla-de-operacionalización">Tabla de Operacionalización</h3>
+</section>
+<section id="guía-de-observación" class="level3">
+<h3 class="anchored" data-anchor-id="guía-de-observación">Guía de observación</h3>
+</section>
+<section id="etapas-de-la-investigación" class="level3">
+<h3 class="anchored" data-anchor-id="etapas-de-la-investigación">Etapas de la investigación</h3>
+</section>
+<section id="guía-de-entrevista" class="level3">
+<h3 class="anchored" data-anchor-id="guía-de-entrevista">Guía de entrevista</h3>
+</section>
+</section>
+<section id="referencias" class="level2">
+
+
 
 
 </section>
+</section>
 
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Referencias</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="ref-arrunátegui2020" class="csl-entry" role="listitem">
+Arrunátegui, G. (2020). <em>Entre el currículo y la memoria : tensiones y negociaciones en la enseñanza de la violencia política por parte de cuatro docentes de un colegio público y emblemático de Lima-Metropolitana</em> [PhD thesis]. <a href="https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793">https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793</a>
+</div>
+<div id="ref-arrunátegui2021" class="csl-entry" role="listitem">
+Arrunátegui, G. (2021). Memoria y prácticas docentes: Enseñanza de la violencia política peruana en un colegio público-emblemático peruano. <em>Revista Peruana de Investigación Educativa</em>, <em>13</em>(14). <a href="https://doi.org/10.34236/rpie.v13i14.221">https://doi.org/10.34236/rpie.v13i14.221</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -525,14 +731,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../caso/02-caso.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">2 Rigurosidad</span>
+      <a href="../caso/06-caso.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Cierre</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../caso/04-caso.html" class="pagination-link">
-        <span class="nav-page-text">4 Estructura</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guías de escritura - 3 Tipos</title>
+<title>Guías de escritura - 1. El estudio de caso en las Ciencias Sociales</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -29,8 +48,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../caso/04-caso.html" rel="next">
-<link href="../caso/02-caso.html" rel="prev">
 <link href="..//files/img/pucp-favicon-512.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -65,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked nav-fixed slimcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -83,14 +100,14 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../caso/index.html" rel="" target="" aria-current="page"><i class="bi bi-book-half" role="img">
+    <a class="nav-link" href="../caso/index.html" rel="" target=""><i class="bi bi-book-half" role="img">
 </i> 
  <span class="menu-text">Estudio de caso</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../ej/index.html" rel="" target=""><i class="bi bi-binoculars" role="img">
 </i> 
- <span class="menu-text">Ejemplos</span></a>
+ <span class="menu-text">Tesis modelo</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../resource/index.html" rel="" target=""><i class="bi bi-bookshelf" role="img">
@@ -108,188 +125,108 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/01-caso.html">Contenido</a></li><li class="breadcrumb-item"><a href="../caso/03-caso.html">3 Tipos</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Prefacio</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Propuesta</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/intro-01.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">¿Qué ofrece esta guía?</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/intro-02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">¿Cómo usar esta guía?</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/intro-03.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">¿Cómo citar esta guía?</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Contenido</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/01-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">1 Enfoque</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/02-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">2 Rigurosidad</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/03-caso.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">3 Tipos</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/04-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">4 Estructura</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/05-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">5</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../caso/06-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Cierre</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
- <span class="menu-text">Ejemplos</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Alternar sección">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ej/arrunategui2020.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Arrunátegui 2020</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Contenido del capítulo</h2>
    
   <ul>
-  <li><a href="#letras-más-pequeñas" id="toc-letras-más-pequeñas" class="nav-link active" data-scroll-target="#letras-más-pequeñas">Letras más pequeñas</a></li>
-  <li><a href="#footnotes" id="toc-footnotes" class="nav-link" data-scroll-target="#footnotes">Footnotes</a></li>
-  <li><a href="#anotaciones-al-margen" id="toc-anotaciones-al-margen" class="nav-link" data-scroll-target="#anotaciones-al-margen">Anotaciones al margen</a></li>
+  <li><a href="#datos-de-la-tesis" id="toc-datos-de-la-tesis" class="nav-link active" data-scroll-target="#datos-de-la-tesis">Datos de la tesis</a></li>
+  <li><a href="#estructura-de-la-tesis" id="toc-estructura-de-la-tesis" class="nav-link" data-scroll-target="#estructura-de-la-tesis">Estructura de la tesis</a></li>
+  <li><a href="#análisis-de-la-tesis-por-capítulo" id="toc-análisis-de-la-tesis-por-capítulo" class="nav-link" data-scroll-target="#análisis-de-la-tesis-por-capítulo">Análisis de la tesis por capítulo</a>
+  <ul class="collapse">
+  <li><a href="#capítulo-1-el-problema-de-investigación" id="toc-capítulo-1-el-problema-de-investigación" class="nav-link" data-scroll-target="#capítulo-1-el-problema-de-investigación">Capítulo 1: El problema de investigación</a></li>
+  <li><a href="#capítulo-2-marco-teórico-y-metodología" id="toc-capítulo-2-marco-teórico-y-metodología" class="nav-link" data-scroll-target="#capítulo-2-marco-teórico-y-metodología">Capítulo 2: Marco teórico y metodología</a></li>
+  <li><a href="#capítulo-3-contextualización-del-tema" id="toc-capítulo-3-contextualización-del-tema" class="nav-link" data-scroll-target="#capítulo-3-contextualización-del-tema">Capítulo 3: Contextualización del tema</a></li>
+  <li><a href="#capítulo-4-análisis" id="toc-capítulo-4-análisis" class="nav-link" data-scroll-target="#capítulo-4-análisis">Capítulo 4: Análisis</a></li>
+  <li><a href="#capítulo-5-reflexiones-finales" id="toc-capítulo-5-reflexiones-finales" class="nav-link" data-scroll-target="#capítulo-5-reflexiones-finales">Capítulo 5: Reflexiones finales</a></li>
+  </ul></li>
+  <li><a href="#anexos-importantes" id="toc-anexos-importantes" class="nav-link" data-scroll-target="#anexos-importantes">Anexos importantes</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header">
-<h1 class="title display-7">3 Tipos</h1>
+<h1 class="title display-7">1. El estudio de caso en las Ciencias Sociales</h1>
 
 </header>
 
-<p>Entre objetos y procesos (Coller 2005)</p>
-<p>Algunos ejemplos de estudio de caso</p>
-<p>Estudio de caso de individuos Estudio de caso de comunidades Estudio de caso de grupos sociales Estudio de caso de organizaciones e instituciones Estudio de caso de eventos, roles y relaciones</p>
-<p>Políticas Procesos</p>
-<section id="letras-más-pequeñas" class="level2">
-<h2 class="anchored" data-anchor-id="letras-más-pequeñas">Letras más pequeñas</h2>
-<ul>
-<li><i class="bi bi-youtube"></i> DJ Patil, <a href="https://www.youtube.com/watch?v=UOoMzaWOQJA">“What Makes a Radical and Revolutionary Technology?”</a>
-<ul>
-<li><small>(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)</small></li>
-</ul></li>
-</ul>
-</section>
-<section id="footnotes" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="footnotes">Footnotes</h2>
-<div class="page-columns page-full"><p>Here is an inline note.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p><div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;Inlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.</p></li></div></div>
-<div class="page-columns page-full"><p>Here is a footnote reference,<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> and another.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p><div class="no-row-height column-margin column-container"><li id="fn2"><p><sup>2</sup>&nbsp;Inlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.</p></li><li id="fn3"><p><sup>3</sup>&nbsp;Here’s one with multiple blocks.</p>
-<p>Subsequent paragraphs are indented to show that they belong to the previous footnote.</p>
-<pre><code>{ some.code }</code></pre>
-<p>The whole paragraph can be indented, or just the first line. In this way, multi-paragraph footnotes work like multi-paragraph list items.</p></li></div></div>
-<p>This paragraph won’t be part of the note, because it isn’t indented.</p>
-</section>
-<section id="anotaciones-al-margen" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="anotaciones-al-margen">Anotaciones al margen</h2>
-<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">This is a span that has the class <code>aside</code> which places it in the margin without a footnote number.</span></div></div>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="~/tesis-pucp/files/img/pucp-logo-alta-solobarco.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A margin image</figcaption>
-</figure>
+<section id="datos-de-la-tesis" class="level2">
+<h2 class="anchored" data-anchor-id="datos-de-la-tesis">Datos de la tesis</h2>
+<div id="tbl-arrunategui2020-datos" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;1: Arrunátegui 2020. Datos de la tesis.</caption>
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Tipo de diseño</td>
+<td style="text-align: left;">estudio de caso</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Especialidad</td>
+<td style="text-align: left;">sociología</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tesis completa</td>
+<td style="text-align: left;">Repositorio de tesis PUCP <span class="citation" data-cites="arrunátegui2020">(<a href="#ref-arrunátegui2020" role="doc-biblioref">Arrunátegui, 2020</a>)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Publicación académica a partir de la tesis</td>
+<td style="text-align: left;">Revista Peruana de Investigación Educativa <span class="citation" data-cites="arrunátegui2021">(<a href="#ref-arrunátegui2021" role="doc-biblioref">Arrunátegui, 2021</a>)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Video con reflexiones de la autora relacionados a la investigación</td>
+<td style="text-align: left;"><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/7n6-I8eNmLQ?si=j-3k0Jk9i-eZMz5l" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></td>
+</tr>
+</tbody>
+</table>
 </div>
-</div><div class="">
-<p>We know from <em>the first fundamental theorem of calculus</em> that for xyz</p>
-</div></div>
+</section>
+<section id="estructura-de-la-tesis" class="level2">
+<h2 class="anchored" data-anchor-id="estructura-de-la-tesis">Estructura de la tesis</h2>
+</section>
+<section id="análisis-de-la-tesis-por-capítulo" class="level2">
+<h2 class="anchored" data-anchor-id="análisis-de-la-tesis-por-capítulo">Análisis de la tesis por capítulo</h2>
+<section id="capítulo-1-el-problema-de-investigación" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-1-el-problema-de-investigación">Capítulo 1: El problema de investigación</h3>
+</section>
+<section id="capítulo-2-marco-teórico-y-metodología" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-2-marco-teórico-y-metodología">Capítulo 2: Marco teórico y metodología</h3>
+</section>
+<section id="capítulo-3-contextualización-del-tema" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-3-contextualización-del-tema">Capítulo 3: Contextualización del tema</h3>
+</section>
+<section id="capítulo-4-análisis" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-4-análisis">Capítulo 4: Análisis</h3>
+</section>
+<section id="capítulo-5-reflexiones-finales" class="level3">
+<h3 class="anchored" data-anchor-id="capítulo-5-reflexiones-finales">Capítulo 5: Reflexiones finales</h3>
+</section>
+</section>
+<section id="anexos-importantes" class="level2">
+
+
 
 
 </section>
 
-
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Anexos importantes</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="ref-arrunátegui2020" class="csl-entry" role="listitem">
+Arrunátegui, G. (2020). <em>Entre el currículo y la memoria : tensiones y negociaciones en la enseñanza de la violencia política por parte de cuatro docentes de un colegio público y emblemático de Lima-Metropolitana</em> [PhD thesis]. <a href="https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793">https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793</a>
+</div>
+<div id="ref-arrunátegui2021" class="csl-entry" role="listitem">
+Arrunátegui, G. (2021). Memoria y prácticas docentes: Enseñanza de la violencia política peruana en un colegio público-emblemático peruano. <em>Revista Peruana de Investigación Educativa</em>, <em>13</em>(14). <a href="https://doi.org/10.34236/rpie.v13i14.221">https://doi.org/10.34236/rpie.v13i14.221</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -523,18 +460,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../caso/02-caso.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">2 Rigurosidad</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../caso/04-caso.html" class="pagination-link">
-        <span class="nav-page-text">4 Estructura</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
