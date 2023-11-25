@@ -91,6 +91,8 @@ Para evaluar el planteamiento de un problema de investigación, la rúbrica de l
 Ver la [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orienta la deliberación del jurado en la evaluación de cualquier tesis
 :::
 
+-----
+
 ### Capítulo 2: Marco teórico y metodología
 
 La autora eligió presentar en un mismo capítulo su marco teórico y su metodología. Aunque el nombre de la sección es preciso, en tanto contiene el *marco teórico* **y** la *metodología*, cada sección es independiente y no hay un diálogo explícito entre ambos componentes de la tesis en esta sección. Por lo tanto, para fines didácticos es más razonable analizarlas por separado. La autora nos refiere al Anexo 1 para observar cómo dialogan estos componentes en su trabajo.
@@ -219,6 +221,8 @@ En base a estos requisitos fue que se seleccionó a los docentes del colegio pú
 
 Remite a los artículos del Reglamento del Comité de Ética para la Investigación con Seres Humanos y Animales de la Pontificia Universidad Católica del Perú (2011) que guiaron su investigación. 
 
+--------------
+
 ### Capítulo 3: Contextualización del tema
 
 ::: callout-tip
@@ -234,6 +238,8 @@ Contextualiza el tema ---la enseñanza de la violencia política en la historia,
 #### ¿Qué hizo, por qué y para qué?
 
 > El objetivo de este capítulo es contextualizar las decisiones tomadas desde el MINEDU, la IE “San Martín” y sus docentes respecto a la enseñanza del periodo de violencia política. Para ello, se analizarán los documentos institucionales del MINEDU y la IE “San Martín”. Así mismo, conoceremos quiénes son estos cuatro docentes, cuáles son sus opiniones sobre la enseñanza de este tema y sus conocimientos sobre las herramientas curriculares y pedagógicas. (51)
+
+----------
 
 ### Capítulo 4: Análisis
 
@@ -259,6 +265,7 @@ A continuación, divide el capítulo en cinco subcapítulos. Cada subcapítulo c
 - 4.4 Los actores más importantes del periodo
 - 4.5 La enseñanza sobre la CVR y su Informe Final
 
+-----
 ### Capítulo 5: Reflexiones finales y recomendaciones
 
 #### Capítulo 5.1 Reflexiones finales
@@ -289,17 +296,20 @@ En esta sección presentó sus hallazgos y los utilizó para responder a las pre
       Presenta los resultados que encuentra: describe los relatos que identifica, los actores, la opinión de los docentes y la relación de estos relatos con el contenido de los libros
 
 
-#### Capítulo 5.1 Recomendaciones
+#### Capítulo 5.2 Recomendaciones
 
 ::: callout-tip
 ## ¿Qué hizo?
-De manera breve, en dos páginas:
 
 -   Presenta sus recomendaciones organizadas según a quién las dirige: 
     -   Recomendaciones dirigidas al MINEDU
     -   Recomendaciones dirigidas a la comunidad educativa
 -   Presenta recomendaciones de investigación
 :::
+
+Lo realizó de manera breve, en dos páginas.
+
+
 
 ## Anexos importantes
 
