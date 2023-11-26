@@ -136,8 +136,9 @@ Cada enfoque tiene particularidades que demanda una presentación distinta, pero
 
 #### ¿Cómo lo hizo?
 
-::: callout-tip
-## ¿Qué autores guiaron su sección metodológica?
+
+:::{.callout-caution collapse="false" icon="false"}
+## <i class="bi bi-book"></i> ¿Qué autores guiaron su sección metodológica?
 
 | Fuente                              | Uso                                                                     |
 |-------------------------------------|-------------------------------------------------------------------------|
