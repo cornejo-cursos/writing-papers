@@ -79,9 +79,6 @@ See @fig-elephant for an illustration.
 
 Mira la @fig-rubrica-prueba para conocer en detalle los criterios de calificación.
 
-Revisa @tbl-rubrica
-
-Revisa @tbl-letters
 
 Label Prefix
 #def-	

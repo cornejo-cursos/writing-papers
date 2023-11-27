@@ -57,7 +57,8 @@ website:
         - section: "Ejemplos"
           contents:
             - ej/arrunategui2020.qmd
-
+            - ej/otero2022.qmd
+            
     - title: "Ejemplos"
       contents:
         - section: "Empieza aquí"

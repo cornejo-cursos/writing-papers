@@ -7,14 +7,22 @@ number-sections: true
 number-depth: 2
 crossref:
   chapters: true
+
+engine: knitr
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
 # Datos de la tesis
 
 |                                                                    |                                                                                          |
 |:-----------------------------------------------|:----------------------|
-| Tipo de diseño                                                     | estudio de caso                                                                          |
-| Especialidad                                                       | sociología                                                                               |
+| Tipo de diseño                                                     | Estudio de caso                                                                          |
+| Especialidad                                                       | Sociología                                                                               |
 | Área temática                                                      | educación (docentes y currículo escolar) y violencia política                            |
 | Otros identificadores                                              | memoria, historia reciente, experiencia                                                  |
 | Tesis completa [^1]                                                |[@arrunáteguimartínez2020] <br> [Mejor tesis en sociología 2019-2020](https://facultad.pucp.edu.pe/ciencias-sociales/notas-de-prensa/anunciamos-a-los-y-las-ganadoras-del-concurso-extraordinario-de-mejores-tesis-defendidas-entre-1-de-octubre-del-2019-y-el-14-de-junio-del-2020/)                               |
@@ -27,29 +35,31 @@ crossref:
 
 [^1]: Todas las citas textuales de este capítulo provienen de [@arrunáteguimartínez2020].
 
+:::: {.justify}
 ::: callout-tip
 ## Objetivo de la tesis
 
 **Comprender**[^2] la manera en que cuatro docentes de un colegio público-emblemático de Lima Metropolitana enseñan el periodo de violencia política
 :::
 
-[^2]: **Comprender** un fenómeno es uno de los objetivos principales de un estudio de caso
+[^2]: La autora recurre al infinitivo **comprender** en dieciocho ocasiones. **Comprender** un fenómeno es uno de los objetivos más comunes de un estudio de caso.
 
 # Estructura de la tesis
 
 ## Estructura general
 
-La autora eligió organizar su tesis en 5 capítulos. El capítulo 1 construye el problema de investigación que justifica el emprendimiento académico. El capítulo 2 construye el aparato téorico-metodológico que le permitirá investigar el problema. El capítulo 3 sistematiza su investigación sobre el contexto del estudio (el ministerio, el colegio y los profesores). El capítulo 4 analiza la información que ha acopiado durante su investigación. El capítulo 5 presenta sus reflexiones y recomendaciones.
+La autora eligió organizar su tesis en 5 capítulos. El capítulo 1 construye el problema de investigación que justifica el emprendimiento académico. El capítulo 2 construye el aparato téorico-metodológico que le permitirá investigar el problema. El capítulo 3 sistematiza su investigación sobre el contexto del estudio (el ministerio, el colegio y los profesores). El capítulo 4 analiza la información que ha acopiado durante su investigación. El capítulo 5 presenta sus reflexiones y recomendaciones. La @tbl-arrunategui2020-estructura esquematiza el contenido de cada sección para destacar la estructura general de la tesis.
+::::
 
 | Cap. 1                                                                             | Cap. 2                                                                                                                              | Cap. 3                                                                 | Cap. 4                                                                    | Cap. 5                                                                                                  |
 |---------------|---------------|---------------|---------------|---------------|
 | Tema <br>- Justificación <br>Problema <br>Pregunta <br>- Objetivos <br>- Hipótesis | Marco teórico <br>- Teoría 1 <br>- Teoría 2 <br>- Teoría 3 <br> Metodología <br>- Diseño <br>- Casos <br>- Herramientas <br>- Ética | Contexto de estudio <br>- Contexto 1 <br>- Contexto 2 <br>- Contexto 3 | Análisis <br>- Tema 1 <br>- Tema 2 <br>- Tema 3 <br>- Tema 4 <br>- Tema 5 | Reflexiones <br>- Hallazgos por pregunta <br> Recomendaciones <br>- Para actores <br>- De investigación |
 
-: Estructura general de la tesis {#tbl-arrunategui2020-estructura}
+: Arrunátegui 2020. Estructura general de la tesis {#tbl-arrunategui2020-estructura}
 
 ## Análisis de la tesis por capítulo
 
-### Capítulo 1: El problema de investigación
+### Capítulo 1. El problema de investigación {#sec-problema}
 
 ::: callout-tip
 ## ¿Qué hizo?
@@ -62,6 +72,7 @@ La autora eligió organizar su tesis en 5 capítulos. El capítulo 1 construye e
 
 #### ¿Cómo lo hizo?
 
+:::: {.justify}
 La autora identifica un tema (la enseñanza de la violencia política en los colegios), describe el proceso personal que suscitó y maduró su interés por el tema y argumenta que este tema es relevante para la la sociedad y la disciplina sociológica. A continuación, procede a construir su problema de investigación: describe los roles de la educación que los sociólogos han identificado; cómo se incorpora la enseñanza de la historia en la región de América Latina durante el siglo XX; identifica el caso peruano de violencia política, lo define y particulariza; describe el rol que se le adjudicó a la educación finalizado el periodo, e identifica actores e hitos legales y normativos; ubica el proceso que estudia en un proceso mayor de disputa por definir el periodo (¿terrorismo?, ¿conflicto armado interno?, ¿violencia política?); presenta una clasificación de las memorias en disputa, realizada por otro autor; emplea esta clasificación (tres memorias) para describir el proceso que está describiendo (la incorporación de la enseñanza de violencia política en los colegios); ilustra el proceso con eventos relevantes en los diferentes momentos políticos y en este punto puede afirmar de forma persuasiva que:
 
 > Por todo lo expuesto anteriormente, se puede inferir que los lineamientos de enseñanza y los contenidos sobre el periodo de violencia política, dados desde el propio sector educación, se enmarcan en un campo de tensiones y negociones \[sic\], con momentos en los que se intenta introducir una versión objetiva y desde la memoria de la reconciliación (CVR), pero también se lucha porque aparezca la memoria salvadora y la memoria heroica. (p. 15)
@@ -79,6 +90,7 @@ Para cerrar el capítulo, solo necesitó una página y media para enunciar sus p
 #### Calificación
 
 Para evaluar el planteamiento de un problema de investigación, la rúbrica de la facultad emplea 4 criterios. Un desempeño bueno o muy bueno requiere cumplir con los criterios 1, 3 y 4. El **criterio 2** distingue a un desempeño sobresaliente: **un desempeño sobresaliente demanda que el tema y el enfoque sean novedosos, complejos o originales**. Una forma de presentar una novedad es escoger un tema inexplorado por la disciplina. Otra forma de lograrlo es encontrar un enfoque novedoso para un tema que ya ha sido explorado. La complejidad ---coherente y disciplinada--- contribuye al planteamiento de un problema de forma novedosa y original. Esa complejidad se puede alcanzar añadiendo ejes de análisis. Por ejemplo, la autora presenta su problema en diálogo con la literatura regional y navega ---sin extraviarse--- la historia, la educación y la sociología: historia del periodo, la educación sobre la memoria reciente y aquello que la disciplina sociológica ha escrito al respecto. Decantar esta travesía en un discurso fluido, coherente y agradable de leer es sobresaliente.
+::::
 
 ::: {.callout-warning collapse="false" icon="false"}
 ## <i class="bi bi-binoculars"></i> Aplicación de la rúbrica
@@ -97,7 +109,9 @@ Ver la [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orient
 
 ------------------------------------------------------------------------
 
-### Capítulo 2: Marco teórico y metodología
+### Capítulo 2. Marco teórico y metodología
+
+:::: {.justify}
 
 La autora eligió presentar en un mismo capítulo su marco teórico y su metodología. Aunque el nombre de la sección es preciso, en tanto contiene el *marco teórico* **y** la *metodología*, cada sección es independiente y no hay un diálogo explícito entre ambos componentes de la tesis en esta sección. Por lo tanto, para fines didácticos es más razonable analizarlas por separado. La autora nos refiere al Anexo 1 para observar cómo dialogan estos componentes en su trabajo.
 
@@ -137,6 +151,7 @@ Cada enfoque tiene particularidades que demanda una presentación distinta, pero
 -   Presentó las herramientas de recojo de información
 -   Presentó los parámetros éticos que guiaron la investigación
 :::
+::::
 
 ::: {.callout-caution collapse="false" icon="false"}
 ## <i class="bi bi-book"></i> ¿Qué autores guiaron su sección metodológica?
@@ -154,6 +169,8 @@ Cada enfoque tiene particularidades que demanda una presentación distinta, pero
 :::
 
 #### Diseño metodológico
+
+:::: {.justify}
 
 ::: callout-tip
 ## ¿Qué hizo?
@@ -175,7 +192,7 @@ Lo más importante: justificó su elección metodológica
     -   Presentó un mapa del colegio
 -   Comunicó que anonimizó los docentes y el colegio
 
-En base a estos requisitos fue que se seleccionó a los docentes del colegio público-emblemático "San Martín" del distrito del Rímac de Lima Metropolitana.
+> En base a estos requisitos fue que se seleccionó a los docentes del colegio público-emblemático "San Martín" del distrito del Rímac de Lima Metropolitana. (p. 42)
 :::
 
 #### Herramientas de recojo de información
@@ -240,9 +257,13 @@ En base a estos requisitos fue que se seleccionó a los docentes del colegio pú
 
 Remitió al lector a los artículos del Reglamento del Comité de Ética para la Investigación con Seres Humanos y Animales de la Pontificia Universidad Católica del Perú (2011) que guiaron su investigación.
 
+::::
+
 ------------------------------------------------------------------------
 
-### Capítulo 3: Contextualización del tema
+### Capítulo 3. Contextualización del tema
+
+:::: {.justify}
 
 ::: callout-tip
 ## ¿Qué hizo?
@@ -257,10 +278,13 @@ Contextualizó el tema ---la enseñanza de la violencia política en la historia
 #### ¿Cómo lo hizo?
 
 > El objetivo de este capítulo es contextualizar las decisiones tomadas desde el MINEDU, la IE "San Martín" y sus docentes respecto a la enseñanza del periodo de violencia política. Para ello, se analizarán los documentos institucionales del MINEDU y la IE "San Martín". Así mismo, conoceremos quiénes son estos cuatro docentes, cuáles son sus opiniones sobre la enseñanza de este tema y sus conocimientos sobre las herramientas curriculares y pedagógicas. (p. 51)
+::::
 
 ------------------------------------------------------------------------
 
-### Capítulo 4: Análisis
+### Capítulo 4. Análisis
+
+:::: {.justify}
 
 ::: callout-tip
 ## ¿Qué hizo?
@@ -288,11 +312,15 @@ A continuación, dividió el capítulo en cinco subcapítulos. Cada subcapítulo
 -   4.4 Los actores más importantes del periodo
 -   4.5 La enseñanza sobre la CVR y su Informe Final
 
+::::
+
 ------------------------------------------------------------------------
 
-### Capítulo 5: Reflexiones finales y recomendaciones
+### Capítulo 5. Reflexiones finales y recomendaciones
 
 #### Capítulo 5.1 Reflexiones finales
+
+:::: {.justify}
 
 ::: callout-tip
 ## ¿Qué hizo?
@@ -316,6 +344,8 @@ En esta sección presentó sus hallazgos y los utilizó para responder a las pre
 [Pregunta específica 2: ¿¿Cuáles los **relatos sobre el periodo de violencia política** que los docentes de Formación Ciudadana e Historia transmiten en sus clases?]{.aside}
 
 3.  Con respecto a los **relatos sobre el periodo de violencia política** en el aula <br> Presenta los resultados que encuentra: describe los relatos que identifica, los actores, la opinión de los docentes y la relación de estos relatos con el contenido de los libros
+::::
+
 
 #### Capítulo 5.2 Recomendaciones
 
@@ -330,17 +360,21 @@ En esta sección presentó sus hallazgos y los utilizó para responder a las pre
 
 Lo realizó de manera breve, en dos páginas.
 
+
 ## Anexos importantes
 
 ### Etapas de la investigación
+
+:::: {.justify}
 
 En este anexo, la autora relató sus sucesivos acercamientos a la problemática y al campo. Emplea un tono personal para comunicar al lector los procesos que culminaron en la realización de este trabajo, los tiempos de cada etapa durante diferentes cursos, sus acercamientos al campo y las personas que marcaron su recorrido. Esta sección permite entender varias de las elecciones que realiza la investigadora. En la sección de diseño metodológico había adelantado, en un pie de página, algunos de los elementos que nos relata con honestidad y transparencia en este anexo:
 
 > Es importante dar a conocer que inicialmente en este estudio se planteó trabajar con los docentes de dos colegios públicos y emblemáticos, uno en Ayacucho y otro en Lima. Sin embargo, se decidió finalmente trabajar sólo con el colegio de Lima por dos motivos: (1) profundizar en la investigación con los docentes de Lima y (2) porque las clases en el colegio de Ayacucho se retrasaron por la huelga magisterial peruana que se dio entre julio y septiembre del 2017. (p. 41)
 
-### Otros anexos importantes:
+::::
 
--   Tabla de Operacionalización <br> Presenta:
+###   Tabla de Operacionalización <br> 
+Presenta la relación entre los siguientes elementos:
 
     -   Problema de investigación
     -   Preguntas
@@ -351,8 +385,26 @@ En este anexo, la autora relató sus sucesivos acercamientos a la problemática 
     -   Categorías
     -   Herramientas metodológicas
 
+
+:::: {.callout-warning collapse="true" icon="false"}
+## <i class="bi bi-binoculars"></i> Ver Tabla de Operacionalización
+::: {#fig-arrunategui2020-fig2}
+
+![Tabla operacionalización 1](/files/img/arrunategui2020-anx1.png)
+![Tabla operacionalización 2](/files/img/arrunategui2020-anx2.png)
+
+![Tabla operacionalización 3](/files/img/arrunategui2020-anx3.png)
+Fuente: [@arrunáteguimartínez2020, pp. 150-152]
+
+Arrunátegui 2020. Anexo N 1 Tabla de Operacionalización
+:::
+::::
+
+### Otros anexos importantes
+
 -   Guía de observación en el aula
 
 -   Guía de entrevista
+
 
 # Referencias {.unnumbered}

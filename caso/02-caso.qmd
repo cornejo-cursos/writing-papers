@@ -1,9 +1,15 @@
 ---
 title: "2 Rigurosidad"
 
+bibliography: references.bib
+reference-location: margin
+
 number-sections: true
+number-depth: 2
 crossref:
   chapters: true
+
+engine: knitr
 ---
 
 # La rigurosidad en el estudio de caso
@@ -33,104 +39,3 @@ Frente a la diversidad de posturas ontológicas, epistemológicas, tradiciones y
 ## Elecciones analíticas
 
 ## Elecciones de escritura
-
-# Las normas
-
-## Criterios de evaluación de la tesis en la facultad de Ciencias Sociales de la PUCP
-
-El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022"](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.). 
-
-[Rúbrica](/resource/rubrica.qmd#tbl-rubrica)
-
-En ellos se reglamenta lo siguiente:
-
-::: {.callout-note collapse="true" icon="false"}
-## Criterios mínimos de calidad
-
-1.  Que sea un trabajo original, inédito y no cometa plagio.
-2.  Que esté redactado en lenguaje académico y no tenga faltas de ortografía.
-3.  Que conste de las siguientes partes: introducción, capitulado o secciones, conclusiones y bibliografía (en formato APA más reciente).
-4.  Que presente y trabaje explícitamente: problema de investigación, justificación, problemática o discusión del tema, marco teórico o referencias teóricas, metodología, proceso de sistematización y análisis y conclusiones o reflexiones finales.
-5.  Que tenga coherencia entre todas las partes.
-6.  Que siga el formato indicado por la FCCSS.
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-## Menciones: sin mención, bien, muy bien, sobresaliente
-
-1.  Durante la sustentación de la tesis, los tres miembros del jurado pueden aprobar o desaprobar el trabajo por mayoría o por unanimidad.
-2.  Cuando la tesis se aprueba por unanimidad, los tres miembros del jurado calificar el trabajo con una mención (bien, muy bien, sobresaliente) o aprobarlo sin mención.
-:::
-
-::: {.callout-note collapse="true" icon="false"}
-## La rúbrica de calificación
-
-Existe una [rúbrica de calificación](/resource/rubrica.qmd) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo.
-Existe una [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo. 
-[![Rúbrica](/files/img/rubrica.png)]{.content-hidden}
-
-| Criterio                                 | Bien                                                                                                                                                                                                                                      | Muy bien                                                                                                                                                                                                                                                               | Sobresaliente                                                                                                                                                                                                                                                                                                                                             |
-|-----------------|-----------------|-----------------|----------------------|
-| Planteamiento del problema               | Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques. | Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques.                              | Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.                                                      |
-|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
-| Referentes teóricos                      | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación.                                                                                                                       | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación.                                                        | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina. |
-|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
-| Datos y métodos                          | Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados.                                                                                                          | Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos.                                                    | Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas detalladas que explican la construcción de sus datos.                                                                                                                               |
-|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
-| Presentación de hallazgos y conclusiones | Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos y sacando las conclusiones pertinentes.                                  | Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos apoyándose en la revisión de la literatura y el marco teórico y sacando las conclusiones pertinentes. | Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.          |
-|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
-| Exposición oral                          | La exposición muestra un orden y estructura comprensibles, respetando el tiempo asignado y respondiendo adecuadamente las preguntas del jurado.                                                                                           | La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos. Respeta el tiempo asignado y responde adecuadamente las preguntas del jurado.                                                                                         | La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos que facilitan la comprensión. Respeta el tiempo asignado y responde con solvencia las preguntas del jurado.                                                                                                                                               |
-
-:::
-
-# ¿Cómo evaluar un estudio de caso?
-
-## Los criterios de calificación
-
-## Un estudio de caso con calificación (mención) sobresaliente
-
-### Planteamiento del problema y desarrollo de la problemática
-
-El problema d einvestigación ....
-
-Por ejemplo,
-
-::: {.callout-tip collapse="true" icon="false"}
-## Desempeño esperado en una tesis sobresaliente
-
-"Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques."
-:::
-
-### Referentes teóricos
-
-::: {.callout-tip collapse="true" icon="false"}
-## Desempeño esperado en una tesis sobresaliente
-
-"Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina."
-:::
-
-### Datos y métodos
-
-::: {.callout-tip collapse="true" icon="false"}
-## Desempeño esperado en una tesis sobresaliente
-
-"Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos"
-:::
-
-### Presentación de hallazgos y conclusiones
-
-::: {.callout-tip collapse="true" icon="false"}
-## Desempeño esperado en una tesis sobresaliente
-
-"Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc."
-:::
-
-### Exposición oral
-
-Además del texto de la tesis, existe un criterio para evaluar la exposición oral del trabajo durante la sustentación.
-
-::: {.callout-tip collapse="true" icon="false"}
-## Desempeño esperado en una tesis sobresaliente
-
-"La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos que facilitan la comprensión. Respeta el tiempo asignado y responde con solvencia las preguntas del jurado."
-:::

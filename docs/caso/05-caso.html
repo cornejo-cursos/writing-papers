@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guías de escritura - 5</title>
+<title>Guías de escritura - 5 Calificación</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -65,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/01-caso.html">Contenido</a></li><li class="breadcrumb-item"><a href="../caso/05-caso.html">5</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/01-caso.html">Contenido</a></li><li class="breadcrumb-item"><a href="../caso/05-caso.html">5 Calificación</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -184,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../caso/03-caso.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">3 tipos</span></a>
+ <span class="menu-text">3 Tipos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -196,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../caso/05-caso.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">5</span></a>
+ <span class="menu-text">5 Calificación</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -219,7 +238,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../ej/arrunategui2020.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">1. El estudio de caso en las Ciencias Sociales</span></a>
+ <span class="menu-text">Arrunátegui 2020</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ej/otero2022.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Otero 2022</span></a>
   </div>
 </li>
       </ul>
@@ -230,20 +255,435 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contenido del capítulo</h2>
+   
+  <ul>
+  <li><a href="#las-normas" id="toc-las-normas" class="nav-link active" data-scroll-target="#las-normas"><span class="header-section-number">1</span> Las normas</a>
+  <ul class="collapse">
+  <li><a href="#criterios-de-calidad-en-ciencias-sociales-pucp" id="toc-criterios-de-calidad-en-ciencias-sociales-pucp" class="nav-link" data-scroll-target="#criterios-de-calidad-en-ciencias-sociales-pucp"><span class="header-section-number">1.1</span> Criterios de calidad en Ciencias Sociales PUCP</a></li>
+  <li><a href="#un-estudio-de-caso-con-calificación-mención-sobresaliente" id="toc-un-estudio-de-caso-con-calificación-mención-sobresaliente" class="nav-link" data-scroll-target="#un-estudio-de-caso-con-calificación-mención-sobresaliente"><span class="header-section-number">2.2</span> Un estudio de caso con calificación (mención) sobresaliente</a>
+  <ul class="collapse">
+  <li><a href="#planteamiento-del-problema" id="toc-planteamiento-del-problema" class="nav-link" data-scroll-target="#planteamiento-del-problema">Planteamiento del problema</a></li>
+  <li><a href="#referentes-teóricos" id="toc-referentes-teóricos" class="nav-link" data-scroll-target="#referentes-teóricos">Referentes teóricos</a></li>
+  <li><a href="#datos-y-métodos" id="toc-datos-y-métodos" class="nav-link" data-scroll-target="#datos-y-métodos">Datos y métodos</a></li>
+  <li><a href="#presentación-de-hallazgos-y-conclusiones" id="toc-presentación-de-hallazgos-y-conclusiones" class="nav-link" data-scroll-target="#presentación-de-hallazgos-y-conclusiones">Presentación de hallazgos y conclusiones</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header">
-<h1 class="title display-7">5</h1>
+<h1 class="title display-7">5 Calificación</h1>
 
 </header>
 
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<section id="las-normas" class="level1 page-columns page-full" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Las normas</h1>
+<section id="criterios-de-calidad-en-ciencias-sociales-pucp" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="criterios-de-calidad-en-ciencias-sociales-pucp"><span class="header-section-number">1.1</span> Criterios de calidad en Ciencias Sociales PUCP</h2>
+<div class="justify">
+<p>El 2022, la facultad aprobó los <a href="https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.">“Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022”</a>. En ellos se reglamenta lo siguiente:</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Criterios mínimos de calidad
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Que sea un trabajo original, inédito y no cometa plagio.</li>
+<li>Que esté redactado en lenguaje académico y no tenga faltas de ortografía.</li>
+<li>Que conste de las siguientes partes: introducción, capitulado o secciones, conclusiones y bibliografía (en formato APA más reciente).</li>
+<li>Que presente y trabaje explícitamente: problema de investigación, justificación, problemática o discusión del tema, marco teórico o referencias teóricas, metodología, proceso de sistematización y análisis y conclusiones o reflexiones finales.</li>
+<li>Que tenga coherencia entre todas las partes.</li>
+<li>Que siga el formato indicado por la FCCSS.</li>
+</ol>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Menciones: sin mención, bien, muy bien, sobresaliente
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Durante la sustentación de la tesis, los tres miembros del jurado pueden aprobar o desaprobar el trabajo por mayoría o por unanimidad.</li>
+<li>Cuando la tesis se aprueba por unanimidad, los tres miembros del jurado calificar el trabajo con una mención (bien, muy bien, sobresaliente) o aprobarlo sin mención.</li>
+</ol>
+</div>
+</div>
+<section id="cómo-evaluar-un-estudio-de-caso" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> ¿Cómo evaluar un estudio de caso?</h1>
+<section id="los-criterios-de-calificación" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="los-criterios-de-calificación"><span class="header-section-number">2.1</span> Los criterios de calificación</h2>
+<p>Existe una <a href="../resource/rubrica.html">rúbrica de calificación</a> que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo.</p>
+</section>
+</section>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i> Criterios de calificación
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p></p>
+<table class="table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 29%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th>Bien</th>
+<th>Muy bien</th>
+<th>Sobresaliente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Planteamiento del problema</td>
+<td>Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques.</td>
+<td>Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques.</td>
+<td>Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Referentes teóricos</td>
+<td>Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación.</td>
+<td>Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación.</td>
+<td>Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Datos y métodos</td>
+<td>Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados.</td>
+<td>Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos.</td>
+<td>Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas detalladas que explican la construcción de sus datos.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Presentación de hallazgos y conclusiones</td>
+<td>Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos y sacando las conclusiones pertinentes.</td>
+<td>Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos apoyándose en la revisión de la literatura y el marco teórico y sacando las conclusiones pertinentes.</td>
+<td>Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Exposición oral</td>
+<td>La exposición muestra un orden y estructura comprensibles, respetando el tiempo asignado y respondiendo adecuadamente las preguntas del jurado.</td>
+<td>La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos. Respeta el tiempo asignado y responde adecuadamente las preguntas del jurado.</td>
+<td>La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos que facilitan la comprensión. Respeta el tiempo asignado y responde con solvencia las preguntas del jurado.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="un-estudio-de-caso-con-calificación-mención-sobresaliente" class="level2 page-columns page-full" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="un-estudio-de-caso-con-calificación-mención-sobresaliente"><span class="header-section-number">2.2</span> Un estudio de caso con calificación (mención) sobresaliente</h2>
+<div class="page-columns page-full"><p>Esta sección descompone cada criterio<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> de calificación en subcriterios que te permiten evaluar tu trabajo.</p><div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;Planteamiento del problema, Referentes teóricos, Datos y métodos y Presentación de hallazgos y conclusiones.</p></li></div></div>
+<section id="planteamiento-del-problema" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="planteamiento-del-problema">Planteamiento del problema</h3>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Desempeño esperado en una tesis sobresaliente
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><big> Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.</big></p><big>
+</big><p><big></big></p>
+</div>
+</div>
+</div>
+<p>Para evaluar el planteamiento de un problema de investigación, la rúbrica de la facultad emplea 4 subcriterios.</p>
+<div id="tbl-rubrica-problema" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;2.1: Subcriterios de calificación del Planteamiento del problema y desarrollo de la problemática</caption>
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Subcriterios</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Plantea con claridad el tema de la investigación y justifica su relevancia</td>
+</tr>
+<tr class="even">
+<td>2. El tema y enfoque son novedosos, complejos y/o originales</td>
+</tr>
+<tr class="odd">
+<td>3. Hay coherencia entre las preguntas de investigación y la problemática planteada</td>
+</tr>
+<tr class="even">
+<td>4. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="justify page-columns page-full">
+<div class="page-columns page-full"><p>Un desempeño bueno o muy bueno requiere cumplir con los subcriterios 1, 3 y 4. El <strong>subcriterio 2</strong> distingue a un desempeño sobresaliente. Es decir, <strong>un desempeño sobresaliente demanda que el tema y el enfoque sean novedosos, complejos o originales</strong>. Una forma de presentar una novedad es escoger un tema inexplorado por la disciplina<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>. Otra forma de lograrlo es encontrar un enfoque novedoso para un tema que ya ha sido explorado. La complejidad —coherente y disciplinada— contribuye al planteamiento de un problema de forma novedosa y original. Esa complejidad se puede alcanzar añadiendo ejes de análisis.</p><div class="no-row-height column-margin column-container"><li id="fn2"><p><sup>2</sup>&nbsp;Ver tesis ejemplo Sanchez 2023, que logra comunicar novedad en el planteamiento de su problema.</p></li></div></div>
+<div class="page-columns page-full"><p>Por ejemplo, voy a evaluar el cumplimiento de estos subcriterios en la tesis de <span class="citation" data-cites="arrunáteguimartínez2020">Arrunátegui Martínez (<a href="#ref-arrunáteguimartínez2020" role="doc-biblioref">2020</a>)</span><a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>. La autora presentó su problema en diálogo con la literatura de América Latina y navegó la historia, la educación y la sociología sin extraviarse. Es decir, exploró historia del periodo, la educación sobre la memoria reciente y el análisis sociológico al respecto. Además, cumple con los otros criterios porque logró escribir esta travesía en un discurso fluido, coherente y agradable de leer. En otras palabras, la complejidad no le restó fluidez ni coherencia al texto. Por ello, cumple con el subcriterio 2.</p><div class="no-row-height column-margin column-container"><li id="fn3"><p><sup>3</sup>&nbsp;Ver <a href="../ej/arrunategui2020.html#análisis-de-la-tesis-por-capítulo">aqui</a> el planteamiento del problema.</p></li></div></div>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<div id="tbl-arrunategui2020-rubrica1" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;2.2: Calificación de la sección <em>Planteamiento del Problema</em> de Arrunategui (2020)</caption>
+<colgroup>
+<col style="width: 70%">
+<col style="width: 29%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Subcriterios de calificación de desempeño sobresaliente</th>
+<th>Sí cumple/<br>No cumple</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Plantea con claridad el tema de la investigación y justifica su relevancia</td>
+<td>Sí cumple</td>
+</tr>
+<tr class="even">
+<td>2. <strong>El tema y enfoque son novedosos, complejos y/o originales</strong></td>
+<td>Sí cumple</td>
+</tr>
+<tr class="odd">
+<td>3. Hay coherencia entre las preguntas de investigación y la problemática planteada</td>
+<td>Sí cumple</td>
+</tr>
+<tr class="even">
+<td>4. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques</td>
+<td>Sí cumple</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><big> Ver <a href="../ej/arrunategui2020.html#análisis-de-la-tesis-por-capítulo">aqui</a> el planteamiento completo del problema. </big></p>
+</div>
+</div>
+</div>
+</section>
+<section id="referentes-teóricos" class="level3">
+<h3 class="anchored" data-anchor-id="referentes-teóricos">Referentes teóricos</h3>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Desempeño esperado en una tesis sobresaliente
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><big> Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina. </big></p>
+</div>
+</div>
+</div>
+</section>
+<section id="datos-y-métodos" class="level3">
+<h3 class="anchored" data-anchor-id="datos-y-métodos">Datos y métodos</h3>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Desempeño esperado en una tesis sobresaliente
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><big> Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos </big></p>
+</div>
+</div>
+</div>
+</section>
+<section id="presentación-de-hallazgos-y-conclusiones" class="level3">
+<h3 class="anchored" data-anchor-id="presentación-de-hallazgos-y-conclusiones">Presentación de hallazgos y conclusiones</h3>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Desempeño esperado en una tesis sobresaliente
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><big> Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc. </big></p>
+</div>
+</div>
+</div>
+<p>Para evaluar la presentación de hallazgos y conclusiones, la rúbrica de la facultad emplea 4 subcriterios.</p>
+<div id="tbl-rubrica-hallazgos" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;2.3: Subcriterios de calificación de la presentación de hallazgos y conclusiones</caption>
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Subcriterios</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Exhibe riqueza en los datos para responder a su pregunta de investigación</td>
+</tr>
+<tr class="even">
+<td>2. Organiza los datos de manera lógica y en relación con el problema planteado</td>
+</tr>
+<tr class="odd">
+<td>3. Analiza los datos en diálogo con el marco conceptual y la revisión de literatura</td>
+</tr>
+<tr class="even">
+<td>4. Explicita aportes, futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="justify">
+<p>Un desempeño bueno requiere cumplir los subcriterios 1 y 2. Un desempeño muy bueno requiere, cumplir los subcriterios 1, 2 y 3. Un desempeño sobresaliente demanda dos elementos adicionales. En primero lugar, un desempeño sobresaliente demanda un salto en la calidad y cantidad de los datos presentados. Mientras que un desempeño bueno y muy bueno demandan <strong>presentar datos suficientes</strong>, un desempeño sobresaliente demanda <strong>exhibir riqueza en los datos</strong> en el subcriterio 1. Además, un desempeño sobresaliente demanda cumplir con el subcriterio 4.</p>
+</div>
+<p>Como ejemplo de una tesis que consigue un desempeño sobresaliente en <em>Presentación de hallazgos y conclusiones</em>, puedes revisar <a href="../ej/otero2022.html">aqui</a> el resumen y análisis de los capítulos 5 y 6 de <span class="citation" data-cites="oteromaguiña2022">Otero Maguiña (<a href="#ref-oteromaguiña2022" role="doc-biblioref">2022</a>)</span>[^4].</p>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<div id="tbl-otero2022-rubrica1" class="anchored">
+<table class="table">
+<caption>Tabla&nbsp;2.4: Calificación de la sección <em>Presentación de hallazgos y conclusiones</em> de Otero (2022)</caption>
+<colgroup>
+<col style="width: 70%">
+<col style="width: 29%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Subcriterios de calificación de desempeño sobresaliente</th>
+<th>Sí cumple/<br>No cumple</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1. Exhibe riqueza en los datos para responder a su pregunta de investigación</td>
+<td>Sí cumple</td>
+</tr>
+<tr class="even">
+<td>2. Organiza los datos de manera lógica y en relación con el problema planteado</td>
+<td>Sí cumple</td>
+</tr>
+<tr class="odd">
+<td>3. Analiza los datos en diálogo con el marco conceptual y la revisión de literatura</td>
+<td>Sí cumple</td>
+</tr>
+<tr class="even">
+<td>4. Explicita aportes, futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.</td>
+<td>Sí cumple</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><big> Ver <a href="../ej/otero2022.html">aqui</a> el análisis completo de la tesis, que la autora realiza en los capítulos 5 y 6. </big></p>
+</div>
+</div>
+</div>
 
 
 
-</main> <!-- /main -->
+</section>
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Referencias</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="ref-arrunáteguimartínez2020" class="csl-entry" role="listitem">
+Arrunátegui Martínez, L. G. (2020). <em>Entre el currículo y la memoria : tensiones y negociaciones en la enseñanza de la violencia política por parte de cuatro docentes de un colegio público y emblemático de Lima-Metropolitana</em> [PhD thesis]. <a href="https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793">https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/15793</a>
+</div>
+<div id="ref-oteromaguiña2022" class="csl-entry" role="listitem">
+Otero Maguiña, M. (2022). <em>Entre la adopción y la implementación de una política pública: un estudio sobre el proceso de reglamentación de la Ley de Alimentación Saludable</em>. <a href="https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/22632">https://tesis.pucp.edu.pe/repositorio//handle/20.500.12404/22632</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
