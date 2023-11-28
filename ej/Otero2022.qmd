@@ -53,7 +53,7 @@ La autora eligió organizar su tesis en 6 capítulos. El capítulo 1 (Introducci
 ::::
 
 | Cap. 1                                                                                                                                        | Cap. 2                                                                                                                                               | Cap. 3                                                                       | Cap. 4                                                                                                      | Cap. 5                                       | Cap 6.                                                                                                                                                                |
-|------------|------------|------------|------------|---------------|------------|
+|------------|------------|------------|------------|-----------------|------------|
 | Introducción  | Marco teórico    | La Ley    | Reconstrucción del caso     | Análisis del caso   | Conclusiones    |
 | Tema (*reglamentación* de ley) <br>- Justificación <br>El caso (*reglamentación* de Ley N°30021)<br>Objetivo <br>Argumento <br>Discusión <br>Metodología | <br>1. Definición de *reglamentación* <br>2. Factores que afectan *reglamentación* del caso <br>- Factor 1 <br>- Factor 2 <br>- Factor 3 <br>3. Estudios previos | En perspectiva regional <br>1. Problema público <br>2. Regulación | Antecedentes <br>Periodo de estudio <br>- Gobierno 1 <br>- Gobierno 2 <br>- Gobierno 3 <br>Situación actual | Argumento <br>- Gobierno 1 <br>- Gobierno 2 <br>- Gobierno 3 | Análisis de factores 1, 2 y 3 <br>- Discusión de hallazgos empíricos <br>- Discusión teórica <br>- Lecciones sobre *reglamentación* <br>Recomendaciones de investigación |
 
@@ -101,26 +101,26 @@ De inmediato, sitúa los hallazgos de su trabajo en relación con su antecedente
 #### ¿Cómo lo hizo?
 
 :::: {.justify}
-Dividió el capítulo en 3 partes, cada una tiene un objetivo propio pero que siguen una secuencia lógica. En la primera parte presenta las teorías de la política pública que le permiten conceptualizar la reglamentación como una fase intermedia entre dos etapas (adopción e implementación) del ciclo de políticas públicas. Además, subraya los peligros de asumir la transición automática de una etapa a otra para señalar la naturaleza política ---pero distintiva--- del proceso de reglamentación. En la segunda parte, parte de esta última observación para proponer tres factores que pueden impulsar o frenar el proceso. Cada factor es identificado a partir de diferentes literaturas académicas dentro de la disciplina de la ciencia política o del análisis del funcionamiento de Poder Ejecutivo peruano. En esta parte, presenta una figura (@fig-otero2022-fig1) que sintetiza el funcionamiento de estos factores. Por último, presenta una revisión de los estudios sobre la Ley N°30021.
+Dividió el capítulo en 3 partes, cada parte tiene un objetivo propio pero que está cohesionados por la secuencia lógica que siguen. En la primera parte, presenta las teorías de la política pública que le permiten conceptualizar la reglamentación como una fase intermedia entre dos etapas (adopción e implementación) del ciclo de políticas públicas. Además, subraya los peligros de asumir la transición automática de una etapa a otra para señalar la naturaleza política ---pero distintiva--- del proceso de reglamentación. En la segunda parte, empieza con la caracterización anterior ---la reglamentación como proceso político--- para proponer tres factores que pueden impulsar o frenar el proceso. Cada factor es identificado a partir de diferentes literaturas de la ciencia política o del funcionamiento de Poder Ejecutivo peruano. En esta segunda parte, la autora presenta una figura (@fig-otero2022-fig1) que sintetiza el funcionamiento de estos factores. Por último, la tercera parte presenta una revisión de los estudios sobre la Ley N°30021.
 ::::
 
-::: {#fig-otero2022-fig1}
+::: {#fig-otero2022-fig1 .margin-caption}
 
-![Figura 1: Factores que pueden impulsar o frenar la reglamentación](/files/img/otero2022-fig1.png)
+![Figura 1](/files/img/otero2022-fig1.png)
 Fuente: [@oteromaguiña2022, p. 14 ]
 
-Otero 2022. Figura 1: Factores que pueden impulsar o frenar la reglamentación
+Argumento de Otero 2022
 :::
 
 #### Estudios sobre la Ley N°30021
 
 :::: {.justify}
-Esta tesis tiene un antecedente inmediato que intentó responder la misma pregunta de investigación. Por ello, la autora procedió de la siguiente manera:
+Existe una investigación reciente que intentó responder la misma pregunta de investigación. Es decir, esta tesis tiene un antecedente inmediato que merece especia atención. Por ello, Otero presentó su revisión de literatura de la siguiente manera:
 
-1.  Presentó el antecedente inmediato [@diazgómez2021], resumió su aporte teórico, su enfoque metológico y sus conclusiones.
+1.  Expuso el antecedente inmediato [@diazgómez2021], resumió su aporte teórico, su enfoque metodológico y sus conclusiones.
 2.  Presentó su investigación como complementaria al antecedente inmediato, y subrayó sus diferencias organizadas en tres ejes ---alcance, factores explicativos y hallazgos empíricos adicionales---.
 
-A continuación, la autora sintetiza la literatura en América Latina y las investigaciones sobre el cumplimiento de la Ley N°30021 en Perú.
+A continuación, sintetizó la literatura en América Latina y las investigaciones sobre el cumplimiento de la Ley N°30021 en el Perú.
 ::::
 
 ------------------------------------------------------------------------
@@ -128,7 +128,8 @@ A continuación, la autora sintetiza la literatura en América Latina y las inve
 ### Capítulo 3. La Ley
 
 :::{.callout-note icon="false"  appearance="minimal"}
-Nombre del capítulo en la tesis: `Capítulo 3: La Ley N°30021 en perspectiva regional`
+Nombre del capítulo en la tesis: <br>
+*Capítulo 3: La Ley N°30021 en perspectiva regional*
 :::
 
 :::: {.justify}
@@ -159,7 +160,8 @@ Esta tesis es un estudio del caso peruano y no un estudio comparado. Sin embargo
 ### Capítulo 4. Reconstrucción del caso
 
 :::{.callout-note icon="false"  appearance="minimal"}
-Nombre del capítulo en la tesis: `4. Reconstruyendo la reglamentación de la Ley N°30021`
+Nombre del capítulo en la tesis:  <br>
+*4. Reconstruyendo la reglamentación de la Ley N°30021*
 :::
 
 :::: {.justify}
@@ -181,12 +183,12 @@ Este capítulo reconstruye los principales hitos del ciclo de la política públ
 -   Presentó 
 :::
 
-::: {#fig-otero2022-fig2}
+::: {#fig-otero2022-fig2 .margin-caption}
 
-![Figura 7: Principales hitos del proceso de Reglamentación de la Ley N°30021](/files/img/otero2022-fig2.png)
+![Figura 7](/files/img/otero2022-fig2.png)
 Fuente: [@oteromaguiña2022, p. 33]
 
-Otero 2022. Figura 7: Principales hitos del proceso de Reglamentación de la Ley N°30021
+Principales hitos del proceso de Reglamentación de la Ley N°30021
 :::
 
 
@@ -210,7 +212,8 @@ La investigación estudia la reglamentación de la Ley. Por ende, el periodo de 
 ### Capítulo 5. Análisis del caso
 
 :::{.callout-note icon="false"  appearance="minimal"}
-Nombre del capítulo en la tesis: `5. Analizando la Reglamentación de la Ley N°30021`
+Nombre del capítulo en la tesis  <br>
+*5. Analizando la Reglamentación de la Ley N°30021*
 :::
 
 :::: {.justify}
@@ -312,18 +315,22 @@ En cada gobierno, la autora analiza la evidencia y provee una explicación del c
 -   Presentó lecciones sobre el proceso de reglamentación
 -   Presentó recomendaciones de investigación
 :::
+::::
+
+---
 
 ### Calificación
-### Calificación de la presentación de hallazgos y conclusiones (capítulos 5 y 6) {.unnumbered}
 
+#### Calificación de la presentación de hallazgos y conclusiones (capítulos 5 y 6)
+
+:::: {.justify}
 Para evaluar la presentación de hallazgos y conclusiones, la rúbrica de la facultad emplea 4 criterios. Un desempeño bueno requiere cumplir los criterios 1 y 2. Un desempeño muy bueno requiere, cumplir los criterios 1, 2 y 3. Un desempeño sobresaliente demanda dos elementos adicionales. En primero lugar, un desempeño sobresaliente demanda un salto en la calidad y cantidad de los datos presentados. Mientras que un desempeño bueno y muy bueno demanda **presentar datos suficientes**, un desempeño sobresaliente demanda **exhibir riqueza en los datos** en el criterio 1. Además, un desempeño sobresaliente demanda cumplir con el criterio 4.
-
 ::::
 
 ::: {.callout-warning collapse="false" icon="false"}
 ## <i class="bi bi-binoculars"></i> Aplicación de la rúbrica
 
-| Criterio de calificación de tesis sobresaliente                         | Sí cumple/<br>No cumple |
+| Subcriterio de calificación de tesis sobresaliente                         | Sí cumple/<br>No cumple |
 |---------------------------------------------------|---------------------|
 | 1\. Exhibe riqueza en los datos para responder a su pregunta de investigación      | Sí cumple               |
 | 2\. Organiza los datos de manera lógica y en relación con el problema planteado      | Sí cumple               |
@@ -335,6 +342,7 @@ Para evaluar la presentación de hallazgos y conclusiones, la rúbrica de la fac
 Ver la [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orienta la deliberación del jurado en la evaluación de cualquier tesis
 :::
 
+----
 
 ## Anexos importantes
 
@@ -343,12 +351,13 @@ Ver la [rúbrica de calificación](/resource/rubrica.qmd#tbl-rubrica) que orient
 
 :::: {.callout-warning collapse="true" icon="false"}
 ## <i class="bi bi-binoculars"></i> Ver Anexo A: Relación de Personas Entrevistadas
+
 ::: {#fig-otero2022-anxA}
 
 ![AnexoA](/files/img/otero2022-anx1.png)
 Fuente: [@oteromaguiña2022, p. 88]
 
-Otero 2022. Anexo A: Relación de Personas Entrevistadas
+Relación de Personas Entrevistadas en Otero (2022)
 :::
 ::::
 
@@ -362,7 +371,7 @@ Otero 2022. Anexo A: Relación de Personas Entrevistadas
 ![AnexoB](/files/img/otero2022-anx2.png)
 Fuente: [@oteromaguiña2022, p. 89]
 
-Otero 2022. Anexo B: Normas Publicadas por el Ejecutivo con Relación al Artículo 10
+Relación de normas en Otero (2022)
 :::
 ::::
 
@@ -378,7 +387,7 @@ Otero 2022. Anexo B: Normas Publicadas por el Ejecutivo con Relación al Artícu
 
 Fuente: [@oteromaguiña2022, pp. 90-91]
 
-Otero 2022. Anexo C: Listado de Ministros de los Sectores Competentes Durante el Periodo de Reglamentación de la Ley N°30021
+Relación de Ministros durante la investigación de Otero (2022)
 :::
 ::::
 
@@ -394,7 +403,7 @@ Otero 2022. Anexo C: Listado de Ministros de los Sectores Competentes Durante el
 ![AnexoE](/files/img/otero2022-anx5.png)
 Fuente: [@oteromaguiña2022, p. 93]
 
-Otero 2022. Anexo E: Ejemplos de Normas Cuya Reglamentación se Encuentra Pendiente
+Relación de normas de reglamentación pendiente mencionadas en Otero (2022)
 :::
 ::::
 

@@ -1,0 +1,16 @@
+{
+  "hash": "fa9b3d6447fa5f30311cdd621be0990e",
+  "result": {
+    "markdown": "---\ntitle: \"3 Tipos\"\n\nbibliography: references.bib\nreference-location: margin\n\nnumber-sections: true\nnumber-depth: 2\ncrossref:\n  chapters: true\n\nengine: knitr\n---\n\n\nEntre objetos y procesos (Coller 2005)\n\nAlgunos ejemplos de estudio de caso\n\nEstudio de caso de individuos Estudio de caso de comunidades Estudio de caso de grupos sociales Estudio de caso de organizaciones e instituciones Estudio de caso de eventos, roles y relaciones\n\nPolíticas Procesos\n\n\n",
+    "supporting": [
+      "03-caso_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

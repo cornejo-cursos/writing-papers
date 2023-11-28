@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guías de escritura - ¿Cómo usar esta guía?</title>
+<title>Guías de escritura - Testing code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../caso/intro-03.html" rel="next">
-<link href="../caso/intro-01.html" rel="prev">
+<link href="../ej/arrunategui2020.html" rel="next">
+<link href="../caso/06-caso.html" rel="prev">
 <link href="..//files/img/pucp-favicon-512.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -65,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/index.html">Prefacio</a></li><li class="breadcrumb-item"><a href="../caso/intro-02.html">¿Cómo usar esta guía?</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../caso/01-caso.html">Contenido</a></li><li class="breadcrumb-item"><a href="../caso/testing-code.html">Testing code</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../caso/intro-02.html" class="sidebar-item-text sidebar-link active">
+  <a href="../caso/intro-02.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">¿Cómo usar esta guía?</span></a>
   </div>
 </li>
@@ -207,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../caso/testing-code.html" class="sidebar-item-text sidebar-link">
+  <a href="../caso/testing-code.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Testing code</span></a>
   </div>
 </li>
@@ -246,28 +246,51 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contenido del capítulo</h2>
    
   <ul>
-  <li><a href="#para-encontrar-ejemplos-modelos-e-inspiración" id="toc-para-encontrar-ejemplos-modelos-e-inspiración" class="nav-link active" data-scroll-target="#para-encontrar-ejemplos-modelos-e-inspiración">Para encontrar ejemplos, modelos e inspiración</a></li>
-  <li><a href="#para-evaluar-tu-trabajo-con-rigurosidad" id="toc-para-evaluar-tu-trabajo-con-rigurosidad" class="nav-link" data-scroll-target="#para-evaluar-tu-trabajo-con-rigurosidad">Para evaluar tu trabajo con rigurosidad</a></li>
-  <li><a href="#para-entender-la-estructura-de-una-tesis-de-este-tipo" id="toc-para-entender-la-estructura-de-una-tesis-de-este-tipo" class="nav-link" data-scroll-target="#para-entender-la-estructura-de-una-tesis-de-este-tipo">Para entender la estructura de una tesis de este tipo</a></li>
+  <li><a href="#callouts" id="toc-callouts" class="nav-link active" data-scroll-target="#callouts">Callouts</a>
+  <ul class="collapse">
+  <li><a href="#callaouts-con-encabezados-e-ínconos-sin-título-personalizado" id="toc-callaouts-con-encabezados-e-ínconos-sin-título-personalizado" class="nav-link" data-scroll-target="#callaouts-con-encabezados-e-ínconos-sin-título-personalizado">Callaouts con encabezados e ínconos, sin título personalizado</a></li>
+  <li><a href="#callouts-colapsables-sin-íconos" id="toc-callouts-colapsables-sin-íconos" class="nav-link" data-scroll-target="#callouts-colapsables-sin-íconos">Callouts colapsables sin íconos</a></li>
+  </ul></li>
+  <li><a href="#callouts-más-simples" id="toc-callouts-más-simples" class="nav-link" data-scroll-target="#callouts-más-simples">Callouts más simples</a>
+  <ul class="collapse">
+  <li><a href="#simple-sin-encabezado-y-con-ícono" id="toc-simple-sin-encabezado-y-con-ícono" class="nav-link" data-scroll-target="#simple-sin-encabezado-y-con-ícono">Simple: sin encabezado y con ícono</a></li>
+  <li><a href="#minimal-sin-encabezado-y-sin-ícono" id="toc-minimal-sin-encabezado-y-sin-ícono" class="nav-link" data-scroll-target="#minimal-sin-encabezado-y-sin-ícono">Minimal: sin encabezado y sin ícono</a></li>
+  </ul></li>
+  <li><a href="#código-a-reponer-a-la-web-final" id="toc-código-a-reponer-a-la-web-final" class="nav-link" data-scroll-target="#código-a-reponer-a-la-web-final">Código a reponer a la web final</a>
+  <ul class="collapse">
+  <li><a href="#a-index.qmd-home-page" id="toc-a-index.qmd-home-page" class="nav-link" data-scroll-target="#a-index.qmd-home-page">A index.qmd (home page)</a></li>
+  </ul></li>
+  <li><a href="#ejemplos-de-código-útil" id="toc-ejemplos-de-código-útil" class="nav-link" data-scroll-target="#ejemplos-de-código-útil">Ejemplos de Código útil</a>
+  <ul class="collapse">
+  <li><a href="#lista-extraña" id="toc-lista-extraña" class="nav-link" data-scroll-target="#lista-extraña">Lista extraña</a></li>
+  </ul></li>
+  <li><a href="#trabajar-al-margen" id="toc-trabajar-al-margen" class="nav-link" data-scroll-target="#trabajar-al-margen">Trabajar al margen</a>
+  <ul class="collapse">
+  <li><a href="#titulos-de-figuras-al-margen" id="toc-titulos-de-figuras-al-margen" class="nav-link" data-scroll-target="#titulos-de-figuras-al-margen">Titulos de figuras al margen</a>
+  <ul class="collapse">
+  <li><a href="#código-1" id="toc-código-1" class="nav-link" data-scroll-target="#código-1">Código 1</a></li>
+  <li><a href="#código-2" id="toc-código-2" class="nav-link" data-scroll-target="#código-2">Código 2</a></li>
+  <li><a href="#código-3" id="toc-código-3" class="nav-link" data-scroll-target="#código-3">Código 3</a></li>
+  <li><a href="#código-4" id="toc-código-4" class="nav-link" data-scroll-target="#código-4">Código 4</a></li>
+  </ul></li>
+  <li><a href="#textos-al-margen" id="toc-textos-al-margen" class="nav-link" data-scroll-target="#textos-al-margen">Textos al margen</a></li>
+  </ul></li>
+  <li><a href="#refencing" id="toc-refencing" class="nav-link" data-scroll-target="#refencing">Refencing</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header">
-<h1 class="title display-7">¿Cómo usar esta guía?</h1>
+<h1 class="title display-7">Testing code</h1>
 
 </header>
 
-<section id="para-encontrar-ejemplos-modelos-e-inspiración" class="level2">
-<h2 class="anchored" data-anchor-id="para-encontrar-ejemplos-modelos-e-inspiración">Para encontrar ejemplos, modelos e inspiración</h2>
-</section>
-<section id="para-evaluar-tu-trabajo-con-rigurosidad" class="level2">
-<h2 class="anchored" data-anchor-id="para-evaluar-tu-trabajo-con-rigurosidad">Para evaluar tu trabajo con rigurosidad</h2>
-</section>
-<section id="para-entender-la-estructura-de-una-tesis-de-este-tipo" class="level2">
-<h2 class="anchored" data-anchor-id="para-entender-la-estructura-de-una-tesis-de-este-tipo">Para entender la estructura de una tesis de este tipo</h2>
+<section id="callouts" class="level1">
+<h1>Callouts</h1>
+<section id="callaouts-con-encabezados-e-ínconos-sin-título-personalizado" class="level2">
+<h2 class="anchored" data-anchor-id="callaouts-con-encabezados-e-ínconos-sin-título-personalizado">Callaouts con encabezados e ínconos, sin título personalizado</h2>
 <p>Este libro ofrece:</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -279,7 +302,7 @@ Idea principal
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Ideas principales: <code>ideas clave</code>, <code>la esencia</code>, <code>tips</code> y <code>secretos del arte</code>.</p>
+<p>Ideas principales: <code>ideas clave</code>, <code>la esencia</code>, <code>tips</code> y <code>secretos del arte</code></p>
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -334,11 +357,287 @@ Lecturas
 <p>Advertencias: <code>errores frecuentes</code>, <code>faltas graves</code>, <code>peligros</code> y <code>descuidos comunes</code></p>
 </div>
 </div>
+</section>
+<section id="callouts-colapsables-sin-íconos" class="level2">
+<h2 class="anchored" data-anchor-id="callouts-colapsables-sin-íconos">Callouts colapsables sin íconos</h2>
+<div class="callout callout-style-default callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Título del callout
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Ideas principales: <code>ideas clave</code>, <code>la esencia</code>, <code>tips</code> y <code>secretos del arte</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Título del callout
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Información adicional más relevante: <code>normas</code>, <code>recursos</code>, <code>herramientas</code>, <code>estadísticas</code> y <code>tendencias</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Título del callout
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Ejemplos: <code>trabajos sobresalientes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-important no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Título del callout
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Principales recursos para conocer más: <code>lecturas clave</code> y <code>fuentes más relevantes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Título del callout
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Advertencias: <code>errores frecuentes</code>, <code>faltas graves</code>, <code>peligros</code> y <code>descuidos comunes</code></p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="callouts-más-simples" class="level1">
+<h1>Callouts más simples</h1>
+<section id="simple-sin-encabezado-y-con-ícono" class="level2">
+<h2 class="anchored" data-anchor-id="simple-sin-encabezado-y-con-ícono">Simple: sin encabezado y con ícono</h2>
+<div class="callout callout-style-simple callout-tip">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Ideas principales: <code>ideas clave</code>, <code>la esencia</code>, <code>tips</code> y <code>secretos del arte</code></p>
+</div>
+</div>
+</div>
+</section>
+<section id="minimal-sin-encabezado-y-sin-ícono" class="level2">
+<h2 class="anchored" data-anchor-id="minimal-sin-encabezado-y-sin-ícono">Minimal: sin encabezado y sin ícono</h2>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Información adicional más relevante: <code>normas</code>, <code>recursos</code>, <code>herramientas</code>, <code>estadísticas</code> y <code>tendencias</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i>
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-11" class="callout-11-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><code>trabajos sobresalientes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-12-contents" aria-controls="callout-12" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-binoculars"></i> Ejemplo: sociología
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-12" class="callout-12-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><code>trabajos sobresalientes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-important">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Principales recursos para conocer más: <code>lecturas clave</code> y <code>fuentes más relevantes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<i class="bi bi-book"></i> Lecturas
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-13" class="callout-13-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><code>errores frecuentes</code>, <code>faltas graves</code>, <code>peligros</code> y <code>descuidos comunes</code></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Ojo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Using callouts is an effective way to highlight content that your reader give special consideration or attention.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="código-a-reponer-a-la-web-final" class="level1">
+<h1>Código a reponer a la web final</h1>
+<section id="a-index.qmd-home-page" class="level2">
+<h2 class="anchored" data-anchor-id="a-index.qmd-home-page">A index.qmd (home page)</h2>
+<ul>
+<li><i class="bi bi-twitter"></i> &nbsp; <a href="https://www.twitter.com/Cornejo_Roman_">Cornejo_Roman_</a></li>
+<li><i class="bi bi-linkedin"></i> &nbsp; <a href="https://www.linkedin.com/in/cesar-cornejo-roman">cesar-cornejo-roman</a></li>
+</ul>
+</section>
+</section>
+<section id="ejemplos-de-código-útil" class="level1">
+<h1>Ejemplos de Código útil</h1>
+<section id="lista-extraña" class="level2">
+<h2 class="anchored" data-anchor-id="lista-extraña">Lista extraña</h2>
+<pre><code>-   Problema de investigación
+-   Preguntas
+-   Objetivos
+-   Hipótesis
+-   Concepto y/o categoría clave
+-   Variables
+-   Categorías
+-   Herramientas metodológicas</code></pre>
+</section>
+</section>
+<section id="trabajar-al-margen" class="level1 page-columns page-full">
+<h1>Trabajar al margen</h1>
+<section id="titulos-de-figuras-al-margen" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="titulos-de-figuras-al-margen">Titulos de figuras al margen</h2>
+<div id="fig-rubrica1" class="quarto-figure quarto-figure-center anchored page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="..\files/img/rubrica.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption margin-caption">Figura&nbsp;1: Anatomy of a randomized experiment.</figcaption>
+</figure>
+</div>
+<section id="código-1" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="código-1">Código 1</h3>
+<div id="fig-rubrica-prueba" class="quarto-figure quarto-figure-center anchored page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="..\files/img/rubrica.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption margin-caption">Figura&nbsp;2: Rúbrica de calificación de tesis</figcaption>
+</figure>
+</div>
+</section>
+<section id="código-2" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="código-2">Código 2</h3>
+
+<div class="no-row-height column-margin column-container"><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="..\files/img/rubrica.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Imagen al margen concon texto, otro código</figcaption>
+</figure>
+</div></div><p>Mira la <a href="#fig-rubrica-prueba">Figura&nbsp;2</a> para conocer en detalle los criterios de calificación.</p>
+</section>
+<section id="código-3" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="código-3">Código 3</h3>
+<p>Con #fig-label</p>
+
+<div class="no-row-height column-margin column-container"><div id="fig-label" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="..\files/img/PUCP-logo-alta-solobarco.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figura&nbsp;3: Descripción o caption.</figcaption>
+</figure>
+</div></div></section>
+<section id="código-4" class="level3">
+<h3 class="anchored" data-anchor-id="código-4">Código 4</h3>
+<p>Declarando una columna al margen ::: column-margin <img src="..\files/img/PUCP-logo-alta-solobarco.png" class="aside img-fluid" alt="A margin image"> Texto que describe la imagen :::</p>
+</section>
+</section>
+<section id="textos-al-margen" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="textos-al-margen">Textos al margen</h2>
+<p>Texto principal [^2] [^2]: Nota al margen</p>
+<blockquote class="blockquote">
+<p>Texto principal.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</blockquote>
+<div class="page-columns page-full"><p></p><div class="no-row-height column-margin column-container"><span class="">Otra nota random al margen.</span></div></div>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Columna al margen <em>textos</em> <strong>con énfasis</strong> <strong><em>más énfasis</em></strong></p>
+</div></div></section>
+</section>
+<section id="refencing" class="level1">
+<h1>Refencing</h1>
+<p>Recuerda la <a href="../caso/index.html#sec-propuesta">propuesta</a> del libro</p>
+<p>Label Prefix #def-<br>
+#exm-</p>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas</h2>
+
+<ol>
+<li id="fn1"><p>Nota al margen.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -574,13 +873,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../caso/intro-01.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">¿Qué ofrece esta guía?</span>
+      <a href="../caso/06-caso.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">6 Cierre</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../caso/intro-03.html" class="pagination-link">
-        <span class="nav-page-text">¿Cómo citar esta guía?</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../ej/arrunategui2020.html" class="pagination-link">
+        <span class="nav-page-text">Arrunátegui 2020</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

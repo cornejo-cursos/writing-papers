@@ -1,8 +1,15 @@
 ---
 title: "3 Tipos"
 
+bibliography: references.bib
 reference-location: margin
-citation-location: margin
+
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
 ---
 
 Entre objetos y procesos (Coller 2005)
@@ -13,41 +20,4 @@ Estudio de caso de individuos Estudio de caso de comunidades Estudio de caso de 
 
 Políticas Procesos
 
-## Letras más pequeñas
 
--   <i class="bi bi-youtube"></i> DJ Patil, ["What Makes a Radical and Revolutionary Technology?"](https://www.youtube.com/watch?v=UOoMzaWOQJA)
-    -   <small>(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)</small>
-
-## Footnotes
-
-Here is an inline note.[^1]
-
-[^1]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
-
-Here is a footnote reference,[^2] and another.[^3]
-
-[^2]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
-
-[^3]: Here's one with multiple blocks.
-
-    Subsequent paragraphs are indented to show that they belong to the previous footnote.
-
-    ```         
-    { some.code }
-    ```
-
-    The whole paragraph can be indented, or just the first line. In this way, multi-paragraph footnotes work like multi-paragraph list items.
-
-This paragraph won't be part of the note, because it isn't indented.
-
-## Anotaciones al margen
-
-[This is a span that has the class `aside` which places it in the margin without a footnote number.]{.aside}
-
-::: column-margin
-![A margin image](~/tesis-pucp/files/img/pucp-logo-alta-solobarco.png)
-:::
-
-::: column-margin
-We know from *the first fundamental theorem of calculus* that for xyz
-:::

@@ -4,9 +4,15 @@ subtitle: "Guía de escritura de tesis tipo estudio de caso no comparativo"
 date-format: DD/MM/YYYY
 date: "01/12/2023"
 
+bibliography: references.bib
+reference-location: margin
+
 number-sections: true
+number-depth: 2
 crossref:
   chapters: true
+
+engine: knitr
 ---
 
 Autor:
@@ -31,67 +37,12 @@ Esta Guía no es un libro de metodología; en cambio, es una guía de escritura 
 
 ## Delete from here
 
-[Nota al margen.]{.aside}
-
-"Un conjunto de prácticas, hallazgos y enfoques que permiten la construcción de experimentos robustos, precisos y generalizables"
-
-::: column-margin
-Columna al margen *textos* **con énfasis** ***más énfasis***
-:::
-
-Here is an inline note.[^1]
-
-[^1]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
-
-::: column-margin
-![A margin image](/files/img/PUCP-logo-alta-solobarco.png){.aside} Texto que describe la imagen
-:::
-
-Texto a continuación de la imagen al margen Continuar escribiendo otro parrafo
-
-Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
-
-![Elephant](/files/img/PUCP-logo-alta-solobarco.png){#fig-elephant}
-
-![Descripción o caption.](/files/img/PUCP-logo-alta-solobarco.png){#fig-label .column-margin}
-
-![Three reasons why money and happiness can be correlated.](/files/img/rubrica.png){.column-margin}
-
-Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
-
-Here is a footnote reference [^2]
-
-[^2]: Inlines notes are easier to write, since you don't have to pick an identifier and move down to type the note.
-
-Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
-
-Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
-
-Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba. Mucho texto de prueba.
 
 
-See @fig-elephant for an illustration.
-
------------------------
 
 
-![Rúbrica de calificación de tesis](/files/img/rubrica.png){#fig-rubrica-prueba}
-
-Mira la @fig-rubrica-prueba para conocer en detalle los criterios de calificación.
 
 
-Label Prefix
-#def-	
-#exm-	
 
 
-Recuerda la [propuesta] @sec-propuesta del libro
 
-Recuerda la [propuesta](@sec-propuesta) del libro
-
-
-::: {.callout-note appearance="simple"}
-## Ojo
-
-Using callouts is an effective way to highlight content that your reader give special consideration or attention.
-:::

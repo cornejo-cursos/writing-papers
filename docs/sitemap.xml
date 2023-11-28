@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://econpucp.github.io/caso/index.html</loc>
-    <lastmod>2023-11-27T12:22:34.997Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/intro-01.html</loc>
-    <lastmod>2023-11-25T16:21:50.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/01-caso.html</loc>
-    <lastmod>2023-11-27T11:55:53.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/02-caso.html</loc>
-    <lastmod>2023-11-27T09:26:53.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/03-caso.html</loc>
-    <lastmod>2023-11-27T09:20:48.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/04-caso.html</loc>
-    <lastmod>2023-11-27T09:20:49.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/05-caso.html</loc>
-    <lastmod>2023-11-27T11:55:50.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/caso/06-caso.html</loc>
-    <lastmod>2023-11-27T11:55:52.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econpucp.github.io/resource/index.html</loc>
-    <lastmod>2023-11-27T11:55:58.923Z</lastmod>
-  </url>
-  <url>
     <loc>https://econpucp.github.io/resource/rubrica.html</loc>
-    <lastmod>2023-11-27T11:56:04.722Z</lastmod>
+    <lastmod>2023-11-28T05:58:55.136Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/index.html</loc>
-    <lastmod>2023-11-27T12:21:02.450Z</lastmod>
+    <loc>https://econpucp.github.io/reglamentos/index.html</loc>
+    <lastmod>2023-11-28T05:58:54.318Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/ej/ej-caso.html</loc>
-    <lastmod>2023-11-24T02:15:08.807Z</lastmod>
+    <loc>https://econpucp.github.io/ej/tipo.html</loc>
+    <lastmod>2023-11-28T05:58:53.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/ej/especialidad.html</loc>
+    <lastmod>2023-11-28T05:58:51.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/testing-code.html</loc>
+    <lastmod>2023-11-28T05:58:50.316Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-02.html</loc>
-    <lastmod>2023-11-25T16:22:04.372Z</lastmod>
+    <lastmod>2023-11-28T05:58:49.508Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/caso/callouts-test.html</loc>
-    <lastmod>2023-11-27T12:21:01.555Z</lastmod>
+    <loc>https://econpucp.github.io/caso/index.html</loc>
+    <lastmod>2023-11-28T05:58:48.701Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/ej/arrunategui-2019.html</loc>
-    <lastmod>2023-11-24T00:59:40.075Z</lastmod>
+    <loc>https://econpucp.github.io/caso/05-caso.html</loc>
+    <lastmod>2023-11-28T05:58:48.015Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/ej/arrunategui2020.html</loc>
-    <lastmod>2023-11-27T11:55:46.444Z</lastmod>
+    <loc>https://econpucp.github.io/caso/03-caso.html</loc>
+    <lastmod>2023-11-28T05:58:46.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/01-caso.html</loc>
+    <lastmod>2023-11-28T05:58:46.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/02-caso.html</loc>
+    <lastmod>2023-11-28T05:58:46.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/04-caso.html</loc>
+    <lastmod>2023-11-28T05:58:47.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/06-caso.html</loc>
+    <lastmod>2023-11-28T05:58:48.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/caso/intro-01.html</loc>
+    <lastmod>2023-11-28T05:58:49.078Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/caso/intro-03.html</loc>
-    <lastmod>2023-11-27T09:15:10.733Z</lastmod>
+    <lastmod>2023-11-28T05:58:49.837Z</lastmod>
   </url>
   <url>
-    <loc>https://econpucp.github.io/ej/Otero2022.html</loc>
-    <lastmod>2023-11-27T07:30:45.299Z</lastmod>
+    <loc>https://econpucp.github.io/ej/arrunategui2020.html</loc>
+    <lastmod>2023-11-28T05:58:51.536Z</lastmod>
   </url>
   <url>
     <loc>https://econpucp.github.io/ej/otero2022.html</loc>
-    <lastmod>2023-11-27T11:59:17.601Z</lastmod>
+    <lastmod>2023-11-28T05:58:53.069Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/index.html</loc>
+    <lastmod>2023-11-28T05:58:54.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econpucp.github.io/resource/index.html</loc>
+    <lastmod>2023-11-28T05:58:54.719Z</lastmod>
   </url>
 </urlset>

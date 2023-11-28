@@ -23,7 +23,7 @@ website:
         file: caso/index.qmd
         icon: book-half
       - text: "Ejemplos"
-        href: ej/index.qmd
+        href: ej/tipo.qmd
         icon: binoculars
       - text: "Recursos"
         file: resource/index.qmd
@@ -53,6 +53,7 @@ website:
             - caso/04-caso.qmd              
             - caso/05-caso.qmd
             - caso/06-caso.qmd
+            - caso/testing-code.qmd
 
         - section: "Ejemplos"
           contents:
@@ -61,22 +62,14 @@ website:
             
     - title: "Ejemplos"
       contents:
-        - section: "Empieza aquí"
-          contents:
-            - ej/index.qmd
-        - section: "Ejemplos por especialidad"
-          contents:
-            - ej/sociologia.qmd
-            - ej/ciencia-politica.qmd
-        - section: "Ejemplos por tipo de tesis"
-          contents:
-            - ej/ej-caso.qmd
-            - ej/ej-comparado.qmd
+            - ej/tipo.qmd
+            - ej/especialidad.qmd
 
     - title: "Recursos"
       contents:
             - resource/index.qmd
             - resource/rubrica.qmd
+            - reglamentos/index.qmd
 
     - title: "Reglamentos"
       contents:
@@ -87,7 +80,7 @@ website:
       Content <i class="bi bi-cc-circle"></i> {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
-      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+      [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
     right: |
       Proyecto elaborado para la [facultad de Ciencias Sociales de la PUCP](https://facultad.pucp.edu.pe/ciencias-sociales/)
 

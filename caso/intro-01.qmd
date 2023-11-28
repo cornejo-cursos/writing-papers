@@ -14,7 +14,7 @@ Esta guía ofrece ejemplos, estándares y formatos (estructuras textuales). Los 
 Esta Guía te dirige hacia una selección de trabajos recientes que puedes usar como inspiración y modelo para escribir tu tesis.
 :::
 
-Esta Guía ilustra sus indicaciones con ejemplos de tesis recientes de la facultad de Ciencias Sociales de la PUCP que obtuvieron la mención (calificación) de sobresaliente. En la sección [Ejemplos](/ej/ej-caso.qmd) se listan y clasifican las tesis sobresalientes empleadas en esta Guía. Aunque la mayoría de tesis de la facultad de Ciencias Sociales de la PUCP se pueden descargar del {{< fa arrow-up-right-from-square >}} [Repositorio de tesis](https://repositorio.pucp.edu.pe/index/handle/123456789/9120), no existe información pública sobre la calificación que obtuvo cada trabajo.
+Esta Guía ilustra sus indicaciones con ejemplos de tesis recientes de la facultad de Ciencias Sociales de la PUCP que obtuvieron la mención (calificación) de sobresaliente. En la sección [Ejemplos](/ej/tipo.qmd) se listan y clasifican las tesis sobresalientes empleadas en esta Guía. Aunque la mayoría de tesis de la facultad de Ciencias Sociales de la PUCP se pueden descargar del {{< fa arrow-up-right-from-square >}} [Repositorio de tesis](https://repositorio.pucp.edu.pe/index/handle/123456789/9120), no existe información pública sobre la calificación que obtuvo cada trabajo.
 
 ### Estándares para evaluar tu trabajo con rigurosidad
 
@@ -46,7 +46,7 @@ Cornejo, Cesar 2023. Guía de escritura de tesis tipo estudio de caso (no compar
 
 <p class="buttons" style="text-align:center;">
 
-[<i class="bi bi-list-check"></i> Leer esta guía en orden](/caso/01-caso.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver ejemplos de este tipo de tesis](/ej/ej-caso.qmd){.btn .btn-danger}
+[<i class="bi bi-list-check"></i> Leer esta guía en orden](/caso/01-caso.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver ejemplos de este tipo de tesis](/ej/tipo.qmd){.btn .btn-danger}
 
 </p>
 
