@@ -2,7 +2,7 @@
 title: "Escribir un estudio de caso"
 subtitle: "Guía de escritura de tesis tipo estudio de caso no comparativo"
 date-format: DD/MM/YYYY
-date: "01/12/2023"
+date: "12/01/2023"
 
 bibliography: references.bib
 reference-location: margin
