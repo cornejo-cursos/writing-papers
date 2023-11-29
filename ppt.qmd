@@ -1,0 +1,13 @@
+---
+title: "Presentaciones"
+navbar: false
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+---
+
+
+[Presentación CCSS 11/2023](https://www.canva.com/design/DAF1eWlKblA/x5bvNFCs7_GpsrgxQO8zsQ/edit?utm_content=DAF1eWlKblA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Descargar presentación](https://drive.google.com/file/d/1slAE0gyrVXLjSSuOOThZwrPb5YVTkc9E/view?usp=sharing)
