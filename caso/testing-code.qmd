@@ -172,3 +172,8 @@ Recuerda la [propuesta](/caso/index.qmd#sec-propuesta) del libro
 Label Prefix
 #def-	
 #exm-	
+
+# Incluir pdf u otros docs ppts etc en una página
+
+[ver aquí](https://github.com/quarto-dev/quarto-cli/discussions/5863)
+
