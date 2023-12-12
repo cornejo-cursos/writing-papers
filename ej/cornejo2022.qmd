@@ -1,0 +1,393 @@
+---
+title: "Cornejo 2022"
+bibliography: references.bib
+reference-location: margin
+number-sections: false
+number-depth: 2
+crossref:
+  chapters: true
+engine: knitr
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+# Título
+
+<font size="+3"> Rentas sin desarrollo. Una crítica estructural de la narrativa histórica del proyecto neoliberal </font>
+
+# Resumen
+
+::: justify
+En el presente ensayo reconstruyo una narrativa de la economía
+neoliberal elaborada por los historiadores económicos Hunt y Contreras.
+A continuación, ofrezco una crítica estructuralista de esta narrativa.
+Esta crítica consiste en subrayar dos omisiones de esta narrativa que
+una mirada estructuralista permite subsanar. Primero, el desarrollo
+requiere un cambio en la estructura productiva del país hacia
+actividades complejas de alta productividad. El neoliberalismo, en
+cambio, consiste en la movilización de rentas sin cambio estructural.
+Segundo, la lógica de acumulación del capitalismo ha cambiado, y las
+estrategias clásicas de desarrollo basadas en la industrialización de
+los sectores manufactureros se han tornado inoperantes para producir
+cambios en la estructura económica y saltos de productividad. Este
+cambio en la lógica misma de acumulación del capital es omitido por la
+narrativa Hunt-Contreras, a pesar de coincidir con el periodo de
+globalización en que este cambio se produce, y de clausurar la única
+estrategia de desarrollo históricamente corroborada.
+:::
+
+#### Palabras clave {.unnumbered}
+
+desarrollo, neoliberalismo, estructuralismo, Hunt-Contreras, economía
+peruana
+
+#### Número de palabras: 2272
+
+# Introducción {.unnumbered}
+
+::: justify
+En el presente ensayo ofrezco una crítica estructuralista a la historia
+económica de Hunt-Contreras sobre el periodo neoliberal de la economía
+peruana. Para construir una narrativa coherente de estos referentes de
+la historia económica, he escogido 3 artículos escritos en 3 periodos
+cruciales de la implementación del modelo neoliberal: su inicio
+impetuoso (Hunt, 2011), su reafirmación democrática (Contreras, 2013) y
+la pausa actual producida por el fin del último ciclo de alta demanda de
+materias primas (Contreras, 2018). A continuación, procederé a subrayar
+dos omisiones de esta narrativa que una mirada estructuralista permite
+corregir. Primero, el desarrollo requiere un cambio en la estructura
+productiva del país hacia actividades complejas de alta productividad.
+Al transitar la población de actividades informales en sectores de baja
+productividad a sectores formales de alta productividad, se lograría
+superar el dualismo de la economía mediante un salto de productividad.
+Esta transformación estructural solo se ha logrado mediante deliberadas
+y sostenidas estrategias de desarrollo que pasan por la
+industrialización. El neoliberalismo documentado por Hunt-Contreras
+carece de estrategia de desarrollo para realizar este cambio
+estructural. Segundo, la lógica de acumulación del capitalismo ha
+cambiado, y las estrategias clásicas de desarrollo se han tornado
+inoperantes. Los casos de desarrollo exitoso se han sostenido por la
+capacidad de los sectores de manufacturas para absorber mano de obra
+poco calificada. Los cambios tecnológicos sesgados hacia el uso
+intensivo de capital y hacia el uso de mano de obra altamente capacitada
+neutralizan la ventaja comparativa de los países en desarrollo.
+Asimismo, la segmentación y globalización de la producción impiden que
+el sector manufacturero juegue su papel histórico de generar empleo
+formal mientras que produce un salto de productividad. La narrativa
+Hunt-Contreras considera al neoliberalismo como un modelo de desarrollo
+-equiparable a la sustitución de importaciones o la promoción de
+exportaciones de los países Asiáticos- y omite el hecho que el cambio
+del capitalismo requiere repensar la estrategia de desarrollo entendido
+como cambio estructural. A continuación, procederé a esbozar la
+narrativa Hunt-Contreras para luego formular dos críticas
+estructuralistas.
+:::
+
+# Desarrollo del ensayo {.unnumbered}
+## Narrativa Hunt-Contreras {.unnumbered}
+
+::: justify
+Para Hunt (2011) el desarrollo es producto de un modelo de desarrollo
+consistente en dos ámbitos: político y económico. Su implementación
+requiere un Estado fuerte que lo dirija. La promoción de exportaciones y
+la sustitución de importaciones fueron los modelos probados durante el
+siglo XX. En Asia, burocracias sólidas implementaron exitosamente el
+primero. En Latinoamérica, el populismo como tecnología de gobierno
+poli-clasista cosechó éxitos con el segundo. En el Perú, no hay Estado,
+clase o coalición que pueda sostener dicho proyecto en el tiempo, más
+allá de los periodos de gobierno. Hunt escribe este artículo en 1993,
+luego de la disolución del congreso y en el momento más impetuoso de
+implementación del neoliberalismo. Hunt inscribe al neoliberalismo como
+un modelo de desarrollo fundamentado en la atracción de inversiones
+garantizadas por un estado fuerte pero mínimo. Es decir, Hunt lo suma a
+las estrategias de desarrollo anotadas arriba, aunque señala sus
+reservas sobre las posibilidades del modelo de sostenerse en el tiempo.
+
+Contreras (2013) hace un balance de los aciertos y limitaciones del
+dependentismo como corpus teórico para explicar el subdesarrollo.
+Contreras parte de la premisa de la autonomía relativa del Estado y de
+la investigación histórica reciente para concluir que no es posible
+atribuir el fracaso de las políticas estatales a las élites, como lo
+hizo el dependentismo. Las élites tuvieron proyectos, y su control del
+Estado fue variable, pero el Estado no tuvo capacidad para implementar
+ningún proyecto. Con este movimiento, suscribe a la crítica de Hernando
+de Soto sobre la incapacidad y debilidad estatal. En su texto, escrito
+el 2003, apuesta por una división del trabajo intelectual:
+"dependentismo para explicar el estancamiento de las regiones y el
+centralismo económico; liberalismo para justificar la falta de
+revolución industrial y el mejor desempeño de las políticas económicas
+estatales" (Contreras, 2013: 48). El 2003 el neoliberalismo había
+conquistado una reafirmación democrática con el gobierno de Alejandro
+Toledo. Aunque se inspira en De Soto en sus críticas al Estado, lo
+califica como liberal y en este texto Contreras no emplea el término
+neoliberal, como sí lo hará en el siguiente texto.
+
+A vísperas del bicentenario Contreras (2018) concluye que la economía
+dual que se inauguró en la colonia se mantiene después de la
+implementación plena del modelo neoliberal. Un sector exportador (de
+alta productividad) y un sector de subsistencia (de baja productividad)
+conviven pero involucran diferentes poblaciones, espacios y ciclos. El
+historiador encumbra al sector exportador como motor y soporte de "la
+economía" a través de la recaudación fiscal y sus puntos de contacto con
+el sector de subsistencia. El boom exportador habría permitido una gran
+recaudación fiscal focalizando apoyo pecuniario directo a segmentos de
+la población involucrados en el sector de subsistencia. Asimismo,
+durante el periodo neoliberal, se habría logrado la diversificación del
+mercado de exportaciones a la cuenca del Pacífico. Este es, para el
+historiador, el cambio más notable en dos siglos de República. En este
+momento de la historia, Contreras identifica dos discursos contrapuestos
+sobre cómo proceder. Los críticos subrayan la incapacidad del modelo
+para lograr una diversificación productiva, industrialización y
+desarrollo sostenible equitativo. En este sentido, estaríamos frente a
+un episodio más de la prosperidad falaz. Los optimistas reivindican las
+reformas del periodo y recomiendan un nuevo paquete de reformas:
+incremento de la productividad, mejora de la educación pública y reforma
+de las instituciones liberales (policía, poder judicial y partidos
+políticos).
+
+Los 3 artículos leídos en conjunto ofrecen la lectura coherente de la
+historia económica del Perú en 3 periodos cruciales de la implementación
+del modelo neoliberal: su inicio impetuoso (1993), su reafirmación
+democrática (2003) y la pausa actual producida por el fin del último
+ciclo de alta demanda de materias primas (2018). Es posible cuestionar a
+esta narrativa su simple reducción de desarrollo a crecimiento
+económico. Sin embargo, voy a obviar este elemento y considerar que el
+desarrollo requiere, en efecto, un crecimiento económico sostenido. Voy
+a anotar dos omisiones que una mirada estructuralista permite corregir.
+:::
+
+## Neoliberalismo como rentas sin desarrollo {.unnumbered}
+
+::: justify
+El neoliberalismo documentado por Hunt-Contreras carece de estrategia de
+desarrollo para realizar este cambio estructural. Una economía
+subdesarrollada exhibe islas de productividad en medio de extensos
+sectores de muy baja productividad. El problema central del desarrollo
+económico es la transformación estructural para superar este dualismo
+económico. Todo proyecto de desarrollo se ha caracterizado por movilizar
+la fuerza de trabajo hacia las zonas modernas de la economía donde la
+alta productividad está asociada a la formalidad y al Estado. Aunque el
+dualismo es un tema clásico de la economía del desarrollo, en la
+actualidad es una característica endémica de las regiones menos
+desarrolladas en los países desarrollados (Rodríguez-Pose & Wilkie,
+2019; Rodrik & Sabel, 2019).
+
+Una estrategia tradicional de desarrollo cumplía la función de movilizar
+a la población desde la agricultura informal de baja productividad hacia
+sectores manufactureros formales y de alta productividad. En los casos
+documentados de desarrollo exitoso, la población transitó posteriormente
+de las manufacturas al sector servicios de mayor productividad. El
+crecimiento proviene de los saltos en los niveles de productividad al
+pasar de la agricultura a la manufactura y a los servicios (Adaman,
+2021; Reijnders & de Vries, 2018). Durante el siglo XX, las estrategias
+que permitieron el cambio estructural fueron la promoción de
+importaciones y la sustitución de importaciones (Hunt, 2011). El
+neoliberalismo, en cambio, se ha materializado en Latinoamérica
+produciendo desindustrialización (Pierce & Schott, 2018; Rodrik, 2020) y
+un reforzamiento de proyectos de exportación de materias primas. Este
+proyecto puede ser considerado una actualización de la economía de
+enclave y ha sido denominado neo-extractivismo por un sector de
+economistas latinoamericanos (Contreras, 2017). La viabilidad política
+de este proyecto viene dada por la transferencia de rentas de las
+industrias extractivas a los gobiernos locales y su materialización en
+proyectos de infraestructura (Irarrázaval, 2022). Al analizar las rentas
+de la extracción de gas en Perú y Bolivia, Irarrázaval (2022) muestra
+que el extractivismo se sostiene políticamente distribuyendo rentas
+locales a través de tres procesos: la imagen del desarrollo, el
+copamiento de élites locales a través de la corrupción, y la
+dinamización del mercado laboral local. Desde un punto de vista
+estructural, el neoliberalismo no es un proyecto de desarrollo al no
+generar un cambio estructural sucesivo hacia actividades de mayor
+productividad. La movilización y distribución de rentas sin cambio
+estructural no genera desarrollo, desde una perspectiva estructural. En
+la narrativa Hunt-Contreras no se realiza ninguna distinción entre
+modelo de desarrollo y modelo de crecimiento económico. La dimensión del
+cambio estructural se soslaya y el neoliberalismo se perfila como un
+incierto modelo de desarrollo sostenido en la promoción de
+exportaciones. No obstante, la promoción de exportaciones como modelo de
+desarrollo implementado en los países Asiáticos pasaba por una
+transformación estructural.
+:::
+
+## El agotamiento de las manufacturas como motor de desarrollo {.unnumbered}
+
+::: justify
+Para superar el dualismo de la economía, los países no desarrollados han
+recurrido tradicionalmente a las manufacturas. El problema radica en que
+esta estrategia parece estar agotada por razones estructurales. El
+cambio tecnológico con sus sesgos en favor del capital ha configurado
+una frontera tecnológica en el sector manufacturero cada vez más
+intensivo en capital y en mano de obra con altos niveles de capacitación
+(Acemoglu & Autor, 2011; Acemoglu & Restrepo, 2018, 2019). Al mismo
+tiempo, los cambios en la producción global con la configuración de
+cadenas de suministros altamente segmentadas y globalizada hace
+imposible a cualquier empresa manufacturera (en cualquier lugar del
+mundo) competir a menos que se encuentre en la frontera tecnológica
+(Antràs, 2020; Bilir & Morales, 2020; Dallas et al., 2019; Durand &
+Milberg, 2020; Milberg & Winkler, 2013). Por tanto, el cambio
+tecnológico global sesgado contra las dotaciones de los países en
+desarrollo (mano de obra poco capacitada) ha reducido la efectividad de
+la industrialización de las manufacturas como vehículo de crecimiento.
+
+Siguiendo a Rodrik y sus coautores (Diao et al., 2019, 2021; Rodrik,
+2021), este fenómeno puede ser observado actualmente en los países de
+ingresos medios e ingresos bajos. En países de ingresos medios se ha
+documentado una desindustrialización prematura, donde el movimiento
+hacia servicios está ocurriendo a niveles de ingreso menores a los
+países exitosos en décadas previas. Por su parte, los países de ingresos
+bajos que logran desarrollar sus industrias manufactureras exhiben
+movimientos de urbanización rápidos y masivos hacia sectores de
+servicios urbanos con niveles de productividad comparables con la
+agricultura informal de baja productividad. De esta manera, los saltos
+de productividad no se materializan. Es más, el desarrollo de la
+manufactura en estas nuevas condiciones de la economía global está
+llevando a un dualismo dentro del sector manufacturero que ya no puede
+generar empleo como en décadas anteriores. Por un lado, una empresa
+manufacturera que absorbe mano de obra poco calificada no puede competir
+a nivel global, y constituye un sector manufacturero de poca
+productividad. Por otro lado, una empresa manufacturera competitiva de
+alta productividad no puede absorber la mano de obra de un país
+desarrollado. En ninguno de los casos la manufactura puede producir los
+saltos en productividad requeridos por una estrategia de desarrollo. El
+contraste empírico ofrecido por Diao et al. (2021) entre Taiwán y
+Vietnam (por un lado) y Etiopía y Tanzania (por el otro) es revelador.
+En Taiwán y Vietnam el crecimiento del empleo formal fue el motor del
+crecimiento de la manufactura. Por el contrario, en los exitosos y
+recientes casos de desarrollo manufacturero de Etiopía y Tanzania el
+movimiento se dirige hacia pequeñas empresas manufactureras informales
+con bajo nivel de productividad.
+
+Este cambio tecnológico global representa un triple golpe para el empleo
+(Rodrik, 2021). Primero, hay una pérdida directa de empleo porque el
+sector manufacturero requiere estructuralmente menos mano de obra poco
+calificada. Segundo, hay un cambio en la técnica de producción hacia un
+uso más intensivo de tecnología como requisito para ser competitivo en
+un sector globalizado, produciendo menos empleo. Tercero, hay un efecto
+dinámico, porque incrementar empleo en este sector requiere insumos
+complementarios como capital, habilidades ausentes en la fuerza de
+trabajo de los países en desarrollo e infraestructura que es más escasa
+en las economías en desarrollo.
+
+Lo que ofreció históricamente la manufactura fue un sector donde la
+convergencia tecnológica era posible, generaba mucho empleo para mucha
+mano de obra poco capacitada, y podía expandirse sin restricciones hacia
+un mercado global. El cambio estructural en este sector deja al
+desarrollo sin estrategia probada, representando un cambio estructural
+en la lógica misma de acumulación del capital y las posibilidades del
+desarrollo. Estos cambios se han venido gestando desde la década de 1970
+y han sido documentados por diferentes tradiciones de estudio de la
+economía (Antràs, 2020; Coe & Yeung, 2019; Durand & Milberg, 2020;
+Gereffi & Fernandez-Stark, 2018; Iversen & Cusack, 2000; Rodrik, 2021;
+Taglioni & Winkler, 2016; Timmer et al., 2014). La ausencia de la
+integración de este cambio en la narrativa Hunt-Contreras -que cubre
+precisamente el periodo de la globalización- se puede corregir con la
+mirada estructural en la cual la tradición de la historia económica
+latinoamericana ha sido pionera.
+:::
+
+# Conclusión {.unnumbered}
+
+::: justify
+En síntesis, la narrativa Hunt-Contreras producida durante el periodo
+neoliberal de la economía peruana subraya las limitaciones de la
+economía política peruana para sostener un proyecto de desarrollo.
+Asimismo, documenta los desafíos del neoliberalismo para superar el
+dualismo del subdesarrollo al tiempo que le atribuye algunos éxitos. Sin
+embargo, la narrativa parece confundir generación de rentas con
+desarrollo, crecimiento de exportaciones con modelo de desarrollo basado
+en exportaciones, y omite la discusión de las restricciones
+estructurales impuestas por la fase actual del capitalismo global a
+cualquier proyecto de desarrollo de la economía peruana. Estas omisiones
+pueden ser corregidas con una mirada estructuralista y el regreso a los
+elementos básicos del desarrollo clásico: la búsqueda de una estrategia
+de desarrollo viable de cambio estructural.
+:::
+
+# Bibliografía {.unnumbered}
+
+Acemoglu, D., & Autor, D. (2011). Skills, tasks and technologies:
+Implications for employment and earnings. In Handbook of Labor Economics
+(Vol. 4, Issue PART B). Elsevier Inc.
+https://doi.org/10.1016/S0169-7218(11)02410-5 Acemoglu, D., & Restrepo,
+P. (2018). The Race between Man and Machine: Implications of Technology
+for Growth, Factor Shares, and Employment. American Economic Review,
+108(6), 1488--1542. https://doi.org/10.1257/aer.20160696 Acemoglu, D., &
+Restrepo, P. (2019). Automation and New Tasks: How Technology Displaces
+and Reinstates Labor. Journal of Economic Perspectives, 33(2), 3--30.
+https://doi.org/10.1257/jep.33.2.3 Adaman, F. (2021). How to Create More
+Inclusive Economies: An Interview with Dani Rodrik. Development and
+Change, 52(4), 952--964. https://doi.org/10.1111/dech.12649 Antràs, P.
+(2020). Conceptual Aspects of Global Value Chains. The World Bank
+Economic Review, 34(3), 551--574. https://doi.org/10.1093/wber/lhaa006
+Bilir, L. K., & Morales, E. (2020). Innovation in the global firm.
+Journal of Political Economy, 128(4), 1566--1625.
+https://doi.org/10.1086/705418 Coe, N. M., & Yeung, H. W. (2019). Global
+production networks: mapping recent conceptual developments. Journal of
+Economic Geography, 19(4), 775--801. https://doi.org/10.1093/jeg/lbz018
+Contreras Carranza, C. (2013). La teoría de la dependencia en la
+historia económica sobre la república. In El aprendizaje del
+capitalismo. Estudios de historia económica y social del Perú
+republicano (pp. 21--48). IEP Ediciones. Contreras Carranza, C. (2017).
+Déniz, José y Eugenia Correa (coords.). Estrategias
+primario-exportadoras en un mundo global. México-Zacatecas: Universidad
+Autónoma de Zacatecas y Miguel Angel Porrúa, 2016. 190 pp. Economia,
+40(79), 229--232.
+https://revistas.pucp.edu.pe/index.php/economia/article/view/19279
+Contreras Carranza, C. (2018). La Economía Peruana en vísperas del
+Bicentenario de La Independencia (No. 459).
+http://files.pucp.edu.pe/departamento/economia/DDD459.pdfhttp://files.pucp.edu.pe/departamento/economia/DDD459.pdf
+Dallas, M. P., Ponte, S., & Sturgeon, T. J. (2019). Power in global
+value chains. Review of International Political Economy, 26(4),
+666--694. https://doi.org/10.1080/09692290.2019.1608284 Diao, X., Ellis,
+M., McMillan, M. S., & Rodrik, D. (2021). Africa's Manufacturing Puzzle:
+Evidence from Tanzanian and Ethiopian Firms (No. 28344).
+http://www.nber.org/papers/w28344 Diao, X., McMillan, M., & Rodrik, D.
+(2019). The Recent Growth Boom in Developing Economies: A
+Structural-Change Perspective. In M. Nissanke & J. A. Ocampo (Eds.), The
+Palgrave Handbook of Development Economics (pp. 281--334). Springer
+International Publishing. https://doi.org/10.1007/978-3-030-14000-7_9
+Durand, C., & Milberg, W. (2020). Intellectual monopoly in global value
+chains. Review of International Political Economy, 27(2), 404--429.
+https://doi.org/10.1080/09692290.2019.1660703 Gereffi, G., &
+Fernandez-Stark, K. (2018). Global Value Chain Analysis: A Primer
+(Second Edition). Global Value Chains and Development, 305--342.
+https://doi.org/10.1017/9781108559423.012 Hunt, S. J. (2011). Perú: La
+actual situación económica en una perspectiva de largo plazo. In La
+formación de La economía peruana crecimiento y distribución en La
+historia deL perú y américa Latina (pp. 367--423). Banco central de
+reserva del Perú, IEP InstItuto de estudIos Peruanos, PontIfIcIa
+unIversIdad católIca del Perú. Irarrázaval, F. (2022). Mobilising Rents:
+Natural Gas Production Networks and the Landlord State in Peru and
+Bolivia. Antipode, 0(0), 1--23. https://doi.org/10.1111/anti.12800
+Iversen, T., & Cusack, T. R. (2000). The causes of welfare state
+expansion: Deindustrialization or globalization? World Politics, 52(3),
+313--349. https://doi.org/10.1017/S0043887100016567 Milberg, W., &
+Winkler, D. (2013). Economic Development as Industrial Upgrading in
+Global Value Chains. Outsourcing Economics, 238--283.
+https://doi.org/10.1017/CBO9781139208772.008 Pierce, J. R., & Schott, P.
+K. (2018). Investment responses to trade liberalization: Evidence from
+U.S. industries and establishments. Journal of International Economics,
+115, 203--222. https://doi.org/10.1016/j.jinteco.2018.09.005 Reijnders,
+L. S. M., & de Vries, G. J. (2018). Technology, offshoring and the rise
+of non-routine jobs. Journal of Development Economics, 135(October
+2017), 412--432. https://doi.org/10.1016/j.jdeveco.2018.08.009
+Rodríguez-Pose, A., & Wilkie, C. (2019). Innovating in less developed
+regions: What drives patenting in the lagging regions of Europe and
+North America. Growth and Change, 50(1), 4--37.
+https://doi.org/10.1111/grow.12280 Rodrik, D. (2020). Why Does
+Globalization Fuel Populism? NBER Working Paper Series, June.
+https://doi.org/10.3386/w27526 Rodrik, D. (2021). PROSPECTS FOR GLOBAL
+ECONOMIC CONVERGENCE UNDER NEW TECHNOLOGIES (Issue November).
+https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/prospects_for_global_economic_convergence_under_new_technologies.pdf
+Rodrik, D., & Sabel, C. (2019). Building a good jobs economy (Issue
+November). Taglioni, D., & Winkler, D. (2016). Making Global Value
+Chains Work for Development. In Making Global Value Chains Work for
+Development. World Bank. https://doi.org/10.1596/978-1-4648-0157-0
+Timmer, M. P., Erumban, A. A., Los, B., Stehrer, R., & de Vries, G. J.
+(2014). Slicing Up Global Value Chains. Journal of Economic
+Perspectives, 28(2), 99--118. https://doi.org/10.1257/JEP.28.2.99
+:::
