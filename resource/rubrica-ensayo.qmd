@@ -40,35 +40,54 @@ La @tbl-prop-crit muestra la relación entre los propósitos de la parte princip
 
 # Secuencia lógica (argumentación válida)
 
+:::{.callout-note icon="false"}
 ## ¿Qué significa?
 
-Vínculo controversia (tema) - tesis (pregunta, postura, objetivos, hipótesis) - argumentos (razones) - evidencia (respaldos)
+El ensayo presenta una controversia (tema), la delimita para presentar una tesis específica (pregunta, postura, objetivos, hipótesis), los argumentos (razones) que defienden la tesis y la evidencia que respalda cada argumento (respaldos)
 
+:::
+
+:::{.callout-note icon="false"}
 ## ¿Cómo se evalúa?
 
-Estructura lógica
+Existe un vínculo evidente y unívoco entre los siguientes elementos:
+controversia (tema) - tesis (pregunta, postura, objetivos, hipótesis) - argumentos (razones) - evidencia (respaldos)
+
+Se evalúa la estructura lógica en tres niveles:
 - A nivel de todo el texto
 - Dentro de cada parte del ensayo
 - Dentro de cada párrafo
+:::
 
 # Uso de Evidencia (argumentación sólida)
 
+:::{.callout-note icon="false"}
 ## ¿Qué significa?
 
+El ensayo desarrolla sus ideas presentando evidencia que respalda de manera suficiente los argumentos, demostrando un dominio de la literatura relevante para la disciplina en la que se circunscribe el texto y presenta sus argumentos y evidencia de una manera original.
+
+:::
+
+:::{.callout-note icon="false"}
+## ¿Cómo se evalúa? 
+
+En el ensayo demuestra:
 - Desarrollo suficiente de respaldos
 Demuestra un dominio de la literatura pertinente = La evidencia analizada es convincente para una audiencia de científicos sociales bien delimitada (la sociología política)
 - Dominio de la literatura
 - Originalidad
+- Intertextualidad: diálogo académico o "desarrollo de ideas estableciendo un diálogo con la literatura de la disciplina"
 
-## ¿Cómo se evalúa? 
-Intertextualidad (diálogo académico) = "desarrollo de ideas"
-Calidad el trabajo empírico: evidencia, datos y análisis
-- appropriateness
-- quantity
-- detail
-- accuracy
+Además, cuando se emplea evidencia empírica, se evalúa la calidad el trabajo empírico: evidencia, datos y análisis. La evidencia presentada debe ser:
+- **apropiada**
+- **en la cantidad suficiente**
+- **detallada**
+- **precisa**
+:::
 
 # Evaluar cumplimiento de los propósitos formales {.unnumbered}
+
+Cohesión y coherencia se confunden con facilidad, porque son solo herramientas analíticas para analizar nuestro ensayo. La cohesión se centra en la dimensión linguística del texto y la coherencia en la dimensión lógica del texto. 
 
 ::: callout-tip
 ## Pregunta guía para el evaluador
@@ -77,39 +96,74 @@ Calidad el trabajo empírico: evidencia, datos y análisis
 
 # Coherencia textual
 
+:::{.callout-note icon="false"}
 ## ¿Qué significa?
-- Organización y estructura del trabajo
+Un texto coherente es un texto que sigue una secuencia lógica de ideas que se relacionan entre sí de manera comprensible. La coherencia se centra en la conexión lógica y temática en el nivel más amplio del contenido.
+:::
+
+:::{.callout-note icon="false"}
+## ¿Cómo se evalúa?
+Para evaluar la coherencia, se examina la organización y la estructura del trabajo en tres niveles:
 	- A nivel de todo el texto
 	- Dentro de cada parte
 	- Dentro de cada párrafo
-Clave: consistencia
-
-## ¿Cómo se evalúa?
+:::
 
 # Cohesión textual
 
+:::{.callout-note icon="false"}
 ## ¿Qué significa?
-Referentes y conectores lógicos
 
+La cohesión se refiere a la conexión y fluidez en la estructura del texto mediante el uso de elementos lingüísticos, como conectores, pronombres y repeticiones, que vinculan las ideas y oraciones.
+
+La cohesión se centra en la conexión gramatical y lingüística dentro del texto. 
+
+Un texto cohesionado es también un texto fluido, donde las transiciones se producen de manera natural. Las transiciones ayudan a los lectores a seguir el hilo del argumento. Para conseguir un texto fluido, se emplea referentes y conectores lógicos.
+
+:::
+
+:::{.callout-note icon="false"}
+## ¿Cómo se evalúa?
+
+Se evalúa el uso de elementos para conseguir un texto fluido:
+- Utiliza conectores para conectar las ideas. Los conectores son palabras o frases que ayudan a los lectores a seguir el hilo del argumento.
+- Utiliza pronombres para evitar la repetición. Los pronombres pueden sustituir a sustantivos o frases ya mencionados, lo que ayuda a mantener el texto fluido.
+- Utiliza repeticiones para enfatizar las ideas importantes. Las repeticiones pueden utilizarse de manera estratégica para enfatizar las ideas importantes o para crear un efecto estilístico.
+- Utiliza referentes para evitar la repetición.
+
+Se evalúa a dos niveles:
 - Interparrafal
 - Intraparrafal
 
-## ¿Cómo se evalúa?
-
+:::
 
 # Estilo académico
 
-## ¿Qué significa?
-- Uso de fuentes
-- Construcción de oraciones
-	- Claro vs ambiguo
-	- Conciso
-	- Consistencia en la terminología
-- Léxico
-- Ortografía, puntuación y tildes
-- Respeto del formato establecido en las indicaciones
+El estilo apropiado es el que empleamos en el ámbito académico para transmitir ideas, investigar, analizar, discutir y criticar. Este estilo pretende comunicar con objetividad la evidencia y los razonamientos. La recomendación convencional es escribir con un lenguaje formal, objetivo e impersonal. Lo importante es ser consistente: no escribir una parte en primera persona y otra en impersonal.
 
+:::{.callout-note icon="false"}
+## ¿Qué significa?
+- Uso apropiado de fuentes siguiendo el sistema de citado APA
+- Construcción de oraciones
+	- Claras sin ambiguedad
+	- Concisas
+	- Consistencia en la terminología
+	- Consistencia en el timpo (impersonal o primera persona)
+- Léxico académico
+- Sin ningún error en ortografía, puntuación y tildes
+- Respeta el formato establecido en las indicaciones
+:::
+
+:::{.callout-note icon="false"}
 ## ¿Cómo se evalúa?
 
+- Usa fuentes para respaldar sus afirmaciones
+- Es claro: evita ambigüedades, utiliza estructuras gramaticales directas y asegúrate de que cada oración comunique una idea de manera precisa
+- Es conciso: elimina redundancias y texto ---palabras, oraciones e incluso párrafos--- innecesario para comunicar las ideas de manera directa
+- Es consistente: define claramente los términos especializados y no cambies de terminología a lo largo del texto
+- Emplea un vocabulario académico y emplea el léxico de tu especialidad con precisión
+- Respeta las normas de ortografía, puntuación y tildación del español
+- Respeta el formato estipulado para tu trabajo
+:::
 
 

@@ -100,7 +100,7 @@ Estos tres capítulos te ofrecen instrucciones directas para escribir todas las 
 ::: callout-tip
 ## Idea central
 
-El ejemplo te ofrece el análisis de un ensayo reciente calificado con la máxima nota (20) en un curso de la facultad.
+[El ejemplo](/ej/cornejo2022.qmd) te ofrece el análisis de un ensayo reciente calificado con la máxima nota (20) en un curso de la facultad.
 :::
 
 
@@ -109,12 +109,9 @@ El ejemplo te ofrece el análisis de un ensayo reciente calificado con la máxim
 ::: callout-tip
 ## Idea central
 
-La rúbrica presenta los criterios de calificación del ensayo.
-:::
-
-::: justify
 [Este rúbrica](/resource/rubrica-ensayo.qmd) presenta los criterios de evaluación del ensayo argumentativo en ciencias sociales.
 :::
+
 
 ## ¿Cómo citar esta guía? {.unnumbered}
 

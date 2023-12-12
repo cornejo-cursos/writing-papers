@@ -100,7 +100,7 @@ En el ámbito académico, la mayoría demandamos que la tesis sea identificable 
 :::{.callout-important}
 ## Errores y desafíos comunes
 
-El principal problema desafío al cumplir este propósito es presentar afirmaciones no respaldadas por evidencias o argumentos sólidos. Algunos errores más comunes son:
+El principal error al intentar cumplir con este propósito es presentar afirmaciones no respaldadas por evidencias o argumentos sólidos. Algunos errores más comunes son:
 
 - Uso inadecuado de fuentes y citas
 - Falta de respaldo de los argumentos con evidencias
@@ -209,7 +209,7 @@ Un texto cohesionado es también un texto fluido, donde las transiciones se prod
 # Escribir en estilo académico
 
 ::: justify
-El estilo apropiado es el que empleamos en el ámbito académico para transmitir ideas, investigar, analizar, discutir y criticar. Este estilo pretende comunicar con objetividad la evidencia y los razonamientos. La recomendación convencional es escribir con un lenguaje formal, objetivo e impersonal. Sin embargo, las convenciones actuales han puesto en cuestión la impersonalidad. Yo no la recomiendo, pero es una elección de cada autor. Mi recomendación es conciliar la comunicación objetiva de las ideas con la voz propia del autor, en lugar de enunciar las ideas ocultando la subjetividad y parcialidad de cualquier autor. Lo importante es ser consistente: no escriir una parte en primera persona y otra en impersonal. Además de ello, debes seguir las convenciones que voy a enumerar a continuación porque son un consenso en el ámbito académico.
+El estilo apropiado es el que empleamos en el ámbito académico para transmitir ideas, investigar, analizar, discutir y criticar. Este estilo pretende comunicar con objetividad la evidencia y los razonamientos. La recomendación convencional es escribir con un lenguaje formal, objetivo e impersonal. Sin embargo, las convenciones actuales han puesto en cuestión la impersonalidad. Yo no la recomiendo, pero es una elección de cada autor. Mi recomendación es conciliar la comunicación objetiva de las ideas con la voz propia del autor, en lugar de enunciar las ideas ocultando la subjetividad y parcialidad de cualquier autor. Lo importante es ser consistente: no escribir una parte en primera persona y otra en impersonal. Además de ello, debes seguir las convenciones que voy a enumerar a continuación porque son un consenso en el ámbito académico.
 
 Algunas de estas convenciones tienen que ver con el tono y otras con el formato. El tono se refiere al estilo de lenguaje y la actitud del autor hacia el tema, mientras que el formato se refiere a la estructura y presentación del texto. Ambas son cruciales para comunicar con eficacia. Además de las recomendaciones que yo listo, debes seguir las convenciones de citado APA para guiarte en el uso de fuentes y respetar las instrucciones para tu trabajo. Adaptarse a diversas instrucciones es una habilidad muy importante en la vida académica y profesional.
 :::
