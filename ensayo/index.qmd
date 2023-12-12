@@ -81,15 +81,16 @@ La estructura contiene todos las instrucciones para escribir todas las partes de
 # Estructura
 
 ::: justify
-La estructura de un ensayo cumple un papel crucial al sostener, organizar y dar forma a los argumentos que defienden la **tesis**, permitiendo que las ideas se desarrollen de manera clara y efectiva. Todo ensayo tiene una estructura similar: tres partes que cumplen propósitos específicos en el proceso de demostración de la tesis. Las tres partes del ensayo argumentativo son:
+La estructura de un ensayo cumple un papel crucial al sostener, organizar y dar forma a los argumentos que defienden la **tesis**, permitiendo que las ideas se desarrollen de manera clara y efectiva. Todo ensayo tiene una estructura similar: tres partes que cumplen propósitos específicos en el proceso de demostración de la tesis.
 :::
+
+::: callout-tip
+## Idea central
+Las tres partes del ensayo argumentativo son:
 
 - Introducción [Ver capítulo](/ensayo/01-ensayo.qmd)
 - Desarrollo [Ver capítulo](/ensayo/02-ensayo.qmd)
 - Conclusión [Ver capítulo](/ensayo/03-ensayo.qmd)
-
-::: callout-tip
-## Idea central
 
 Estos tres capítulos te ofrecen instrucciones directas para escribir todas las partes del ensayo con propósitos bien definidos
 
