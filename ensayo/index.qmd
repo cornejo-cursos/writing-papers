@@ -122,6 +122,6 @@ Cornejo, Cesar 2023. Escribir un ensayo en ciencias sociales. Guía de escritura
 
 <p class="buttons" style="text-align:center;">
 
-[<i class="bi bi-list-check"></i> Leer esta guía en orden](/ensayo/01-ensayo.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver la rúbrica de calificación](/resource/rubrica-ensayo.qmd){.btn .btn-danger}
+[<i class="bi bi-list-check"></i> Leer esta guía en orden](/ensayo/01-ensayo.qmd){.btn .btn-danger} [<i class="bi bi-arrow-up-right-square"></i> Ver los criterios de calificación](/resource/rubrica-ensayo.qmd){.btn .btn-danger}
 
 </p>
