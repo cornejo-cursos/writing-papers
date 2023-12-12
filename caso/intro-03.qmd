@@ -1,6 +1,0 @@
----
-title: "¿Cómo citar esta guía?"
----
-
-Pendiente: Generar DOI para esta guía.
-
