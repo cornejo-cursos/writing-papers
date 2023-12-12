@@ -1,0 +1,115 @@
+---
+title: "Criterios de evaluación"
+subtitle: "Criterios de evaluación del ensayo argumentativo en ciencias sociales"
+date-format: DD/MM/YYYY
+date: "12/12/2023"
+
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+---
+
+La @tbl-prop-crit muestra la relación entre los propósitos de la parte principal del ensayo ([el desarrollo](/ensayo/01-ensayo.qmd)) y los criterios de evaluación que se desarrollan en detalle en este capítulo.
+
+| Propósitos                   | Criterios de evaluación                      |
+|------------------------------|----------------------------------------------|
+| **Propósitos argumentativos**    |                                              |
+| 1. Presentar argumentos respaldados por evidencia    | 1. Secuencia lógica                          |
+| 2. Refutar posibles objeciones o contraargumentos     | 1. Secuencia lógica <br> 2. Uso de evidencia     |
+| 3. Respetar el alcance delimitado     | 2. Uso de Evidencia                          |
+| **Propósitos formales**           |                                              |
+| 4. Desarrollar la tesis de manera coherente      | 3. Coherencia textual                       |
+| 5. Escribir un texto cohesionado   | 4. Cohesión textual                          |
+| 6. Escribir en estilo académico  | 5. Estilo académico                         |
+
+: Relación entre los propósitos del desarrollo del ensayo y los criterios de evaluación {#tbl-prop-crit} {tbl-colwidths="\[65,35\]"}
+
+
+
+# Criterios de evaluación {.unnumbered}
+
+# Evaluar cumplimiento de los propósitos argumentativos {.unnumbered}
+
+::: callout-tip
+## Pregunta guía para el evaluador 
+¿En qué medida el autor consiguió demostrar su tesis mediante una argumentación válida (lógica) y sólida (bien respaldada con evidencia)?
+:::
+
+# Secuencia lógica (argumentación válida)
+
+## ¿Qué significa?
+
+Vínculo controversia (tema) - tesis (pregunta, postura, objetivos, hipótesis) - argumentos (razones) - evidencia (respaldos)
+
+## ¿Cómo se evalúa?
+
+Estructura lógica
+- A nivel de todo el texto
+- Dentro de cada parte del ensayo
+- Dentro de cada párrafo
+
+# Uso de Evidencia (argumentación sólida)
+
+## ¿Qué significa?
+
+- Desarrollo suficiente de respaldos
+Demuestra un dominio de la literatura pertinente = La evidencia analizada es convincente para una audiencia de científicos sociales bien delimitada (la sociología política)
+- Dominio de la literatura
+- Originalidad
+
+## ¿Cómo se evalúa? 
+Intertextualidad (diálogo académico) = "desarrollo de ideas"
+Calidad el trabajo empírico: evidencia, datos y análisis
+- appropriateness
+- quantity
+- detail
+- accuracy
+
+# Evaluar cumplimiento de los propósitos formales {.unnumbered}
+
+::: callout-tip
+## Pregunta guía para el evaluador
+¿En qué medida el autor consiguió escribir un texto coherente y cohesionado escrito en estilo académico?
+:::
+
+# Coherencia textual
+
+## ¿Qué significa?
+- Organización y estructura del trabajo
+	- A nivel de todo el texto
+	- Dentro de cada parte
+	- Dentro de cada párrafo
+Clave: consistencia
+
+## ¿Cómo se evalúa?
+
+# Cohesión textual
+
+## ¿Qué significa?
+Referentes y conectores lógicos
+
+- Interparrafal
+- Intraparrafal
+
+## ¿Cómo se evalúa?
+
+
+# Estilo académico
+
+## ¿Qué significa?
+- Uso de fuentes
+- Construcción de oraciones
+	- Claro vs ambiguo
+	- Conciso
+	- Consistencia en la terminología
+- Léxico
+- Ortografía, puntuación y tildes
+- Respeto del formato establecido en las indicaciones
+
+## ¿Cómo se evalúa?
+
+
+

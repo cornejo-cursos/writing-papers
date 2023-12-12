@@ -1,0 +1,22 @@
+---
+title: "Reporte"
+navbar: false
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+---
+
+# Presentación CCSS 11/2023
+
+[Abrir presentación](https://www.canva.com/design/DAF1eWlKblA/x5bvNFCs7_GpsrgxQO8zsQ/edit?utm_content=DAF1eWlKblA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Ver presentación pdf](/files/Reporte-CCSS-112023.pdf)
+
+# Entregables
+
+[Ver entregable 1 BRECHA](/files/Entregable1_brecha.pdf)
+
+[Ver entregable 2 TESIS](https://app.powerbi.com/view?r=eyJrIjoiYTk4OTIyMzctYTA2MC00Yzk4LWE0OTctMGM1OWJmYjUzMjcwIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
+
+[Ver entregable 3 GUÍAS](https://cornejo-roman.github.io/tesis-pucp/caso/)

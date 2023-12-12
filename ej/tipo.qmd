@@ -1,0 +1,91 @@
+---
+title: "Ejemplos por tipo de tesis"
+
+subtitle: "Librería de ejemplos analizados de tesis sobresalientes PUCP"
+date-format: DD/MM/YYYY
+date: "01/12/2023"
+
+bibliography: references.bib
+reference-location: margin
+
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+---
+# Tipos de tesis en la facultad de Ciencias Sociales PUCP
+
+## Estudio de caso (cualitativo)
+
+-   Frecuente en sociología y ciencia política
+-   [Ver Guía disponible](/caso/index.qmd)
+
+| Tesis                    | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas                                                                     |
+|--------------------------|-------------------|-----------------------------------------------|----------------|----------|---------------------------------------------------------------------------|
+| Arrunátegui (2020)[^1] <br> [Ver este ejemplo](/ej/arrunategui2020.qmd){.btn .btn-danger} | Sociología        | Teoría fundamentada, perspectiva etnográfica | Observación, entrevistas y documentos	   | Comprender   | educación, memoria, historia reciente, docentes, currículo escolar, experiencia, violencia política |
+| Otero (2022)[^2] <br> [Ver este ejemplo](/ej/otero2022.qmd) | Ciencia política   | *Process tracing*                              | Entrevistas, documentos | Explicar  | Reglamentación, alimentación saludable, advertencias publicitarias, etiquetado nutricional |
+
+[^1]: Entre el currículo y la memoria : tensiones y negociaciones en la enseñanza de la violencia política por parte de cuatro docentes de un colegio público y emblemático de Lima-Metropolitana
+[^2]: Entre la adopción y la implementación de una política pública: un estudio sobre el proceso de reglamentación de la Ley de Alimentación Saludable
+
+## Estudio comparado
+
+-   Frecuente en sociología y ciencia política
+
+| Tesis            | Especialidad       | Enfoque metodológico | Herramientas         | Objetivo    | Temas                                                       |
+|------------------|--------------------|-----------------------|-----------------------|-------------|-------------------------------------------------------------|
+| Aron (2019)[^11]  | Ciencia política   | Comparación de casos  | Entrevistas, documentos| Describir, caracterizar, comparar | migración venezolana, ideologías políticas, política interna, derechos humanos |
+| Retamozo (2018)[^12]| Ciencia política   | *Process tracing*       | Entrevistas, documentos| Explicar    | distribución de los gastos en los presupuestos regionales   |
+
+[^11]: ¿Cambia el gobierno, cambia la política? Un estudio comparado sobre las respuestas de Colombia, Perú y Ecuador frente a la migración venezolana en los años 2016-2018.
+[^12]: La asignación presupuestal a nivel regional: Un estudio comparado de tres gobiernos en la región Junín 2002-2014
+
+## Etnografía
+-   Frecuente en antropología y sociología
+
+| Tesis                | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+|----------------------|--------------------|------------------------|-------------------------------------------|-----------------|------------------------------------------------------------------------------|
+| Ejemplo 1            | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+| Ejemplo 2            | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+
+## Tesis cuantitativa no econométrica
+
+-   Frecuente en ciencia política y sociología
+-   Usa o contruye una base de datos cuantitativos
+-   Realiza análisis estadísticos
+-   No realiza análisis econométricos
+-   No emplea teorías, modelos y literatura de la economía
+-   No es el trabajo común de la especialidad de economía
+
+| Tesis                | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+|----------------------|--------------------|------------------------|-------------------------------------------|-----------------|------------------------------------------------------------------------------|
+| Alva (2019)[^21]     | Ciencia política   | Análisis estadístico   | Análisis de conglomerados (clusters)      | Identificar factores | Democracia directa, consulta popular de revocatoria, alcaldes, competitividad política, gestión municipal |
+| Castaman (2016)[^22] | Sociología          | Análisis estadístico   | Herramientas                              | Describir       | Cambios sociales y valores en la sociedad peruana, Encuesta Mundial de Valores |
+| Martínez (2022)[^23] | Ciencia política   | Análisis probabilístico| Regresión logística binomial              | Predecir        | PNP, contratación pública, riesgos de corrupción, indicadores y datos       |
+
+[^21]: ¿Pueblo chico, infierno grande¿: La Consulta Popular de Revocatoria a alcaldes distritales antes y después de la reforma de la Ley de Derecho de Participación y Control Ciudadanos
+[^22]: Cambios sociales y valores en la sociedad peruana 1996 - 2012: Análisis a partir de la Encuesta Mundial de Valores
+[^23]: ¿Banderas rojas o banderas verdes?: Análisis de datos para detectar riesgos de corrupción en las contrataciones públicas de la Policía Nacional del Perú (2019 - 2020)
+
+## Tesis cuantitativa econométrica
+
+-   Frecuente en la especialidad de economía
+-   Algunos no economistas emplean estos diseños, modelos o teorías de la economía^[Ver ejemplo 3 para ciencia política y ejemplo 4 para sociología.]
+
+
+| Tesis                | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+|----------------------|--------------------|------------------------|-------------------------------------------|-----------------|------------------------------------------------------------------------------|
+| Aguilar (2019)[^31] | Economía          | Enfoque metodológico   | Herramientas                              | Objetivo        | desarrollo económico local ,  capacidad estatal ,  gobiernos locales ,  externalidades  |
+| Ejemplo 1            | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+| Ejemplo 2            | Especialidad       | Enfoque metodológico   | Herramientas                              | Objetivo        | Temas                                                                        |
+ 
+[^31]: ¿Juntos o separados hacia el desarrollo?: Gobierno abierto y la construcción de capacidad estatal en los gobiernos locales del Perú, 2011-2014
+
+## Ensayo de investigación científica
+
+## Reporte profesional (no académico)
+
+## Otros
+

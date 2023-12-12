@@ -1,0 +1,35 @@
+---
+title: "1 Propuesta"
+---
+
+## ¿Por qué hacer una tesis tipo estudio de caso?
+
+El estudio a profundidad de un solo caso de estudio es el diseño metodológico más frecuente de las tesis de licenciatura de la facultad de Ciencias Sociales de la PUCP. En la versión estilizada del proceso de investigación, una investigación empieza por delimitar una pregunta de investigación, y solo entonces la investigadora se plantea el diseño más apropiado para responder su pregunta. Sin embargo, una tesis ---en cualquier nivel de estudio--- se distingue de otras investigaciones porque cumple un propósito de demostración, Una tesis demuestra la competencia del autor para conducir una investigación con un enfoque metodológico aceptado por la comunidad académica que otorga el grado académico (bachiller, magister o doctor). Por lo tanto, una preferencia metodológica por este diseño es un punto de partido legítimo para tu investigación.
+
+# Enfoque metodológico agnóstico {.unnumbered}
+Ante la rica diversidad de posturas y tradiciones en ciencias sociales, esta guía adopta deliberadamente una posición metodológicamente agnóstica. A diferencia del pluralismo metodológico, donde se aceptan diversas perspectivas, **mi agnosticismo demanda que cada investigación demuestre su rigurosidad a través de la minuciosa justificación de sus elecciones metodológicas**.
+
+Por lo tanto, mi propuesta de escritura es enfática en la necesidad de una justificación rigurosa en cada sección de la tesis. En un artículo académico, las limitaciones de espacio pueden dificultar la exposición detallada de nuestras elecciones. Sin embargo, una tesis ofrece el espacio suficiente para una evaluación exhaustiva y explícita de las decisiones metodológicas, garantizando la persuasión del lector o evaluador.
+
+## La racionalidad del estudio de caso
+
+### 1
+
+
+## 1.1
+
+# Propuesta
+
+Esta guía te orientará en la ***escritura*** de una tesis que estudie en profundidad un solo caso sin fines de comparación. El caso puede construirse con el estudio de a profundidad de individuos, comunidades, grupos, organizaciones, instituciones, eventos, políticas o procesos. A una investigación con este diseño se le llama ***estudio de caso*** y existe una creciente variedad de preferencias y recetas para planificar, ejecutar y evaluar dicha investigación. Sin embargo, las indicaciones para escribir el documento final se limitan a una sección denominada *writing up* en los manuales en inglés o *tips* que recopilan los consejos más útiles de investigadores experimentados. Lo que hace falta, es pasar de la recopilación de consejos a indicaciones flexibles pero integrales, que guíen la redacción de una tesis de este tipo desde el principio hasta el final. Una carencia asociada es la falta de criterios para evaluar la calidad de una tesis de este formato. Con esta guía lleno estos vacíos relacionados: proporciono instrucciones para redactar y evaluar una tesis completa basada en un estudio de caso (no comparativo).
+
+::: {.callout-tip icon="false"}
+## No es un libro de metodología
+
+Esta guía de ***escritura*** complementa tus cursos y libros de metodología, no los sustituye.
+:::
+
+Esta Guía no es un libro de metodología; en cambio, es una guía de escritura de la tesis. La tesis consiste en el manuscrito final para obtener el grado de Bachiller siguiendo las reglamentaciones de la facultad de Ciencias Sociales de la PUCP. Es decir, esta guía no sustituye a los cursos ni a los libros de metodología; más bien, los complementa.
+
+# ¿Por dónde empiezo?
+
+[La guía es un libro breve y específico a un tipo de tesis, y está formado por capítulos. Además, la guía está integrada dentro de un portal web o *hub* de recursos que está formado por secciones (ejemplos, recursos, reglamentos) más generales.]{.aside} La guía es minimalista y ofrece varias posibilidades de navegación. Te recomiendo empezar por el inicio para que te enteres ¿qué ofrece esta guía? y, en base a ello, puedas decidir si la lees en el orden que propongo o te diriges a la sección o capítulo de tu interés.

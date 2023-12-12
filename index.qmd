@@ -1,0 +1,48 @@
+---
+title: "Tesis PUCP - Mapa de navegación"
+subtitle: "Portal de recursos para la investigación científica y la escritura académica"
+details: |
+  Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica para la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: /files/img/PUCP-logo-alta-solobarco.png
+---
+
+::: home
+::: {.grid .course-details}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### <i class="bi bi-person-vcard"></i> Autor
+
+-   <i class="bi bi-person-fill"></i>   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
+-   <i class="bi bi-bank2"></i>   {{< var university.name >}}
+-   <i class="bi bi-envelope-fill"></i>   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Guías disponibles
+
+-   <i class="bi bi-calendar2-check"></i>   [Tesis estudio de caso](/caso/index.qmd)
+-   <i class="bi bi-check2-square"></i>   [Ensayo de investigación científica](/ensayo/index.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4 .contact-policy}
+### <i class="bi bi-map"></i>   Guías en construcción
+
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis estudio comparado
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa no econométrica
+-   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa econométrica
+-   <i class="bi bi-file-earmark-lock2"></i>   Reporte profesional (no académico)
+-   <i class="bi bi-file-earmark-lock2"></i>   Etnografía
+:::
+:::
+
+```{r echo=FALSE}
+knitr::include_graphics(here::here("files", "img", "ccss-biblioteca.jpg"), error = FALSE)
+```
+:::

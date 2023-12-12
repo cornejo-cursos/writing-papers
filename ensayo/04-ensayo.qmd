@@ -1,0 +1,18 @@
+---
+title: "Ejemplo calificado"
+bibliography: references.bib
+reference-location: margin
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```

@@ -1,0 +1,14 @@
+{
+  "hash": "e3f0f4ecc1f66d6b814ce2d2d59ecf7e",
+  "result": {
+    "markdown": "---\ntitle: \"Ejemplo calificado\"\nbibliography: references.bib\nreference-location: margin\nnumber-sections: true\nnumber-depth: 2\ncrossref:\n  chapters: true\n\nengine: knitr\n\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

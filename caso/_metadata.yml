@@ -1,0 +1,10 @@
+date-heading:
+  content: "Actualizado:"
+  class: "bg-content"
+date-format: "DD/MM/YYYY"
+
+format:
+  html:
+    template-partials:
+      - ../html/title-block.html
+

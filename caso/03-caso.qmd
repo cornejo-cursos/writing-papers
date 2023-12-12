@@ -1,0 +1,189 @@
+---
+title: "Calificación"
+bibliography: references.bib
+reference-location: margin
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+# Las normas
+
+## Criterios de calidad en Ciencias Sociales PUCP
+
+:::: {.justify}
+
+El 2022, la facultad aprobó los ["Criterios de calidad de trabajos conducentes a la obtención de título profesional y asignación de menciones Facultad de Ciencias Sociales 2022"](https://facultad.pucp.edu.pe/ciencias-sociales/wp-content/uploads/2022/07/InformacionEstudiantes-CriteriosCalidadTrabajosConducentesTitulacion-FCCSS.pdf#:~:text=Criterios%20m%C3%ADnimos%20de%20calidad%20para%20trabajos%20conducentes%20a,conclusiones%20y%20bibliograf%C3%ADa%20%28en%20formato%20APA%20m%C3%A1s%20reciente%29.).
+En ellos se reglamenta lo siguiente:
+
+::: callout-tip
+## Criterios mínimos de calidad
+
+1.  Que sea un trabajo original, inédito y no cometa plagio.
+2.  Que esté redactado en lenguaje académico y no tenga faltas de ortografía.
+3.  Que conste de las siguientes partes: introducción, capitulado o secciones, conclusiones y bibliografía (en formato APA más reciente).
+4.  Que presente y trabaje explícitamente: problema de investigación, justificación, problemática o discusión del tema, marco teórico o referencias teóricas, metodología, proceso de sistematización y análisis y conclusiones o reflexiones finales.
+5.  Que tenga coherencia entre todas las partes.
+6.  Que siga el formato indicado por la FCCSS.
+:::
+
+::: {.callout-note}
+## Menciones: sin mención, bien, muy bien, sobresaliente
+
+1.  Durante la sustentación de la tesis, los tres miembros del jurado pueden aprobar o desaprobar el trabajo por mayoría o por unanimidad.
+2.  Cuando la tesis se aprueba por unanimidad, los tres miembros del jurado calificar el trabajo con una mención (bien, muy bien, sobresaliente) o aprobarlo sin mención.
+:::
+
+# ¿Cómo evaluar un estudio de caso?
+
+## Los criterios de calificación
+Existe una [rúbrica de calificación](/resource/rubrica.qmd) que orienta la deliberación del jurado en la evaluación de cualquier tipo de trabajo.
+
+::::
+
+::: {.callout-warning icon="false" collapse="false"}
+## <i class="bi bi-binoculars"></i> Criterios de calificación
+
+[![Rúbrica](/files/img/rubrica.png)]{.content-hidden}
+
+| Criterio                                 | Bien                                                                                                                                                                                                                                      | Muy bien                                                                                                                                                                                                                                                               | Sobresaliente                                                                                                                                                                                                                                                                                                                                             |
+|-----------------|-----------------|-----------------|---------------------|
+| Planteamiento del problema              | Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques. | Plantea con claridad el tema de la investigación y justifica su relevancia. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques.                              | Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.                                                      |
+|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
+| Referentes teóricos                      | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación.                                                                                                                       | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación.                                                        | Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina. |
+|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
+| Datos y métodos                          | Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados.                                                                                                          | Emplea de forma adecuada herramientas y enfoques metodológicos de la disciplina y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos.                                                    | Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas detalladas que explican la construcción de sus datos.                                                                                                                               |
+|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
+| Presentación de hallazgos y conclusiones | Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos y sacando las conclusiones pertinentes.                                  | Presenta datos suficientes para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos apoyándose en la revisión de la literatura y el marco teórico y sacando las conclusiones pertinentes. | Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.          |
+|                                          |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                           |
+| Exposición oral                          | La exposición muestra un orden y estructura comprensibles, respetando el tiempo asignado y respondiendo adecuadamente las preguntas del jurado.                                                                                           | La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos. Respeta el tiempo asignado y responde adecuadamente las preguntas del jurado.                                                                                         | La exposición muestra un orden y estructura comprensibles, apoyándose en organizadores gráficos que facilitan la comprensión. Respeta el tiempo asignado y responde con solvencia las preguntas del jurado.                                                                                                                                               |
+:::
+
+
+## Un estudio de caso con calificación (mención) sobresaliente
+
+Esta sección descompone cada criterio[^1] de calificación en subcriterios que te permiten evaluar tu trabajo.
+
+[^1]: Planteamiento del problema, Referentes teóricos, Datos y métodos y Presentación de hallazgos y conclusiones.
+
+### Planteamiento del problema
+
+::: {.callout-tip collapse="true" icon="false"}
+## Desempeño esperado en una tesis sobresaliente
+<big> 
+Plantea con claridad el tema de la investigación y justifica su relevancia. El tema y enfoque son novedosos, complejos y/o originales. Hay coherencia entre las preguntas de investigación y la problemática planteada. Ubica la problemática en dialogo con otros autores, tendencias y/o enfoques.
+
+</big>
+:::
+
+Para evaluar el planteamiento de un problema de investigación, la rúbrica de la facultad emplea 4 subcriterios. 
+
+| Subcriterios                                                            |
+|----------------------------------------------------------------------------------------|
+| 1. Plantea con claridad el tema de la investigación y justifica su relevancia      |
+| 2. El tema y enfoque son novedosos, complejos y/o originales                       |
+| 3. Hay coherencia entre las preguntas de investigación y la problemática planteada |
+| 4. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques     |
+: Subcriterios de calificación del Planteamiento del problema y desarrollo de la problemática {#tbl-rubrica-problema}
+
+:::: {.justify}
+
+Un desempeño bueno o muy bueno requiere cumplir con los subcriterios 1, 3 y 4. El **subcriterio 2** distingue a un desempeño sobresaliente. Es decir, **un desempeño sobresaliente demanda que el tema y el enfoque sean novedosos, complejos o originales**. Una forma de presentar una novedad es escoger un tema inexplorado por la disciplina[^3]. Otra forma de lograrlo es encontrar un enfoque novedoso para un tema que ya ha sido explorado. La complejidad ---coherente y disciplinada--- contribuye al planteamiento de un problema de forma novedosa y original. Esa complejidad se puede alcanzar añadiendo ejes de análisis.
+
+[^3]: Ver tesis ejemplo Sanchez 2023, que logra comunicar novedad en el planteamiento de su problema.
+
+Por ejemplo, voy a evaluar el cumplimiento de estos subcriterios en la tesis de @arrunategui2020[^2]. La autora presentó su problema en diálogo con la literatura de América Latina y navegó la historia, la educación y la sociología sin extraviarse. Es decir, exploró historia del periodo, la educación sobre la memoria reciente y el análisis sociológico al respecto. Además, cumple con los otros criterios porque logró escribir esta travesía en un discurso fluido, coherente y agradable de leer. En otras palabras, la complejidad no le restó fluidez ni coherencia al texto. Por ello, cumple con el subcriterio 2.
+
+[^2]: Ver [aqui](/ej/arrunategui2020.qmd#análisis-de-la-tesis-por-capítulo) el planteamiento del problema.
+
+::::
+
+
+::: {.callout-warning collapse="false" icon="false"}
+## <i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+
+| Subcriterios de calificación de desempeño sobresaliente                | Sí cumple/<br>No cumple |
+|---------------------------------------------------|---------------------|
+| 1\. Plantea con claridad el tema de la investigación y justifica su relevancia      | Sí cumple               |
+| 2\. **El tema y enfoque son novedosos, complejos y/o originales**                       | Sí cumple               |
+| 3\. Hay coherencia entre las preguntas de investigación y la problemática planteada | Sí cumple               |
+| 4\. Ubica la problemática en diálogo con otros autores, tendencias y/o enfoques     | Sí cumple               |
+
+: Calificación de la sección *Planteamiento del Problema* de Arrunategui (2020) {#tbl-arrunategui2020-rubrica1}
+
+<big> Ver [aqui](/ej/arrunategui2020.qmd#análisis-de-la-tesis-por-capítulo) el planteamiento completo del problema. </big>
+
+:::
+
+
+
+
+### Referentes teóricos
+
+::: {.callout-tip collapse="true" icon="false"}
+## Desempeño esperado en una tesis sobresaliente
+<big> 
+Presenta de manera apropiada los conceptos y/o enfoques teóricos desde la disciplina que orientan su investigación, construyendo una discusión teórica propia para el abordaje de su problema de investigación, incorporando elementos novedosos como conceptos de otras disciplinas o estableciendo nuevos usos para conceptos propios de la disciplina.
+</big>
+:::
+
+### Datos y métodos
+
+::: {.callout-tip collapse="true" icon="false"}
+## Desempeño esperado en una tesis sobresaliente
+<big>
+Muestra un dominio sólido de las herramientas y enfoques metodológicos utilizados y da cuenta de la forma en que fueron aplicados. Presenta reflexiones metodológicas que dan cuenta de la construcción de sus datos
+</big>
+:::
+
+### Presentación de hallazgos y conclusiones
+
+::: {.callout-tip collapse="true" icon="false"}
+## Desempeño esperado en una tesis sobresaliente
+<big>
+Exhibe riqueza en los datos para responder a su pregunta de investigación, organizándolos de manera lógica y en relación con el problema planteado, analizándolos en diálogo con el marco conceptual y la revisión de literatura, explicitando aportes, como futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.
+</big>
+:::
+
+Para evaluar la presentación de hallazgos y conclusiones, la rúbrica de la facultad emplea 4 subcriterios. 
+
+| Subcriterios                                                           |
+|----------------------------------------------------------------------------------------|
+| 1. Exhibe riqueza en los datos para responder a su pregunta de investigación      |
+| 2. Organiza los datos de manera lógica y en relación con el problema planteado                       |
+| 3. Analiza los datos en diálogo con el marco conceptual y la revisión de literatura |
+| 4. Explicita aportes, futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.    |
+: Subcriterios de calificación de la presentación de hallazgos y conclusiones {#tbl-rubrica-hallazgos}
+
+:::: {.justify}
+Un desempeño bueno requiere cumplir los subcriterios 1 y 2. Un desempeño muy bueno requiere, cumplir los subcriterios 1, 2 y 3. Un desempeño sobresaliente demanda dos elementos adicionales. En primero lugar, un desempeño sobresaliente demanda un salto en la calidad y cantidad de los datos presentados. Mientras que un desempeño bueno y muy bueno demandan **presentar datos suficientes**, un desempeño sobresaliente demanda **exhibir riqueza en los datos** en el subcriterio 1. Además, un desempeño sobresaliente demanda cumplir con el subcriterio 4.
+::::
+
+Como ejemplo de una tesis que consigue un desempeño sobresaliente en *Presentación de hallazgos y conclusiones*, puedes revisar [aqui](/ej/otero2022.qmd) el resumen y análisis de los capítulos 5 y 6 de @otero2022[^4].
+
+::: {.callout-warning collapse="false" icon="false"}
+## <i class="bi bi-binoculars"></i> Aplicación de la rúbrica
+
+| Subcriterios de calificación de desempeño sobresaliente                  | Sí cumple/<br>No cumple |
+|---------------------------------------------------|---------------------|
+| 1\. Exhibe riqueza en los datos para responder a su pregunta de investigación      | Sí cumple               |
+| 2\. Organiza los datos de manera lógica y en relación con el problema planteado      | Sí cumple               |
+| 3\. Analiza los datos en diálogo con el marco conceptual y la revisión de literatura  | Sí cumple               |
+| 4\. Explicita aportes, futuras preguntas o líneas de investigación, nueva evidencia, recomendaciones, etc.               |Sí cumple               |
+
+: Calificación de la sección *Presentación de hallazgos y conclusiones* de Otero (2022) {#tbl-otero2022-rubrica1}
+
+<big> Ver [aqui](/ej/otero2022.qmd) el análisis completo de la tesis, que la autora realiza en los capítulos 5 y 6. </big>
+:::
+
+

@@ -1,0 +1,44 @@
+---
+title: "Ejemplos por especialidad"
+
+date-format: DD/MM/YYYY
+date: "01/12/2023"
+
+bibliography: references.bib
+reference-location: margin
+
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+---
+
+# Antropología
+
+| Tesis                    | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas                                                                     |
+|--------------------------|-------------------|-----------------------------------------------|----------------|----------|---------------------------------------------------------------------------|
+| Ejemplo (año)           | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas
+
+# Ciencia política
+
+| Tesis                    | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas                                                                     |
+|--------------------------|-------------------|-----------------------------------------------|----------------|----------|---------------------------------------------------------------------------|
+|  Otero (2022)[^2]        | Ciencia política   | **Estudio de caso** <br> *Process tracing*    | Entrevistas, documentos | Explicar  | Reglamentación, alimentación saludable, advertencias publicitarias, etiquetado nutricional |
+
+[^2]: [<big> Ver este ejemplo </big>](/ej/otero2022.qmd)
+
+# Economía
+
+| Tesis                    | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas                                                                     |
+|--------------------------|-------------------|-----------------------------------------------|----------------|----------|---------------------------------------------------------------------------|
+| Ejemplo (año)           | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas
+
+# Sociología
+
+| Tesis                    | Especialidad      | Enfoque metodológico                           | Herramientas   | Objetivo | Temas                                                                     |
+|--------------------------|-------------------|-----------------------------------------------|----------------|----------|---------------------------------------------------------------------------|
+| Arrunátegui (2020)[^1]     | Sociología        | **Estudio de caso** <br> Teoría fundamentada, perspectiva etnográfica | Herramientas   | Comprender   | educación, memoria, historia reciente, docentes, currículo escolar, experiencia, violencia política |
+
+[^1]: [<big> Ver este ejemplo </big>](/ej/arrunategui2020.qmd)

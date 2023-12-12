@@ -1,0 +1,197 @@
+---
+title: "Introducción"
+subtitle: "Intrucciones para escribir una introducción efectiva"
+date-format: DD/MM/YYYY
+date: "12/12/2023"
+
+bibliography: references.bib
+reference-location: margin
+
+number-sections: true
+number-depth: 2
+crossref:
+  chapters: true
+
+engine: knitr
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+Este capítulo presenta las instrucciones para escribir una introducción efectiva de un ensayo ensayo académico argumentativo en ciencias sociales. Para facilitar esta tarea, te voy a explicar los seis propósitos que cumple una introducción, cómo se consigue cumplir cada propósito, y te voy presentar los desafíos y errores comunes que se cometen cuando se intenta cumplirlos.
+:::
+
+Los 6 propósitos principales de la introducción son:
+
+1. Captar la atención del lector
+2. Proveer contexto y trasfondo 
+3. Delimitar el alcance
+4. Establecer relevancia
+5. Presentar el objetivo
+6. Bosquejar la estructura
+
+-------------------------
+
+# Captar la atención del lector
+
+::: callout-tip
+## ¿Cómo se consigue?  
+- Presenta una estadística impactante sobre el tema
+- Plantea una pregunta retórica, intrigante o provocativa
+- Presenta una paradoja llamativa
+- Describe un caso de estudio concreto 
+- Relata una escena o anécdota relevante
+- Parte de un enigma de investigación
+:::
+
+Ejemplo bien logrado
+"La televisión tiene una influencia cultural y social penetrante que es sobrecogedora. El estadounidense promedio ve más de 30 horas de televisión a la semana". (Kubey & Csikszentmihalyi, 2002)  
+
+
+:::{.callout-important}
+## Desafíos y errores comunes
+- Presentar información irrelevante
+- Presentar datos sin impacto
+- Presentar anécdotas desconectadas del tema
+- Escribir un inicio lento o vago que no engancha al lector
+- Extender demasiado el inicio
+:::
+
+
+------------------------
+
+# Tres propósitos para delimitar el ensayo: {.unnumbered}
+
+En su conjunto, los siguientes tres propósitos cumplen el propósito de delimitar el ensayo. Debes cumplir estos propósitos de manera secuencial, siguiendo un proceso de delimitación: un tema general hacia la **tesis** ^[Un ensayo se escribe para defender una tesis. [Ver más sobre la tesis en la Propuesta de esta Guía](/ensayo/index.qmd)] específica que defenderás en el ensayo. La @fig-delimitar ilustra el proceso de delimitación su vínculo con los propósitos 2, 3 y 4 que debes cumplir al escribir una introducción efectiva.
+
+
+Presentar tema (general) 	--> (delimitar) 			--> tesis (específica) 
+  (contextualizar)		(en tiempo, espacio, disciplina)	(pregunta / objetivos / argumento / hipótesis)
+
+::: {#fig-delimitar}  
+```{mermaid}
+flowchart LR
+  A[Presentar tema general]	--> B{delimitar} --> C[tesis específica]
+  D[Propósito 2] --> E[Propósito 3] --> F[Propósito 4]
+  G(Contextualizar) --> H(Delimitar alcance) --> I(Presentar tesis)
+```
+
+Delimitación del tema de un ensayo
+:::
+
+# Proveer contexto y trasfondo
+
+::: callout-tip
+## ¿Cómo se consigue?
+- Define los términos y los conceptos clave
+- Identifica las teorías seminales
+- Resume las investigaciones previas  
+- Señala los debates vigentes en una disciplina delimitada
+- Ubica la discusión en un marco temporal y geográfico específico
+:::
+
+Ejemplo bien logrado
+"La relación entre el uso de drogas y el delito ha ocupado un lugar destacado en la investigación criminológica durante más de medio siglo desde la publicación en 1944 de la Sociological Review de Bonger..." (Bennett & Holloway, 2009)
+
+:::{.callout-important}
+## Desafíos  y errores comunes
+- Ofrecer antecedentes (investigaciones, teorías, debates) no relevantes
+- Realizar definiciones confusas
+- Realizar definiciones muy técnicas
+- Presentar información relevante sin vincularla (tema con el contexto)
+- Omitir la información o fuentes más relevantes de la disciplina
+:::
+
+# Delimitar el alcance
+
+::: callout-tip
+## ¿Cómo se consigue?
+- Enfócate en un periodo de tiempo específico
+- Acota el texto a una región geográfica determinada
+- Acota la discusión a un subgrupo de población
+- Aborda un aspecto específico de un tema más amplio
+- Acota la discusión a una o más disciplinas delimitadas
+:::
+
+Ejemplo bien logrado
+"Este artículo se centra en los libros de texto de historia municipales publicados en Rio Grande do Sul desde la década de 1940..." (Zanini, 2019)
+
+:::{.callout-important}
+## Desafíos  y errores comunes
+- No establecer límites precisos
+- Dejar áreas temáticas demasiado amplias sin enfocar
+- Generar expectativas de cobertura total de un asunto complejo
+- No acotar el texto a una o más disciplinas delimitadas
+:::
+
+# Presentar el objetivo: defender la tesis
+
+::: justify
+Recuerda que el objetivo de un ensayo académico argumentativo es defender una tesis. Por tanto, el objetivo de tu ensayo es defender tu tesis y debes escribirla de manera directa. En ocasiones, puedes plantear preguntas, objetivos, argumentos o hipótesis. Tienes varias posibilidades, pero todos los caminos te llevan a la tesis. Si planteas una pregunta, la respuesta es la tesis. Si plantea un objetivo, el principal es defender la tesis. Si presentas argumentos, el propósito es sustentar la tesis. Por último, si planteas una hipótesis, tu hipótesis es tu tesis.
+:::
+
+::: callout-tip
+## ¿Cómo se consigue? 
+- Expresa de forma concisa la tesis principal o idea organizadora del ensayo
+- Enuncia preguntas, objetivos, argumentos o hipótesis.
+:::
+
+Ejemplo bien logrado
+"Este artículo sostiene que el mejor enfoque para mitigar los daños causados por los huracanes es..." (Peacock, 2003)  
+
+:::{.callout-important}
+## Desafíos  y errores comunes  
+- Dificultar al lector la identificación de la tesis que defiende el ensayo
+- Expresar la tesis de forma ambigua ---o tener más de una tesis---
+- Demostrar confusión en el uso de la terminología: tesis (postura o proposición), pregunta, objetivo, argumento, hipótesis
+:::
+
+-----------------------
+
+# Establecer relevancia  
+
+::: callout-tip
+## ¿Cómo se consigue?
+- Señala las implicaciones del tema para políticas públicas
+- Destaca cómo ayuda a resolver problemas sociales apremiantes
+- Explica cómo permite avanzar un campo académico
+- Enfatiza el impacto en comunidades bien identificadas  
+- Ubica tu propuesta en un área de interés creciente, pero poco estudiado o comprendida
+:::
+
+Ejemplo bien logrado 
+"Comprender la compleja relación entre el gobierno, la vivienda y los ciudadanos es fundamental dado el lugar central que la vivienda ocupa tanto en la política gubernamental como en la vida cotidiana". (Jacobs & Manzi, 2013)
+
+:::{.callout-important}
+## Desafíos  y errores comunes
+- Justificar con opinión personal en lugar de evidencia concreta
+- No dimensionar las implicaciones reales o potenciales para políticas, sociedad o academia
+:::
+
+----------------------
+
+# Bosquejar la estructura
+- Estructura lógica: postura y argumentos principales
+- Estructura textual: cómo está organizado el texto, en qué orden desarrollarás las ideas
+
+::: callout-tip
+## ¿Cómo se consigue?
+- Presenta los argumentos principales que defenderán la tesis
+- Comunica cualquier criterio que se haya empleado para organizar el ensayo (cronológico, temático, especial, disciplinar, entre otros)
+- Enumera las secciones o partes del ensayo en el orden lógico planeado
+- Comunica objetivos específicos de alguna sección o parte del ensayo
+:::
+
+Ejemplo bien logrado
+"Comienzo con la historia de las relaciones raciales y los patrones de asentamiento en Hartford... Luego delineo las prácticas de préstamos que expandieron la vivienda pero agravaron la segregación..." (Glasser, 2020)
+
+:::{.callout-important}
+## Desafíos  y errores comunes
+- Incluir demasiados puntos sin orden claro
+- No delimitar la organización temática de cada sección
+- Presentar un esquema que no refleja desarrollo de la versión final del texto
+:::
