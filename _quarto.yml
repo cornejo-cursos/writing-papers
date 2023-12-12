@@ -10,8 +10,8 @@ csl: files/bib/apa.csl
 
 website:
   title: "Guías de escritura"
-  site-url: "https://econpucp.github.io/"
-  page-navigation: true 
+  site-url: "https://cornejo-cesar.github.io/guias-pucp/"
+  page-navigation: true
   favicon: "/files/img/pucp-favicon-512.png"
 
   navbar: 
