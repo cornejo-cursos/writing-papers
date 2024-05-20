@@ -21,6 +21,7 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 -   <i class="bi bi-linkedin"></i>   [{{< var instructor.name >}}](/https://www.linkedin.com/in/cesar-cornejo-roman/)
 -   <i class="bi bi-bank2"></i>   {{< var university.name >}}
 -   <i class="bi bi-envelope-fill"></i>   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+-   test
 
 :::
 
