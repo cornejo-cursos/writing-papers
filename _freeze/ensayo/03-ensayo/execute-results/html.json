@@ -1,8 +1,11 @@
 {
-  "hash": "d4b5ca4385154e337b85b6502a9b8c24",
+  "hash": "bc85c467fd254eef98a1284264196743",
   "result": {
+    "engine": "knitr",
     "markdown": "---\ntitle: \"Conclusión\"\nsubtitle: \"Intrucciones para escribir una conclusión contundente\"\ndate-format: DD/MM/YYYY\ndate: \"12/12/2023\"\n\nbibliography: references.bib\nreference-location: margin\n\nnumber-sections: true\nnumber-depth: 2\ncrossref:\n  chapters: true\n\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n::: justify\nLos 3 propósitos principales de la conclusión en un ensayo académico argumentativo en ciencias sociales son:\n\n1. Reiterar la tesis del ensayo\n2. Resumir los argumentos principales del ensayo\n3. Proponer implicaciones o recomendaciones\n\nPara lograr estos propósitos, la conclusión debe ser clara, concisa y bien organizada. Los argumentos deben ser resumidos de manera efectiva, y la tesis debe ser reiterada de manera clara y contundente. La conclusión también puede incluir implicaciones o recomendaciones, pero estas deben estar bien fundamentadas en los argumentos del ensayo.\n:::\n\n# Reiterar la tesis del ensayo\n\n::: callout-tip\n## ¿Cómo se consigue?\n- Reformula la tesis del ensayo de una manera clara y concisa\n- Enfatiza la importancia de la tesis\n:::\n\n# Resumir los argumentos principales del ensayo\n\n::: callout-tip\n## ¿Cómo se consigue?\nResume los argumentos principales del ensayo en uno a dos párrafos\n:::\n\n# Proponer implicaciones o recomendaciones\n\n::: callout-tip\n## ¿Cómo se consigue?  \n- Deriva las implicaciones de la tesis o de los argumentos del ensayo\n- Plantea recomendaciones académicas o políticas\n- Plantea acciones\n:::\n",
-    "supporting": [],
+    "supporting": [
+      "03-ensayo_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

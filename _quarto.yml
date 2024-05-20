@@ -9,8 +9,8 @@ execute:
 csl: files/bib/apa.csl
 
 website:
-  title: "Guías de escritura"
-  site-url: "https://cornejo-cesar.github.io/guias-pucp/"
+  title: "Cursos de Cesar Cornejo"
+  site-url: "https://cornejo-cursos.github.io/writing-papers/"
   page-navigation: true
   favicon: "/files/img/pucp-favicon-512.png"
 
@@ -19,10 +19,10 @@ website:
     background: primary
     foreground: light
     right:
-      - text: "Ensayo científico"
+      - text: "Sílabo"
         file: ensayo/index.qmd
         icon: book-half
-      - text: "Estudio de caso"
+      - text: "Contenido"
         file: caso/index.qmd
         icon: book-half
       - text: "Ejemplos"
@@ -31,35 +31,19 @@ website:
       - text: "Recursos"
         file: resource/index.qmd
         icon: bookshelf
-      - text: "Reglamentos"
-        file: reglamentos/index.qmd
-        icon: file-earmark-pdf
 
   sidebar:
 
-    - title: "Ensayo científico"
+    - title: "Sílabo"
       style: "docked"
       search: false
       background: dark
       contents:
-        - text: "Propuesta"
-          file: ensayo/index.qmd
+        - text: "Sumilla"
+          file: silabo/index.qmd
           icon: map
-        - section: "Estructura"
-          contents:
-            - ensayo/01-ensayo.qmd
-            - ensayo/02-ensayo.qmd
-            - ensayo/03-ensayo.qmd
 
-        - section: "Ejemplo"
-          contents:
-            - ej/cornejo2022.qmd
-
-        - section: "Calificación"
-          contents:
-            - resource/rubrica-ensayo.qmd
-
-    - title: "Estudio de caso"
+    - title: "Contenido"
       style: "docked"
       search: false
       background: dark
@@ -67,20 +51,7 @@ website:
         - text: "Propuesta"
           file: caso/index.qmd
           icon: map
-        - section: "Estructura"
-          contents:
-            - caso/01-caso.qmd
-            - caso/02-caso.qmd
 
-        - section: "Ejemplos analizados"
-          contents:
-            - ej/arrunategui2020.qmd
-            - ej/otero2022.qmd
-
-        - section: "Calificación"
-          contents:
-            - caso/03-caso.qmd
-            
     - title: "Ejemplos"
       contents:
             - ej/tipo.qmd
@@ -92,9 +63,6 @@ website:
             - resource/rubrica.qmd
             - reglamentos/index.qmd
 
-    - title: "Reglamentos"
-      contents:
-            - reglamentos/index.qmd
 
   page-footer:
     left: |
@@ -102,8 +70,6 @@ website:
       All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-    right: |
-      Proyecto elaborado para la [facultad de Ciencias Sociales de la PUCP](https://facultad.pucp.edu.pe/ciencias-sociales/)
 
 format:
   html:

@@ -1,1 +1,1 @@
-Sitemap: https://cornejo-cesar.github.io/guias-pucp/sitemap.xml
+Sitemap: https://cornejo-cursos.github.io/writing-papers/sitemap.xml

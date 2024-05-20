@@ -1,8 +1,8 @@
 ---
-title: "Tesis PUCP - Mapa de navegación"
-subtitle: "Portal de recursos para la investigación científica y la escritura académica"
+title: "Taller de escritura de artículos de investigación"
+subtitle: "Materiales del curso 2024-1"
 details: |
-  Esta página funciona como un portal o *hub* de recursos para la investigación científica y la escritura académica para la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (PUCP).
+   Curso dictado para el Centro de Investigaciones Sociológicas, Económicas, Políticas y Antropológicas CISEPA PUCP
 sidebar: false
 toc: false
 page-layout: full
@@ -18,28 +18,28 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### <i class="bi bi-person-vcard"></i> Autor
 
--   <i class="bi bi-person-fill"></i>   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
+-   <i class="bi bi-linkedin"></i>   [{{< var instructor.name >}}](/https://www.linkedin.com/in/cesar-cornejo-roman/)
 -   <i class="bi bi-bank2"></i>   {{< var university.name >}}
 -   <i class="bi bi-envelope-fill"></i>   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
 
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Guías disponibles
+### Fechas y horarios
 
--   <i class="bi bi-check2-square"></i>   [Tesis estudio de caso](/caso/index.qmd)
--   <i class="bi bi-check2-square"></i>   [Ensayo de investigación científica](/ensayo/index.qmd)
+-   <i class="bi bi-bricks"></i> 10 sesiones
+-   <i class="bi bi-calendar-event-fill"></i>   Lunes, miércoles y viernes
+-   <i class="bi bi-clock-fill"></i>   6:45 p.m.- 9:30 p.m.
+
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-### <i class="bi bi-map"></i>   Guías en construcción
+### <i class="bi bi-map"></i>   Detalles del curso
 
--   <i class="bi bi-file-earmark-lock2"></i>   Tesis estudio comparado
--   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa no econométrica
--   <i class="bi bi-file-earmark-lock2"></i>   Tesis cuantitativa econométrica
--   <i class="bi bi-file-earmark-lock2"></i>   Tesis tipo etnografía
--   <i class="bi bi-file-earmark-lock2"></i>   Reporte profesional (no académico)
--   <i class="bi bi-file-earmark-lock2"></i>   *Policy brief*
+-   <i class="bi bi-bank2"></i>   [CISEPA](/https://cisepa.pucp.edu.pe)
+-   <i class="bi bi-box-arrow-up-right"></i> . [Detalles oficiales del curso](/https://cisepa.pucp.edu.pe/formacion-continua/escuela-de-investigadores/taller-en-elaboracion-de-proyectos-y-articulos-de-investigacion-2023-01/)
+-   <i class="bi bi-box-arrow-up-right"></i> . [Paideia (intranet)](/https://paideia.pucp.edu.pe/programas/course/view.php?id=22837)
+
 :::
 :::
 
