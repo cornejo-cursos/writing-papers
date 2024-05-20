@@ -34,9 +34,9 @@ course-logo: /files/img/PUCP-logo-alta-solobarco.png
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-### <i class="bi bi-map"></i>   Detalles del curso
+### <i class="bi bi-bank2"></i>   Detalles del curso
 
--   <i class="bi bi-bank2"></i>   [CISEPA](/https://cisepa.pucp.edu.pe)
+-   <i class="bi bi-box-arrow-up-right"></i>   Dictado para [CISEPA](/https://cisepa.pucp.edu.pe)
 -   <i class="bi bi-box-arrow-up-right"></i> . [Detalles oficiales del curso](/https://cisepa.pucp.edu.pe/formacion-continua/escuela-de-investigadores/taller-en-elaboracion-de-proyectos-y-articulos-de-investigacion-2023-01/)
 -   <i class="bi bi-box-arrow-up-right"></i> . [Paideia (intranet)](/https://paideia.pucp.edu.pe/programas/course/view.php?id=22837)
 
