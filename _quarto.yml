@@ -67,9 +67,9 @@ website:
   page-footer:
     left: |
       Content <i class="bi bi-cc-circle"></i> {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
-      All content licensed under a {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
       [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Proyecto elaborado para la [facultad de Ciencias Sociales de la PUCP](https://facultad.pucp.edu.pe/ciencias-sociales/)
 
 format:
   html:
