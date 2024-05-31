@@ -19,51 +19,16 @@ website:
     background: primary
     foreground: light
     right:
-      - text: "Sílabo"
-        file: ensayo/index.qmd
-        icon: book-half
-      - text: "Contenido"
-        file: caso/index.qmd
-        icon: book-half
-      - text: "Ejemplos"
+      - text: "Ejemplos de tesis"
         href: ej/tipo.qmd
+        icon: list-check
+      - text: "Estudio de caso 1"
+        file: ej/arrunategui2020.qmd
         icon: binoculars
-      - text: "Recursos"
-        file: resource/index.qmd
-        icon: bookshelf
-
-  sidebar:
-
-    - title: "Sílabo"
-      style: "docked"
-      search: false
-      background: dark
-      contents:
-        - text: "Sumilla"
-          file: silabo/index.qmd
-          icon: map
-
-    - title: "Contenido"
-      style: "docked"
-      search: false
-      background: dark
-      contents:
-        - text: "Propuesta"
-          file: caso/index.qmd
-          icon: map
-
-    - title: "Ejemplos"
-      contents:
-            - ej/tipo.qmd
-            - ej/especialidad.qmd
-
-    - title: "Recursos"
-      contents:
-            - resource/index.qmd
-            - resource/rubrica.qmd
-            - reglamentos/index.qmd
-
-
+      - text: "Estudio de caso 2"
+        href: ej/otero2022.qmd
+        icon: binoculars
+        
   page-footer:
     left: |
       Contenido <i class="bi bi-cc-circle"></i> {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
